@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 INPUT_DIR = "output"            
 OUTPUT_DIR = "enriched_texts"   
-GEMINI_API_KEY = "AIzaSyBBP4wNii-Vf9R_MRJ3O_uOhUZtM1qMUQI"
+GEMINI_API_KEY = "your_Api"
 MODEL_NAME = "gemini-2.5-flash"
 
 SYSTEM_PROMPT = """
