@@ -1,0 +1,64 @@
+Computer Organization of Architecture (KCS-302)
+Assignment on UNIT-5 (Input-Output Organization)
+S. Assignment CO’s /
+No. Bloom’s Level
+1 What do you mean by vector interrupt? Explain. (CO5 / K2 Understanding)
+(2020-21)
+2 Write short note on RISC.
+(CO3 / K2 Understanding)
+(2017-18, 2020-21)
+3 Explain the term cycle stealing.
+(CO5 / K2 Understanding)
+(2018-19, 2020-21)
+4 Differentiate between Daisy chaining and
+centralized parallel arbitration. (CO5 / K2 Understanding)
+(2018-19, 2021-22)
+5 What is the transfer rate of an eight-track magnetic
+tape whose speed is 120 inches per second and
+(CO5 / K3 Applying)
+whose density is 1600 bits per inch?
+(2021-22)
+6 What is I/O control method?
+(CO5 / K1 Remembering)
+(2019-20)
+7 What is Bus Arbitration?
+(CO5 / K2 Understanding)
+(2019-20)
+8 a. Discuss the design of typical input and output
+interface.
+(CO5 / K2 Understanding)
+b. What are the interrupt? How they are handled?
+(2019-20)
+9 Explain the difference between vectored and non-
+vectored interrupt with example of each. (CO5 / K2 Understanding)
+(2018-19)
+10 Explain all phases of instruction cycle.
+(CO5 / K2 Understanding)
+(2018-19)
+11 Why read and write lines in DMA are bidirectional?
+(CO5 / K2 Understanding)
+(2018-19)
+12 Write down the difference between isolated I/O and
+memory mapped I/O. Also discuss the advantages
+(CO5 / K2 Understanding)
+and disadvantages of isolated I/O and memory
+mapped I/O. (2019-20)
+COA, Assignment on UNIT-5, Sanjay Goswami, Department of CSE, UCER-Prayagraj Page 113 Draw and explain the block diagram of typical
+DMA controller.
+Describe how DMA is used to transfer the data from (CO5 / K2 Understanding)
+peripherals?
+(2018-19, 2019-20, 2020-21)
+14 What do you mean by asynchronous data transfer?
+Explain strobe control and hand shaking
+(CO5 / K2 Understanding)
+mechanism.
+(2020-21, 2021-22)
+15 Discuss the different modes of data transfer.
+(CO5 / K1 Remembering)
+(2020-21)
+16 Explain how the computer buses can be used to
+communicate with memory and I/O. Also draw the
+(CO5 / K2 Understanding)
+block diagram for CPU-IOP communication.
+(2021-22)
+COA, Assignment on UNIT-5, Sanjay Goswami, Department of CSE, UCER-Prayagraj Page 2

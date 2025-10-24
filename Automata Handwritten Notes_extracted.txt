@@ -1,0 +1,5921 @@
+THEORY OF
+AuTOMATA
+
+a
+FoRMAL LANGUAGES
+
+ee: Eee
+<BvER™Y
+
+pet hind
+cu eset
+po von
+
+Gmpvre TRANSITION - FUNCTION ( Pe)
+
+ome cra ae
+
+8) FH 4 < 0% m
+
+on do fa each characks 06%
+ae do Ke min(mal Gta)
+
+3 ACS ese
+vo untl Ped aes
+ad Sto. Nee a
+
+&- Mohsin $
+} RT ht > Px id asditinat
+4 sho
+Lonite adBibal A utefl Rodel Sox marry
+Yepodad Krda, oF RIN ond hw: dome ieporiut kind ae —
+@- Sho Sor BAYLEY gna checking He. behavior of digit Cage
+Go Te “lericat araier” of oegita mealies
+= To find occurence St urorss yee ee
+Gp veut Slow of at Age A Was Ne
+divtvet States - Aith aX Comm protecalaor protocala for
+“gece JaxSrange ob Wy Syirnatigin,
+
+=A al
+
+‘Fate ater.
+
+y ee ae
+~e_» »
+
+uh.
+
+ofa ete: lato Momnembert oe adleyaut
+
+Aishry. Sire Mane are only 4
+hidost on
+
+% The porpne
+foidion of a ystems
+Finite p-3t tes, edie Sabet
+Be Semeiibeud rive System mutt be utigned
+eel Siereinoo” Ont impotaut andl Sregiet
+what ib vob. :
+
+— ~
+
+Sess Ah sty. cor weed ) ke
+
+E Bagenme 4 a-b and ¢ pees rege
+
+wl ces pe tanh ot toe Bin Te
+
+sed DX €, is tte Ating Consist 1D,
+
+Thus \el-0- “t ny ot
+prec A prefix of a ShME ws any rca
+Aeadhing symbols od Het ating:
+
+surfer A aefte 8 my number ¢f traiting SYMEAT
+ALPHABET i- Pm alphabet qa a Fintie: wet ah Sumbobk A
+fowmal (mgt) pa ser ale od ef. ambos Femme)
+one alphabet: The empty set bm and me ner Consisting
+of Yue empty ahr” Led ane Longuagt:
+
+> The ser of pabinchromas ¢ Steet hot read 4oegame.
+
+ge fond F backward) oun He — ayphaber Lot we me
+he
+La
+
+white Languages fe tetod, tod, €- 0nd
+
+fe yele, dewsled GUE) Comtists fa |
+ek ef vortias yand a set Oh pane, Rosas
+“dys ie- Veh 1284.59 armel E =Jen.m] nba
+
+Sm 435+
+
+a
+
+Pdivected raph o¢ (ala gmph) , Consists of a Finite See ee
+
+Vowias Vana a, aebet ordered pain of verte” “Cable
+ants, denoted .al. yw from Vv, bp w
+
+ee amo
+: le
+Se ae eee
+B “path in a dijrabin iia. Sequence of Merced
+
+Viva Vy Ryd > Suck tat vp Vpay ie am ate?
+for “tach Lighs +
+
+Vv 2
+
++ 1
+Predecaer— Succusy of V
+of.0
+
+real peaaten CO 8 diqrape with the follow Proporta
+
+toe! vuitex, Called Hu, woot “tra hat hp
+
+De Thene
+redecastons anal From biel \thene Aa pat to hoy
+wouter
+
+2 — Bach Vertex otmerthan tHe root as exadPey Ove
+
+precleceator: .
+succes of each Wortex ane orderest “frome
+
+©)- The
+Left"
+Ceutence
+Nowe fink
+4
+Acide \.
+Te) (eat) 7
+yab
+‘Cum phrase)
+
+cadjedivey now phrase
+\ f=
+qk” Cadieetiny << Noon phrase
+
+brain noon
+\
+
+for
+a wextex i called  SOn- and he
+called He Pathan TF thew % &
+to fey Va, them Mi is nate 4
+is Saidty be.
+
+pp Baccano
+;
+
+preaetsssee is
+path Som wntex Vi
+soba hae gmesatet SNE eb YO
+a descendant ede Mi *
+
+3 wl wih no 498 fs Called fhe tea
+
+Sa ponds CPA) 18 Ue ccimplet mative do rege
+ea
+pies Tue Finite atpoweits Of ESE ig 1am abs
+ue nat ha, Fine elem + BE hag ‘
+a are oe fom one Atte tp a) we
+via or qbateads wodal Se hee bat
+ae ~
+
+dt“ weshane’ a Atatemand pen) ctbout
+itive integer» The principle of mathematical
+ie rat poy follows fom —
+
+Plo) wetrwe — basis
+
+ete
+Sy
+fou nyt — rattan by
+
+». Penevi impliee PO) ~~
+
+e- faa. nopor Paaok By Contain
+Bit TT | lee forall nego 0, 1 A
+i odd. Alan n ig odd
+
+wr igoddda
+
+porte
+
+pur n=O, p(o)=0
+
+fow ie nat naw aio
+peveneplary Ge) 22 (2K)
+ze
+
+¢
+
+pos -poey eR
+yn @neDug whe
+nn @nel!
+
+2. (4ome even i
+
+nha is ate evens
+s0, aince nit even n&
+ilu, is tu product on
+wi dd 8 Eiey
+
+binary Melation VO MAE of pale
+
+Relation + A ‘
+Feat campmnat oh ads fale deaten fm) SE
+q-empenent —1e Chote
+
+cates) re! domatn a FESO"
+
+Paggis toa ser Called? We Mangers <frt
+PRR 6. . aa,
+(c.  a #
+
+aRa yr aes er.
+Tanotantve tf aRa’ is False 7 Of |
+Tropitve f aRb ana bRe imple &
+
+“ey -  Skmmetic ff a RB impuia ERO
+ARD tmpliea thal? bRa tA
+
+S- Asemmeteie mt
+Ex: The elation (<) onte Zet of mheqou ry
+drantitive be Caute a<b and BKC implies acc «
+asynmetic cand Thence, frreflexive be case A¢b
+fale
+
+qt
+tmpuies boa
+
+Equverence RELATION f-
+
+Pp Relator (R). trot is
+jeansitive, 1A sold te be “hao
+
+Teaportaut
+
+we Plats xemmet ne sand
+
+valance Helodion
+
+> pm equivalence relation Q om ast
+
+nts idatqeint ron emey ‘equivalnte
+
+partitiou  S
+ciniere ice GE SIU Se - - FP Where fox each
+ted Aa ied
+
+pe 9; tks # .
+
+DH for BaaK a ob tere bab mby yes
+3)-" for each’ Qin, Stand b ie Seek ag
+& ove, equdlatautio| ckassat ym tumbar cx i
+
+7
+bi inftetes ap
+
+EX™ \Conpruence module an Inez om. is an epuuivatemte
+
+felittien
+7 i
+oY We max Waite om
+
+ane m tn numibetle
+
+> The equlvalene chester . of
+
+f =. 0,m,2---- 9
+
+fone mD Lerma, amas FZ
+
+3
+
+=, met amt a-l
+
+Definition of an Aiden t , automdou jadehined as a syste
+white endyy, materials ema informachion ase trenfermed., janet
+
+FWA fore bos forngin gms fimction Usitreut direct Paniei
+°F ans Ex “dutpinatic achine tools» quitsmatic: backing m qehye
+and. automatic. blot, puiiciigg i
+em cutomateu meary | didscte
+
+Ma mow absent (ay dow im foe era tee
+
+Eire AUTOMATA
+Enh AUT
+
+A Fintte automata conic sfafinite set ef stats ond aset
+Arortitions fiom one sinte-te arate, tale tat occu on,
+fnpur symbols chosen from an alphabet T+
+We ferdly dente a fintte casted a §-tuple
+(@,=2340f) where g na Frntter” eam, tates
+
+A Fite pt alphabet
+
+4ncQ isthe jnitfal state
+
+FQ it te set of final siete
+
+5 te the eiton Friction mapping fo (gee 8]
+te s(4a) Ba ainte Lx each 9 and input Sxmbela.
+Bxertes vouttion: TEE (8 ).:
+The ererdes. fovinen fmm GG opptled to Sie
+anda aan | natura tran a symbole
+$: qxz*— 8
+et |
+femal we dufine § a» Flew sxnbol, PA can't
+4 an tiP SX .
+v- 8@0 7Y 7 Cae reReekt .
+x- $400) = sGooD See
+
+eo,
+by Fe Se Oe for owe E™ aie Automaton.
+> sre tae] ECON Yk
+
+= 8(%UD
+[22 C ip
+
+(oT iniaeemeionel ato
+=e
+
+ont
+geo - af RTE
+nes CONTROL fe
+
+A axing x 8 ealddo be accaptedby a Anite automaton
+M2(QE590F) tf BUex)= P for aoe. pin F-
+
+The Language accepted M , desiqnated yew, fate
+2
+set (Eaters we Fd
+
+itt A the Bet
+vt it it
+tea puglenteh
+=> AAanguage is
+
+accepted)’ by game Finite Eerite qutomeden
+Example: even Nook of & 11% nies
+SeS_O
+Hol ar
+vw \ os Wo
+"|v va
+bo ia
+
+The Fa is —=M=(QE8F) Where Q= ¢%91,%2,435
+= Q0.13
+F= £43
+
+Puppte W> L4elol 1% inp op m
+
+S(4s.119101) = 8 (cao, r19t0). 1)
+
+> 8(8(8(vst181),0) 1)
+
+> 8(8( 88 cv, AA).4), 34) 1)
+
+DEES CH B%, &(%e,4),4), the), )
+7 65 E Quy), 1), B) Jada)
+4 6 (5 (we 4), 0) 4)
+
+2 Mens). g
+
+28s) > Me Related
+
+Let w= 00
+8 (4io,00) = 5 (8.400), 0)
+> 6(%Wy0)
+> % cepted
+Fraletan o A
+
+=e Ws 200s In LUN) + We Candayqiat Lom) isthe
+Sof ANing HK an enn hovet Oo and even no-of 1S
+
+Non-DETERMINUTIC FINITE AUTOMATA »
+
+A FA that allow -eeno,one ox more transitions fom a
+Alate On tte <ame input -
+
+on
+
+let we O46 oot
+
+"
+4, eh cake 3 shy 24 ye tans
+
+Sos
+SS we ah vs wy
+’ 2
+> Digi Conpulers @re Completely disrhuinisnies Vy
+ae AMeiie ate st ang tine fe uniquely %e
+
+Predictable Gomis input ond due Provect-stele- iene
+a fan om
+
+formally we deste tot gq ura isa 5 tupletes,6.40,6)
+Whee 954 4F have We dame meaning at for a DPA,
+
+bet 6184 map fom | QxE ae]
+te [S.q) = fr] peo ond 94
+
+fo Semple ECG, 4) = L Yeh
+SV, 0) = L4o.%3}
+| > The fimction 8 canbe extended tp a function 6
+mabpiny anal Lacie | Bequentes Of input
+Oy falleos:— a
+a
+e- sao, ole) .
+~ (ya) = eat tn 64,0), P ish 8 (H.9)
+Ones aa CPI eee ANE srt Peswal
+KS saw= 60a) ave inp embod
+
+Whae Pez
+we =*
+
+3 pn arcing wel) HF (yaw) Conteha a stele RF.
+Sale) Contnina anlage TS
+
+Consider jue pawns 2xemple ~
+Bae, L004) = LY Hay
+Hen = € Lin)
+Noe dkarininc NOME WH OtODL
+
+Many detewinisic obits equine twat one make a choice at seme
+
+Sake faye eco games lawing epi Frecpiatly te bat
+ei Frew, but Can be found Wing an exhousive search
+vot set Feveral mates us pocilie , we choese
+eae OPED uMbILIE becomescleay Miler o¢ not Leal
+ua bia te). tas aie hott clecizion point explore
+EQUIALENCE OF DEAL ant NE
+
+> a eT ao by a NFA
+Theorermi- Let L be the Language accepted by
+
+MuQns Suferfu) «Then ftune axists a DPA Myo Z, 55-436)
+ering
+
+NFA-te-DFA :-
+
+A) Create a graph G with vactex £403 aa initial atecte. ng
+8) - Repeat ttre frllpsing ters unbl ne mgre edge are missing.
+- Take any vertex £4,435 --- Yn} ay that thas ro
+curing aly Fev some ex - Compute Bi. qd-- Vx}.0)
+
+6 (RGi4i. --4n3,0)= Siu Big U --..Us@x.2)
+
+= L9b.Gm. == Gn}
+
+b-Creete 6 vertex $e Gp Labeled (9)4,4m, any oft
+
+dots not already exist.
+
+ON PAA ee tale From {4.45 Ae} 8 OLY 45}
+Ord label tt sottha
+
+D- Eutry state of Gp whore Labi) contahu any 446 Fy
+ty) YAsuhfied a a final verdee:
+
+4) - TE Py Vacten ©, We WERE Lo0} in Gx Wwelle Made
+
+O Fined wortay -
+
+D A nomolekawiuiatic all gests Wat Con make +e best choice would
+be able to-sehe the patie witout bekhackig bata
+
+Tro uns, OM 8, inate nandeF ne oF AOUet
+em .
+Finite auctomste with €-movel ?
+ee aN
+
+Exlerd our wade) ofte wen i ‘
+input € e te mclucle jeansition om the enaphy
+
+a :
+Q Q
+= gy ¢ _@)
+
+A NPA-WitA €-moves ib a quinkaple (4,554, 40,F) uit
+
+SN Components as before | but 8 tee 4rancition. -Cinchan, maps
+
+2 The infetion tk Hat SHpA) WiLL Contict op @ slaty
+GE we teat thon is a 4rantition Lalotled a fom BPs
+Where a ih citar € oc symbel ine.
+D> Rrtend fue feantition fumehin Sto a funchon S trot maps
+A) cur expactaton i& Hat § (9,0) Ul he
+al stu p Auch Hat cue Can go fiom Vto P ale
+& path tabeled w, pohaps Including’ edu taleeled €-
+E-closre : We We €-Closinre (q) te erste freser
+OH alt yrtiou — such frat frene fe o pate from qptop
+Labeled €
+E-chosure (Yo) = $0.1, 429
+att Pp & acer of set. TH {ue closure (P)
+
+ry
+
+Now & define a4 fotleos—
+p- Bae) = € = Chawre( 4)
+2)- fon wine ant A€E-
+
+(80,94)
+dene AG
+
+3 8) = 6
+=e"
+Baga) = e-closwre A)
+Whune f= Sp] Fer tome n ie Fay, p is mr Seok
+newabcanseothnd > extend Sande > Sete of shetty
+D- E(R.= VU. sce
+vie
+4 Bl Rw= Vas gee)
+
+= The Jangunte aceaped by m= (4 LOAF)
+OE
+
+Lays £01 eUew) Contes
+
+$ t4e,0) = C-chosune (6 Braet) 0
+
+t . Gey) a -closwul4e)
+> c-closure (8 @oU423, o))
+
+enclose (ecwen) us (ve)
+
+elasina (aed U4)
+
+caches (2004)
+
+usar)
+
+>
+=
+2
+2
+
+Wt
+ies Raa as (accepted)
+
+Js G-clesune (eG. 2,2) ey
+
+2 c-clowune| 5 (ew), 4)
+2 echo (2913)
+
+a $923
+
+E904
+
+accepted» ig
+
+Equivalence oF NFA with and without e- move
+
+Theorem ;- TF Lis accepted by on NEA with @- teaniition,
+Yeon Lib actebted bY an NFA wet €-tranaitims
+Profi- Let M=(QES.%0F) be an NEA. ohh €-Kansitt
+won comicr M=(Q2-65%,F') | Where
+
+Tf e-chosure C40) Cortes qajetect F,
+
+ottowtse,
+
+and 6'(9,0) fh S(q,a) for qeg and até
+We with toshad by inducton on |x| that
+8 (40.0) =8 Laon)»
+Basti jaja. Teen Wis a Sembat a and
+5 (a) = 8 (%0,4).
+Prouetion ayph + Lek = WO Foe symbol a thE » Tite
+
+5' (40,000) = 6°L6' (40,2) , a)
+
+eye inductive hypobasts,, 5'(00.0) = B L980) +
+het 8 (4,0) = Pi Wa must shod trot
+6° (Pa) = $ (qvewa). Bac :
+Lh fie e sa W x) (wa)
+
+‘ =U
+sich) vine vine
+
+u 84a) = 8 (eo)
+veh
+> [8 (aa)
+
+F(40wa) |
+1 pe
+j-th < Fo le
+= 7
+
+procedure z- wea with e-movas te wilted cmos f—
+
+Wy- compute C-chosme(V) ¥ YER. TF |-Clesurera)
+contatu do state fom Fc prnabttee) than make
+ft fina} Stato
+
+Compute 6(%a) © qyeQ AEE
+
+auc hat: Ge, ghee Gia) BO (5814.4)
+
+wm Vi We-- VER
+
+2°
+
+B)— Show fue transition fom vy & Vi VZV
+lalecleal a
+4)- Repent step 2 $F BRU tem arti
+we Conve Sin Paom_ NER
+@-MovEs INTO DEA
+solusion:- edauaeh st e-chana(o) a4
+: ) 5(P.a)= €-ceswe( 6(P.9))
+
+Where Pe [4i,45--- dx
+ve siti
+
+e-Ussune (YW)
+ace
+
+e-Crestxe (42)
+pe
+b
+
+llega lata al Le {de inet
+
+ab
+& b © h,
+ya
+oe
+
+Erample-2j- Find a DPA Had Kecoqnise tHe cet of lh
+gaat H
+atings on E=La,/b¥ Stating with pec predix ab-
+
+ab
+
+i used Baad. ccouge aA AMG? on ta
+
+a chi 4
+exceriame  Cratalning toe dosti 00
+
+Le fawat wefasg)
+
+Brample-5;- Prove tat Lis wequlan toon Fis alte
+a
+
+Solucion;- Aa We knew that ff a banquage Te regular tue
+Yuu axtits o pFA OM , Aud thot L=tu-
+
+ie Lee
+
+for exomple © L= fawa: wetoes 3
+
+}
+Ae we hove Aw in cramplel Lenguage L+lawe voesoad
+iS pegular - We have Aho Haat (2 4 seular or
+
+Commuting 0 DEA foc IF
+
+Erample-6:- For Z=La.b} Conskuct pra’ that acupr the eb
+
+Consisting ef — 2
+
+@- a abings with exacdhy one a
+
+w= ght ating wlth atleast ene a
+
+O- al abinge with ho mone Hom frre a's
+
+4)— Qh Abing: with atleast ove a and exactly two bis.
+
+= all the sting withaxactly” too als and mose Hon,
++wo b's:
+Quaton: ghao tat ff we chan
+making Va bs — lait oe: fq
+f Atate and macy 6. 4p.
+
+Final deta te Metutting df accepts yi
+
+Solution | Oren
+
+by We aves hfe. tae
+
+The Language accepted
+estos wt te
+
+L= fawa + toE gang” } fe
+a ON 0 BT Oe change by
+making 3 non frat 9 ede da, O48 fTnab Se
+qen—
+
+Ths dfa accepts all abel gt excepts
+Wrote ators with a amd ends witha.
+
+aces pied by fore qhove dfa
+
+fusion; Shoo that He M=(@,E,590,F) ond
+A=(Q26.40.9-F) au too apes ten
+
+oy = LOY.
+
+POEs me ue Know tat reset Q-F Contebnt
+ou gi that ane th Q but not inf le
+3
+es ged ort yt FI
+oie ode pen
+
+‘ jn Lum)
+ry aleeiga * ie gente © Fina ce
+
+Faw) SF
+é eee,
+—— sup 6 (aoe) & Aare =
+LORS, tt OM) The
+fe a aig palovgt ap tun 5
+fe Hf a ate :
+i pe a dFateny
+is accep
+8]
+ts dom ue ged —
+afas for Te folks t
+Che
+we Laeyy
+rea 2,7 3t :
+‘a uated f
+
+FE
+
+gabye
+Me eee
+Lrg
+
+Beaeseaananannnnaannea2nannnes
+{olution y= Ls Lab iw Hs
+
+Golution y= Lb Lab iw Hs ure Bay
+
+Question + Find fas foe tae Ballina Language ert
+
+Le {vt [vol mead 3 = a}
+
+(@-
+
+Leger lel wood 40h
+w-
+jo- Es for Nal) wods7 4} :
+iA La wt Ne tw) weds 7 petw) Wood 8
+had
+
+_ hele) mods 705
+ww)
+ey- b +L (Nat
+
+Jurod 3627 4
+Va, 4 2rel))
+> L afar )
+
+Solution f-
+W- . ts Oe ae?
+ab +6)
+ox
+
+i ic Sen “9
+= ae
+
+ae ee
+Osi oes fut nate) tod arf
+
+fae Kp any No n med 324 ane 2+
+
+b
+&
+
+@- L= twine Uo ay rb(Wd) Wrod 8 3
+
+00)) aod 39°F
+
+Le for (nate)
+
+breeding Jo wodutan nite madtc—
+
+(mn) wed P= ™ prod p— hmod P
+fo
+
+(natwy— rato) wo 3
+
+> paw) mods — ne(w) wredd
+D> nalw) wod3 7 bw(a) wodd
+
+2%
+
+D fhe dfa Fe tale Langer
+
+ts ike alae dfa °7
+
+Lefiot (nat +2n4(B)) wrod ade ¥
+
+©-
+raw) Medd +3 mb (2) ments
+<a
+
+Queen: Fea ofa fox te follaaieg Languages
+to Condaie no suns of Langte eas Hear eth
+
+we, Rete
+
+asa (ot evbyy juin eR as Aaa Jungte sett
+‘ foo a fared
+
+lo- ID tere atest “foo Hunt of
+: ON of dengte Boeeg.
+
+(B= Ls fos tne ane cmaclly Hoorn ~ ost
+of Jovgts 3 F
+
+7
+
+Solution s- a) -
+
+fo
+
+ne ny
+a a a 6b Dy U@ Be=
+28D-OLD > “8
+
+26
+Miniwitation ot finite Accemal (_ KLP-miSHRA)
+
+Thos get Ue equivalest if bots 8(Gh,x) and §(qa.a)
+Oe final state ae sot-—-boll of flim Qs hom final
+
+au xexx-
+
+8 Tere Steals V4 Va Wak. puivalewt (ky,0) Hf both
+SEnA & OMI) Ve final cet ox otnthon Fira
+Atate fe all Abings of lenge KO fete. 1 cp
+
+tee final stats are 0. equivaleact & any 4.00 nom
+Fina) gictu are O- equuivalect-
+Posdae— - contuct To fe 0- equivaleact
+Tozer oe
+1 et caete} navatiralcatates
+4etet fiudl ctaber
+
+ae (Gouviteuction oF Bay Ber Kk) + let QS beany idles
+
+WR TE Yard Gp ane ie GM they (kt) equiva
+
+H PVAD Sa) ard 8U00,0) ak. & at
+
+‘ Ky 2q.ui valak—foy
+
+ed aCe. Titik 0% OK 4 Aude Per civided
+vd (KH) - equivalence cla sees “alent
+
+qi IR te get all euandso? By ; i
+
+PO Neate Eee 5 ee Unb Rye Tot).
+
+4- The winimited pea wlll Centate Hew ate ee)
+He tux np. of guivaleut ayes.
+
+ex—
+
+{ Gab, Soong
+
+&. Minimige the Sitwng nea. | ek Minima tt Flaca eg
+° zs
+
+7% | 4 4s
+
+Ul ve
+
+Vo.
+Ya | Ves
+
+% [ts.<
+ef 4a |
+[7a
+
+4 GF
+
+[%
+Myr f {va § Wath Xt tcl taney
+ar r L non- final deter
+Fiat of all divide Ye sila Wwe iene ete a
+
+Fe $933 on a f
+Q= £91,989, 95,96,44f P2
+
+Ow,
+
+cD)
+i
+
+stayey= Ve
+5 (6,0) = % SCI)
+
+Mark on (‘n, 44) depends
+Ontue mark on(4aty)
+
+“3
+
+@
+
+(ass) (4044) (45.95) one unmarked cals.
+"NS
+y
+
+Tadiatingtd shoble pale We Com Merge tan jie
+singe a,
+
+“bp u~
+
+2e
+
+Wpuerton:- Construct a Aft foy Huu Auning aa
+Jw. Eve 00 yh Blloved irom echinte Lay x A:
+
+(be ALL Shing Conbeiningy OD tout notooo
+
+(O- The LP usest sxmboat iter fem the tuple weost One
+Bie Every sebetding og four sembolt has atvcert foo Of |
+= AU ating of Lengths Fiver mors fn Wluich, “He
+fect Sinbad from. tua paige and i Atpretfor |
+ue lefrmat Sxmbat
+
+[No= $ {v2 TE
+
+*-©@)
+Oe refieangaeh (eat,
+
+(rs¥sh § 0247
+Nae {gag {vent
+{vsasy, 12%
+
+x fox each @e=
+
+rangirion Vit vs
+ghould be inte dame
+
+nop
+Pog
+
+e, ih checks laelan Mee giver Me Binany no. [8 even ocnat? 4
+
+Benge mitch ano
+ava. enc divisibleby ge
+
+qe |
+
+vate conte Cadive AI
+
+O86
+
+3
+Question choo that fre Language L~fa™ sn 7 omg
+{a regular
+
+Goliition: Conant a cbfa Fett set ie
+— ealtien > a #
+
+a
+
+Quutin. Shaotaat tt langage Lafahs IS *
+multiple tree, but not a mulitple of FF a
+
+plan
+
+REGULAR EXPRESSION .
+
+The Language accapied by Fite automata ave caiity datbed
+bc Alpe Empress culties purgular svepreation «
+
+bet % be an alplabets The regular exprtstion Over Ze
+and Ha Acts Hey deste ame defined seansivety os fells: =
+
+Y= O16 0 paplan apiettion ane devote he empty ef
+
+D-H prrgqules eeprettion and deviste Lu xet SeF
+B)- For each a eZ gt te
+Te @ tha pegulan oxprestion and derste tue
+
+4)- Th ¥ ands au pugular sypasion denoting due eet
+RSS rupert, Haan (146),(19, (WH) ane
+enpepion thot douste tie set RUS RS R® deta
+
+Ripe The txpeaiin (g44)* denotes all AIM of Oo ond ts
+
+=7 (OF Oo (OH)¥ denster all ateings with oblast foo
+eee
+
+> bot Pa ae G1, beginning alte Lond nab
+sat avin too conseutine O'S.
+
+2 (orvtoll deste all strings of 0! and ts ‘an
+&
+Testes fox Regula ovpsassion [nigebraic lao fe BEL
++ b+ R oR” Swrics Rey
+(Raye
+B- CReRE=R~ be: ek RiheRtc GARR
+4 ee ad HE o-(payt p= PLAPE
+S~ RRR’ N= (reyes (prge)*= (oar)
+b- RERR= RK R-(Pto R= PREOR an
+
+< RUA) =RE+ RQ
+% Twp Mequlen anpruscion Pord@ qu equivalent if p 6g Hebreradt
+
+et)
+
+EQuvMence of FAS and REGoaR  xpressins
+
+cae
+© -Hansitignt
+
+=> Me Languages accepted by finite automata ove precaaly te
+Lanquate deuoted by repulan aap resins
+
+Ws pocedin pore tat for every Haqular sxpmicion there (an
+equivales eA with €- fantitioy
+
+Theorem: let + bea requlay -expretiion « Then pure exists an
+NFA site c- transitions tat accepts Ley) +
+
+peoh © oferatest)
+
+ee sei. 5
+
+( og
+ex.
+
+mutt be €,b oy a Fev dome
+
+~ © ~©@
+
+(ne #) Gey
+
+CMe ev wore operates)
+feime frat Hu thusren % Aue for Regular exppreriont
+coe opts, Pat's
+
+id
+
+Cad ;-
+isc aes
+
+Hehehe - Both
+
+aE foe ho,
+1 oftrates .
+
+Let 4
+Me =(QLEL Ba, til} [suds tua
+Lum) = Lon)
+
+M2= (Q2,22,63,42, tag} Adthet
+Lunz)= LU) .
+
+Qi Nbr
+Let % be a ned Mittal Stte $f @ neo
+Final xjete + Congheuct M1 = (6,¥2up2 84 oaiaal
+Who 8 i tefiked > 3
+he 8we2= Lh)
+tiy- 609) = 59,0) for ye Qr Lh Fez Uts
+Lara) =u @ig) frac. oe Sox Oe # ELE
+
+- §(Fi€) = Se(fr,e) = Cfo?
+
+© 13 dived as liad 6—
+p- Sgal= 8 (A) Fee
+aye Qi- F5
+See aesiotet
+Byth 2 bY
+te mete ee wf) bee a aoe zs
+FA Auch Wat’ Lin) = LLB) NOW Conttuct ae tULed
+aaFh , Ma (Qiufve.fos, E16, de, Lh3} 2 Sched Sah
+B(voe)= BCLE)= {oUF}
+5 (aa) =5(%.4) Fy
+48 Gy 95j 08 ED
+é
+
+Examples = Comasteuct an
+
+anprutio 0 1* +4.
+eedarh
+
+OOH) Con +(otyy* Conti!)
+S—3t4 charac oom wilted FA
+.
+& (ait a. (ony OD
+
+sa4- ANE ending withoo 3 (0 t1Fo0 & exact! Hine Se
+
+ae dads vite aR ands4 i
+bavi Riat bat ba®
+© ig immediately
+
+|
+“ip
+
+prvetaat
+
+3=@)—- ak an (om
+e+ ppt Pr: citi”
+(y: ile
+ae Ree ‘ae “7
+hing ©) THER Ge, wax 11 448 Sis
+RASS CHS LSA =
+ae = —+ B- a(nses
+
+Yue
+@ Jews {4,49 74, - |
+ens akc a
+
+[Resear
+
+ee ee
+
+DPA fo REGULAR E*pRELION
+(opens THEOREM)
+
+Theorem
+PE Doth accepted ty. cs FA, eR Lae
+by a Hogar exprution +
+Prete Let L be ueset accepted OX fue DEA
+
+me (U9 24n},E,6, UPD
+Ler gis = tetee wet of all ating? gat mabe He
+pa) grantee eng ore Tae Ute vs
+wttend gots ty ank. atte numbeud
+thigh. toa Ke
+* pong Hough 2 ete we mean both serteringy
+heaving * ‘
+= Siace fuse
+Ri niesact ol nent teat phe ye W-
+
+i)
+
+fh no Ainte numbed quater than me
+
+K 1 SKF Kl Kl
+RHE Rix (Rew )* Ren U Ri
+if ies
+
+ae cgay severe Wi 3
+wp ted
+
+Ris
+‘ Layscvia)= ag} Uy
+
+2a os
+uum): U. &ai
+Win
+
+Erm
+Piampie 9
+
+Ke 0 Kat Kel
+le = (oo as
+fe \o ° (00)
+wea: Ng Ste
+Salo 0) o(00)*
+iatols corer (o0)*
+3S Lee iroty ise
+na |? ® NC A
+“3 Sth o+l (ON) (00)*
+. $,. ie e+ (ot OrL A
+¥
+
+3
+
+We [red Rin Uh Riz,, seems > ee
+Fina} States
+
+*
+)
+
+a
+Re= Ra (Ras Rea U Riz
+
+= OTL(On) oA)" (OH) Co0)* +0(00)"
+
+re OFA (tor!) OF L)*
+
+> Pry olf — a unique La |, biarliie ema
+% ho . "
+a
+DeRnition ;—
+pp ees pty AE Called faistinguichable FF
+Sr (ho) EF imps &* (4,2) EF
+
+and
+
+x
+Aes € &) for awe Ey
+pegs se ime Ee
+
+ee
+
+a ee ee
+aE EPR eS ha =
+Te ont tee ’
+
+= Bane od Sr CQ R, OF vicevania”
+Ppeewiic Stts a,ond p om said p be p
+BPinguighable -
+f— mark =
+
+Remove all unreachable ctectes -
+
+2D— Galil al peice} sey Pq): TF, PE
+o Viewsa wax fur paly (eG) 94
+
+e and VEF
+cxistinguibale
+30- Rep ye FolLaring step untih Wo previously
+unmarked pais Qu maured. fer alt pabs (P-4) and
+a GER Comptes cpal=p SU V=% -Lf
+The pair (Bide) i Marked ay aidinguithable
+(Pa) as distinguishable.
+Wa
+
+D> THe pwoeedute maw divides tue ctrty into
+exprivalout Class +
+
+Prowdure —yudluce :- Glen a df M=(9,2,540,F)
+as Costuet oO redieed dfa = (6,5, 6-40-fo)
+Wut prudue pure $ qrerate equivaluct
+hah» 6 GSR Ti VaR
+
+create a. stale abled CL Rd eM
+
+)- fa wah position pute of Mee
+5 (ana) = UP
+ype YIEMS ond HE MMMn: Tal
+jun add Boa rule
+
+a)= An
+
+5
+
+6
+dy te mie atete Ty ja hat ee
+irtudas Te 0
+
+Eva aes of alk jue
+
+fancy Hot VIER
+
+. ety phowlabd cata
+
+‘3
+94 43 4H
+
+Sas i
+Ba= me SN
+
+(aah 5(4a.02 4a 5(t8))
+indistinguidble (1,43)
+
+eM cael ys
+B,)= 41 24: rinquishle
+sway tee
+
+pea
+
+SW, 0)= Sa ding
+
+5 (M0) V2
+
+Exonple
+
+Minimise the fering DPA—
+
+Tel
+x
+x
+
+x
+
+i
+
+vl x lxla
+
+- ole x [xX
+
+vx late [x [xT x]
+UW Usd ve We OM
+
+GM Oe not peacable atte fo pune We
+FePS 42, Ve, from Seed teansihim oLia gram
+
+4s) BZ
+
+| ZAM
+Z|
+lA |x
+wl x |X
+
+tan Minimfzeq DPA
+foluction - Stale yg ik Umtugehaabe( inaccessible) . Remave
+Ake yy From te piven dfa
+
+al att (Ga4q) are fndistinguuisloable
+Paracal 42)» ¢
+
+w \
+
+vx lx [xl _X |
+
+2 UW
+
+gp te _— fe be-
+
+or G+
+
+47
+Language sastodiona ult jugulan  Cxprding |
+
+Th po regular enpreation Then tee Language eunoslte
+
+with tue ; 5
+anprestion ¥ ik costed bey Lit) ap
+
+MW Aefined ot Faltaos:—
+
+Y- b na pequlan ket expreiion derioting Huser £9}
+D- € TA anaular exprestion denotigle
+
+$)- for FOL, A a pegubin gypreation devoting Eat
+VE grr ot tH He pune
+
+4)- LOnen)= LOW) U Lin)
+
+B)— LUwnr)= Lew «Lom
+
+)- Lunt) = (Louf
+
+Exp: Clue Hae guqulay -2nprasion foctie falleming
+Language Eabtee E-foty ;
+Le {or w haa atteat om pair of tmuccutie Toros F |
+
+Gektion
+Bury shag in Lo) Mutt contain 00 tone
+but What Core before and What Commer re
+OFA Compe! anleiteary. Aa ar ibrar |
+SO) can te axccted by Coarse |
+folution 4A— \
+
+Ba Wsay-o+1) |
+
+be
+Requan 2xprestion to eA
+Quaint find an, nfo foc ju ftmoiug ban voqular
+yp A= abtaa + bbak ab
+
+Q-h= \ate* b Las bb)*
+
+B-h= aa* pabaret
+
+Wy-h= ab (arab (a+aa)
+g)-r= ebab)* + (aao* ab)
+= n= [laat)* byt
+
+solution 4 :- oe
+¢ ie
+26 ae
+
+be nz(( aat)* 6) ws
+
+ety
+_ )
+
+See cee, ace
+
+Exenple Dati a DRA fr a baquage Gees
+accept al attings ower z= (049, lute decimal
+egrivalon ce te multple of 5.
+
+pS
+
+THE- MYHILL =NERODE, THEO REM
+
+eee * Lawqunge [we shalt any tap any toe
+andl fs :
+poe fe at, Yee Aame class if for all postible
+eid "Bote
+net eto te, Sard evar I er boa
+> Tee Language | cbividy tue aet
+aehings int of all possible
+
+into Separate (mutually pete) baaem
+D- eA requer te
+
+number af clare are
+fn
+
+s)- TE te no. of clams L Creater jarfinite, then
+bm% Kegs:
+
+pfs tat (REA 40F) be
+
+wheter a fieal Ante ov nat Can be Pusu git of as create |
+a pea cod clas ct shag Too Ait can bee
+id to boi belay totus peup of ater vy if rey bate
+
+a DEA. Back shite to M
+
+spate a pete from Stat siete tay ever Tue pats
+an ified - Thus We Can 04 spat every Sbte |
+ae Pe
+Ten mgt ON CE* ane fate Ge Qup teen for
+aU ahingt J, eftlun bots Kz and yz CAR aceapted
+ragected ~
+
+maliime foc ome xX ex*, Ut Ry Ke
+PXIER Whine R 4g Helatton —
+ARX HE |
+@ 6. =5 CX)
+Gree = 4) = SOA) = Sex)
+
+Reflerine
+Q- 5 Yan) = PHO
+
+spur ogni) = lor
+3)— tf Scant) BORN) ard S40) = OVE) tren
+5U42;2) .
+
+Eaqutalenle
+“uelatian «
+
+Regulm axpuision to finite automata,
+
+Suna on) * (oon) Cort
+
+Sep tie cate an intial ata yo aM a frat stot Sf
+J Mate a hancitim fiom Ye Of Labeled The
+
+given papular -anpretion: 1e-
+
+coe (ot
+
+te? we bY
+
+oA
+
+J—  Btiming fur Concetrhation
+
+indrodcing nerd vertices ay Ve 1e7
+q
+
+) Con)
+Rie meee aks
+
+sos
+Etiminat “fe gerarione
+
+new Arete he -
+
+Ps jah dave oy
+
+GL
+
+Go
+
+out
+
+sa
+
+colatench'™
+
+g- chiminite + operation eet
+
+G)- Eliminate tre e-moved and we get
+
++P
+Example:— Conatuct NA fee tee Fallooiny xequln
+he 4p Cot of,
+
+Solution '-
+fo Cott) owt RD
+ee
+
+to
+
+ARDEN'S THEDREM 3
+Ler P wd Q be HO Suqulor ecpredsion eu E TF
+
+Pdes Lat Contain € ttun jie follacing <4 th Re
+
+(R= reel las unique dolutiens fear
+
+—— ge
+(R=8r*
+pat pear ineqv@ # Wis. g Qoletion—
+etic gs aHar*)P
+= a+ Qh
+aaterP) — by Ta
+apt Heme TA nto tha R=QPe
+ation of ~ R=Q LRP
+
+Replace Roy O+KF
+
+To pave uniqueness —
+QHRE= Vr (A+R) P
+qr ge rer
+= Rr Get RPE
+= QeALH (GTR)
+2 hr QRr pre RPE
+= Qt OPkOP SE. MAURY Bae ee
+) yr RN
+s
+
+Basen nnnannnnnnonenne
+Re (St Pepe: . Te .
+: +P) FRE foe ty,0
+Suppose R aatichy Heequatn RaQ tRP, Hee a,
+
+feistia tua eq —
+gales Pepe-- - 4 P') HRP
+
+i. ton. fe
+
+3 bet wo be a atiayte engin £ inte acto &
+As We Kind frat dear wot conden 2, fue 60
+elas tote oT Q Cer Pt PF 4- - Pi), because W
+A. Raat ROP SH at Re (De as cate
+
+Biel ot Legis Les Huan
+
+wet (ext fP4-- 4) and hance
+
+TH) > This weang tratt
+
+W belongs tr te
+
+to Qe
+Bromples— Re e+ LECH qgncon tt)
+fi
+Rees H(A |
+> pe é |
+*
+ot (assy) ex pare Tok
+AN + oor) 004i )tor oT
+*)* (er joe) = CEL (OF et)
+o(h™ R')
+root) = i
+S (mse . (rook!) 3+ 0091 =o
+Ga wi
+4 sé
+
+Prpticetion of andes -Hwosene
+
+Th 6 uted 42 finatia qe recognized by Q
+JransBifon. s¥chen-( FA). i
+
+The fellmatiy attumptiaw ae Unrade Aegarclg, que
+
+transition s\esleme—
+
+4) — Tr dowtict Cadalns €- boots
+By HE og omer aes
+
+Tas vets PY, Vani 4 Vas
+
+-Vi au ne Pepreteds toe set ef abtngs 1
+acceptedioy tur Sete aver fusigh We isa ¢
+Final Atte 4
+B- tty devsty fue pe pepresenting tee seh ef |
+Lab? of 2174 fom W te Wis oe When there 1g g
+vouch edge, aij=p > So- ¢
+
+4
+
+Me Viet + V2 kaye - + Undg Fe ‘
+4
+
+Voz Widpe Vota + + Vda 4
+4
+
+4
+
+4
+
+vne Vitin + Vo.han 4 - = - -+V don ‘
+
+& Hepeakdy oping dubsstitationt amt Awlens-fhe pres
+WR Can -axpucre? Vid tn toums OF ij 4»
+
+DT ,
+Wis o> Nowa Vis if quan he final sete
+\ b
+
+&
+
+We
+
+We Nar Wb re
+
+Pe sate ee
+
+Yas Nar
+
+= ¥2% any
+
+v3
+
+qa mh A WU
+
+Ge = Uae Wb+ V224
+
+qnat 42 (b+ 14)
+
+Se
+
+TS ss
+Wie yan Brate+ our es ae
+&
+& vas
+N= Sicoaet ~aaa)*b) ce
+Hente
+UN >[a ar acerca)” |
+|
+we (evater seed F a(eraal™ |
+pepe fea, apes
+| Yas [anate aeee Fa btaa
+i %
+Sramyies-
+
+adobe Brte
+
+r= War”
+
+fo Mie”
+
+Yys Vaasa bt GWA?)
+
+Lnah, atete =
+
+: f
+Solue frs q, lerCani qy ate
+
+Wa Grbt V9 re
+
+= UAke VY ba +E
+
+=) AL abet ha) rE
+‘ eee
+
+&
+Ertamples. find ti psqilon inpreseton
+fur folly hcl
+
+Gohetion
+ee gye HOF Vad WOFE
+
+ne Ve irda t
+aa ¥20
+Y= vat
+Solve for Iy (Pnat hele) —
+Peat saee, —— O
+Ya= Wh ret +4ab
+Dd Lt GelL +014)
+
+Yon Wehr
+
+We WOOO + VOLO +E
+= hoe WL (LEO UH Loos O10) + €
+I Wor Ls oN) gee re
+
+= (osstLrony* (on
+
+o+i( roll oye (00 aa ]
+
+2c utvaleactte
+
+3 ULEVt+ Y20AL
+
+| WO + W2(204048)
+
+Fos] yas
+
+EQUIVALENCE Of TWO FINITE AuTOMATA
+
+B tuo FA comme ar equivalent” as ( aC lapee
+
+Hu same zet of abings on E-
+
+SD when te too FA au wot equivaleut une if
+ors sting WW EZ Satishylig fue follaoiiyi—
+Y— One automaton reaclumd @ final Atte , oleae
+foe Oflu automaton Yeacles a Vron-firal atetee
+
+Let M= (OE OF) § M'e(Qlz.6derF) ane too
+FA om =
+b
+| Gee)
+
+“were? | Ged
+
+(%,43) (Vad)
+
+\ Gun (9, 8)
+(4,43) C9, vo!)
+
+4
+
+fe ry ane trat % 14% §
+
+=> th we jeack a pale (4,41) He |
+
+Finol abete of mandy) iA 4 Wer fined ater @
+
+ona
+
+My vite ysuta , frminate foe Con teuchione ,
+Ond — terclude frat mM $M! Gre vot
+
+24uivalot -
+
+As we dovot qt a pair (94!) token Vit finat and
+4! TA nom-finot (or vice uersa) Ob ue yO *
+
+Trefere Manel m1!
+
+\consteverioN
+
+One 25, eivalent .
+
+a On
+OF REGULAR GRAMMAR =PROM a
+
+Themer-
+“bet M2 (0,E590F) - CF wo iS in LOM) tren
+here enil @ yrommen G=(W/T PS) Yuck thet [Line
+ae
+ler Q= 4%, ~ 4,9
+foes
+ane - Pen}
+f= Ao
+Tee
+het p fA dtved I tue Fplimoing’ uy —
+AT—PQ AS th induded
+UW EF
+BW at-yaas and Ai @ eu incluctacl fe
+P H[Stia= G7 EF
+de
+As aM DaQ.Ar » eon ieee
+MS eracare ath
+\6(Ve G12 ---ae) -€
+popes ist]
+
+bb
+Ac? Ao
+Ro? BAL
+
+ve (Ao.Pr 42,83)
+
+Ai ake
+Ai BAL
+Aa ahs P
+Aa-+ a
+
+Aa bAa
+Aso Be. |
+
+Eta
+
+As bAL
+
+ees how aho=y ALA Abb hz 4 abb @
+
+b b a
+to Be 8
+
+Weice: vito, eubba cite, seueed big c
+
+Aud allo ace ped at mM. So
+
+FFA feR AGIVEN REGULAR GRAMMAR
+
+CONSTRUCTION O
+
+a ae
+Ler Ga (AeA And ZB AD
+ie. comer a taunt aren: Mt eies
+
+tA a grammay -
+sem
+
+(h- Stota casvespond te van fables.
+Tikal Abate Corresponds te Ao
+
+dye
+Aik Comeapond to productions (a
+
+itiy- Transition in) t
+mas (4.4 eye se)
+Abtined os -folloas—
+
+fadade a oath,
+
+We define
+Rww 8K
+Y-— Each preduch Rim ahd
+
+fara yi Se qi with Label 2%
+g)- Bach prduchen AK? 4 crnecho eth
+fom Yc te yg with Label a-
+Then
+Ce eo GA}, Lath, P, Ae) Were P
+
+contidt of ftp paki Aim bA1, Bia, Arrbm
+
+ats
+
+CHOMSKY HIERARCHY
+Tm (Tag madaine)
+LBA (Linear bounced
+puihdaon aubmait)
+
+cA (Flaite automat)
+
+t Negul giamnat-
+
+Wyrer0 hamman ;— a PB
+o,8 €(vUT)*
+pew) gon
+Dd contre vod able,
+® xen
+Type-t  yoammars—
+
+(ape WUD”
+
+ee es
+
+talent
+
+© A totals a variable rae)
+=a
+
+ay
+
+Tepe-2- qrammay ; Rene
+=
+
+neque
+Aev
+
+Type-3 ranma i> py B
+ae Ave
+om ‘)
+aoe Sn Aee Vv
+c A
+io to
+eae SS
+
+1 Se egies
+
+“Tas ae “Cem FOR REGCOLAR
+
+Teeattcing Nonreqular languases i—
+Regia sanguage canbe Infidie as mest eh on
+exampud have olewoustratid ft Janguett 1
+iy tein rotating ang abi ee formation tact ba
+Ror Hameed ot any ataoe Io abictiny, tinted,
+
+he us p igentole principle :- principle s—
+
+Th we put Hees ra te me bones (ome ont
+
+nym een st wat thave Wore
+ta tht
+
+an ene Tem
+&
+pis
+
+atleast Ove box i
+
+————
+Example;—
+famples— Te fre Langage Le Gate": nyo} epulan 7
+
+Leb us Auppote LIA nequlan + nu tee
+M=LG, £244, 5D) exists foo FF
+qaal e fee FEBS
+Since free are jofintte no oF tet but . Ane
+poof Aleta in tty He piyectole principle Pre
+alate ay.q,, such teat
+
+Raat Wow be koe
+
+Blvaa =v
+
+Seer
+Rae tet, a)
+wih nem puraine acupts com
+mut Aave —
+cg Rae MAR
+A is
+
+Tus Contradicts Pt wiginal aasumption. es
+ig acct oe eed tt mm, and ade
+
+wa4o Cplade Haat b Cavet ell
+2
+
+0.009999 099 9 |
+299000
+Application of me-Hi
+
+Example ;— Let Leni ae ie
+T
+mW Hurrane foun possible clatter —
+Cy: Even nowet of il
+cae Even novef ot g Odd nop 16
+35 Odd noef aS p euch rovet tS
+y= odd no-ef oS ¢ odd hop 1h>
+
+There ore only 4 du «te ta Lansomit is requ:
+
+Minimization et DFA
+fide a
+
+)~ Revove unneachable Arete
+
+a- Create tivo TPs Cue fer final tele!
+anettur foe nen: final achetoy
+
+are
+
+antition thee ouPs ne i
+Hrrent qenfe te, too Agate ive i
+oe any ably a
+(yz) Babergh ote me pet:
+
+se
+
+Sy)
+ia a)
+0
+2
+& Tue ane us unpyachable eh
+qe -E | (MB EF)
+perm — od)
+5(Ao%) = ®& Sept gad) = E
+5(be= © SCBA) =
+6 (62) * ec ote F
+ote) = & 6 CEA) =
+OCF) = ¢ SCR1)2D
+
+Rantition of Shoup for inpa otk net possible Since
+alk jue rptubed gpa totus alot lech are
+Soups. Butter tpt d Ae F B dish. guishsble
+vecoun ibgaer pest MMP 0c
+Hervce
+
+1 rT g alg
+
+&
+
+Papin for queep-T $ inpt 2-
+pep E Se
+
+fewrit ec) fF 7}
+I D (eye
+
+for inp. Froup-t = Ayo per © hE I
+po poe L So —
+
+~@le Te) CL
+mh yaan 1 1G
+
+fennattes patra minimized
+
+when AW
+
+e
+
+The Uhiaae Lemma tye pequlor Naanqueys
+Pomping Luma Koa powes fis Bel fox paving” Cextabe
+bopnges nonrsgular « T+ Called “Pompiag” ="
+WE pump more ateff into tue Widdle of tue words
+Tris called @ “Lemma” lee core. abttcaugle jtisa
+theorem, MM Wain importance a4 a fo| ih poovinge
+Or pusults ef wore dtretr interests nama. i
+
+wi Walp us to prove that Cortein Langesger ane
+
+baler 2
+
+Troon: Let LL be infintle ne yelen Lanqtange Tae
+Yhere fa costed m. (Cm i hot ee ta
+numb of Atater of amallat FA accept
+
+sitet HF © Kony Atay fa ‘oa
+have dang quate. tran 24el tom (\t0]7m)
+we walte pos eyz, tr auch ew
+thor iS net nul and [Xy[gm_, and
+fo atk fyo, MI fei lL.
+
+tery wy
+2- Wlro
+Cai aad Qt
+
+Aten my'z ee
+
+bi
+pe
+reefs TEL th maguln, ere exit a pea M
+
+PO ECW treat tetognize ir bet Q= Lenn
+Noo fake a sting 0.€L, suds tuot  _peeatzetnt
+
+{Wl m = ne be done
+Gince Lis assumed fo be infinite tees caw amet
+
+Consider due potot AaOH tine ado mei pu toreng UIT
+prouges Wy —
+Ww Ui Y
+Sree fut saquance tas exo ywolts axial athattome
+Aebe musk be pected and Sh 4 Dapetition must ateot Wo
+Joter than te ne moves Tuadit  Pefnaiate must ok Lite
+
+must be Atlestetngs Yt EO Subtest
+
+Wndhicading fone
+A if
+Rverl= Vr Bs )
+Banya 3D
+SGnv= VY
+
+wot jax|g nt om & NY Permateas it
+
+\wamediataly Pl\\nor Flo
+
+Bwere)= Vt
+
+aa well gy
+Sdo.nye) =f
+
+8 Lte. Y%2) =f
+z
+So %X'Z nalio cccepled by df and ta L-
+Eranple:
+
+Ute pueping to Shed thot t+ Lo"
+
+neplo -
+
+Main fo Let be fue costa
+Fama. tex LAA region
+
+Ye bet ws ™E™ fo] = Om 7m
+Es:
+
+Wingo} fa
+
+gives by pomping
+
+mem
+Q..0.--ab--b- b
+‘Gert aaa)
+csi
+Y Contains ray | hat ler [xlekp bt
+Wer at, ie oho Te L-
+Let j2o 9 xz & alto inl
+Dahm el bak this wot tee
+becuse Lepilais eaustuoeg of bi Ko we
+
+ela foot Lik ust rags -
+
+Prorpie v2 Shed just Le Look westy is wot
+neguler » Dlr re Lab}:
+Gato ber YFaseume frre Lh Hagler and
+we Tete Cnattenct given by la fiat autumnal
+Sane
+
+me LM tg
+
+LeP Wea
+
+\wl= Gmy
+
+me
+
+abb
+
+st aaa
+
+Gar»
+ra
+ler acunding te ppg Leunan |*X 4:
+duc fp Ts suspicion ve ake bfnd B chore
+
+X ently of att: Let [XleK YL
+
+acendiig D ponpling: datums
+
+em lpt-
+
+° i
+x Re
+
+bet f2o Hen
+
+z ba .
+Pee ig ¢u
+
+Lo wean Sau quot L i not degular +
+
+Exomples-3i- Le Sweets mala) < notD} !* not regilan
+
+sfutudin j= Letra be jue constant qi i ponping
+oe since We Tave Complete Praden te chose
+
+Loroma
+wo. Lt we OTb™. Noo be cauge fa] rnet
+
+be quate thon mm, So pick oY vite alla.
+
+Let yeaa
+for fe 2
+
+Wataays ete b> hate
+
+but tis invot que - fo THe Aanqengh
+
+Lb we gun 2
+———
+examples “12 Satin toa perfat square]. isnot
+Gites Late bette Conttenst ame aasume Li
+pepulon pas
+Sie Jol = am
+TE wony2 tee Compo sition teats Cleary
+war yd witcha
+
+“| rig Tim = (mr-*
+Tatum can woz O oR > yer \— 219
+
+Kotrat vo Cannel be tn Lo Teare dere tee
+Language ® not deqle:
+
+n
+Browpthyerighioy Tet, Lal &
+
+an is prin} Tenet
+
+fegular >
+betre cousfaut
+Guutin i Let LS sol Uae an | sie
+aver by people, Hemme
+
+P.
+let > a .
+. vf Wo eer (es
+y wet
+
+P (ft
+we MET eee 2 oe
+a
+& UM Pins mom i.
+x Pomping emma ouy!z must bein Lette
+
+ACS ys ae a ein phine:
+
+To shoo teat Liane Magia we mast prvctet
+
+424 tL+2 then
+ms
+
+pr tyre fA not prime: Let
+
+pele tee). Ye Preryy re
+Pt PY +29 +27 PPV EVI HL
+a PLIRY) HEYLYT HT Gta)? rery) +)
+
+a yet) UPA +9) (ty) [pr -
+
+as we Know thet Ya! So Ut yd fem
+
+(P20) 5 a pdt of 00 nahual humbent- So
+
+\ertvey net Palme. ote Lia net hegulan
+
+> exomper L-{o™ inno} shee ict not region
+doustions-p, Late Length od addiags are facteeiet of any
+
+any number: Let us aitume frat Lia eqular and
+m fetes Comataat gine OC tHe impr Jemma
+To Chote ating Ww audrtuct — (WIM, wreclroose
+
+Deeart
+
+es ewer
+
+Let wey inate @ wey peltt IK] E Me
+
+Ler Kom
+we
+Thus if Vyzl= gm
+Than [xzl=my—K ek [yl =mj-K
+
+Sie for M72 and Kam Weber
+
+Gi 0
+Thus Gmj-%) is hot factorial ef any numba. and
+
+wx ¢L > Tepe Lis not regular .
+
+EreRcise
+| prwe that fassin4 Languags One wot regular
+
+ome (orererd”: 0704
+O- feof A we (aed f
+L: (uu ; we fobs}
+
+)-
+
+aoe fovea” : nim, 04
+eS farerc™: mn, Of
+
+L si
+CLOSURE pRopERTIES of REGULAR LANGUAGES
+
+(ypc TE Ly and lo ane He gular donguage
+Hen LyUlr, Lila, LE Me alto Heguian Uauguaget
+fe Wa getet pequlor dansinny are closed uncer
+Union, concatenation ~ kKlene cloure -
+
+Proof 3 —
+TTR Ly nd 12 are nequlon Languages tuere
+
+Ont Hegulor ceprations Hy and ny that defines Li #
+by Sudpechively AS We Know tot if my $arare
+
+Ns Me sso npression fur —
+j yuag toe
+\)- Hy tA TA regular enprusior clashing
+
+™~ Lyulr:
+
+t, i 4
+8) teh, ts @ Peel past me
+
+Lr gee ae
+; jon denoting
+SA)* ae Ree RMEES
+
+wy
+
+wl, Lita) * ane clased under union.
+
+fusset
+
+Se,
+concatoatin F Lleene Closure
+we
+
+e) CLOSED ONDER compemeNT ._
+
+Trem tf Lis soqulae faspiia ye fuss L fs
+ABO prqulen
+Prass— Let M=(0,5,6.40-F) bette fa accephig ts
+quan te dfa A -(9,2,5/40,4-F) accepts t
+tot wWeZ* If Bao) Ek Hen wel
+Flaw) EQ-F Her’ wehe
+
+©] Crosep ompeR iwTERsectiod.-
+Theo TE Ly $a ae toe Regul far guogs
+fuels LiNta, (6 aldo) regular
+Pane; Lat i= (EAL GF) &
+mal Z,62,f,, Fr)
+tek By = (Giz SCA), F) howe teh
+Q= QxP Cruith of pats ( Hips) ond whose
+
+4eansition function & te auch trot —
+
+8 ((atpi).a) = (dno)
+
+h
+erenen” BUA) =
+E(@Ra)= pL
+, .
+
+Rasen nnnnn noon ooo
+Fo Aefined asta set of ott (4i,pj) Suclctaah
+QiEF, and @ pl Fr» Then ft i Almple t Chaat
+WEL Nua eff te fs accepted be Me So Ly Ate
+
+pence i- 7
+@- Closed ONDER DjFFERENCE | uctyit
+
+UE and “Laat peqihanr sarnsertt
+
+Th
+quo regular
+pofic tin tas bitte
+pall oct he Langue
+otwe fave proved me
+
+Ulta Unde complemot intertcction
+
+SD [Lictr) FS eg
+cungep oneR , RESO
+ate. R is
+
+cw gular Janguage Pee ©
+
+proki- rh LS equa flan Huerta FA
+M1 Q,%,6,40,F) accephiey L ec)
+Contd on aqatialsit fr wit a stale Psat ag
+
+he Q Cinta MSG oa]
+Wt aoe Fine Site]
+k
+La as (O86. §offeae$ )
+Whee S2 defied as follows: —
+
+H Gloria) -W
+
+teen
+82 (ai.a)- vt Ve-Suvoue fue Unetion
+Cf tte transition:
+
+Sp Tinta ate oftue M fe Raed Ate of Re
+
+& Bitwer tu we® og Ar
+
+pelo.
+
+Bronple 3 Constr
+efakings Conteintingy 18h
+
+ce FA faa den Wot acceph a ee
+an subentng
+
+De Sheen he obopue popedis of  neplae
+frnguege if bts regular tien [js alse
+co by Chavaing fue? fmel state Inte
+non-fmad on
+
+and) hon fil, sie te, final atatay:
+sur dfa accept alaringt fam U:
+
+Example :~
+Evample:- Let ij= $xloo is not a tubihig £4
+
+lged ule ee with o1}
+
+Find Yue DPA fon tee Largunge Li Ul2, Uinta, Gil
+
+ae al O41
+Cis ba yep OQ;
+> 6) a) Mie( 81, Ze 5U%, FU
+
+QF fox Li)
+
+Mz 2(Q2,Z, 6% 42, Fe)
+
+ae oe Kasariie sien ge
+
+1 Inifial atte (AF).
+Ta order to draw THe
+fransitton, diagram. We
+stant With initial she
+(AP)
+6(Ae) = B
+Srlp,0)= Q ud
+$c a.po)= Cea:
+
+6, ts defined of folleos.—
+E(era),a) = (8 (ra), 6.04.0)
+
+for ary PER, >. VEGr, ae"
+Stas,
+TF Fa= J (pas pe Fi ov Ve F2dMs accep
+
+Thea Language Livla}
+PhD Fa =f CPA) SPE RT Ord PPM “Ce
+qe Lonsunge Uy Nroz
+
+mrrerrrTT |
+
+B= \th Fs= forg)t peFi and a ¢ aj Ma se
+Tht Leet yb *
+
+21% ee
+
+a= J (AP, (AR), (88) eer (8) }
+L A
+
+eR) Lo mininised dfa)
+Decision pmpudttes of meqular fa
+3 P qotlem ja crhmble FE tue is an algee “ ue
+
+ae t tat prviad
+fee anew Rehan ete tinct ae
+
+Particulon inputs ore:
+problem tat toad a yes” of UND”
+
+27 Pu effeetine Syution to
+anguer i Called a decision m1
+© Mpeblem tat Las a deetsion abgodtiom (4 called ctoridotlem
+De Menbochip pablowse Given a Fiete oumate M) arial
+Baga io © cecapred YI Tee pablo canine SiMe
+By giving We ating, tote FA? MeLEM/ ends Up in
+aCeaping vette tee qrsisen fA" es" gtumustse 10a quewee 1 OMe
+
+g- Emph ina decision abyrrithm. tp find for
+giver
+
+te LUMeo?
+- TF M Gntales fi
+
+mite acemate. Mf
+pat cites foo. goto teh 2
+Bere Fizel Sa Oe Date aes
+Ey cue LUE S
+
+quer LUM) =
+&- tf dose wot
+
+e
+
+cortains accephing afore LUMI=B)
+algorttin clack, for a gived
+i
+
+3)— finiteness THe wow
+
+MLM) Finite 3.
+
+w betta ne of mated I ma According porpingy
+rival Fangs oF TaEY
+
+yr
+ts evar ont @
+
+Jewma Th om accep’
+sign Lim) i Init
+
+- Ment abapettin
+Lom) el) 7
+
+ty Bqulalence : ae determina fe Tue
+40 Finite auctwatt Mi OMI 7 is
+by. ber (ucmny Ton) uv (rosy abt
+= TE Lumps Lum) then Limsy= ®
+
+3- TE Um)=p ten
+Yy- Ele LUMI LUD) - fea
+
+NS wus):
+
+tems LOM)
+cs
+
+Fintle Qutomala WAL output
+
+One Limitation of pur fntle automala au we Lave distartea fo
+Sx ththat He only trik a mackine tras dont cofay i
+to He Cognige ahanquoge se its output 7 Limited tp 0 binary
+Signed +" accepit Jeow't accent” — fv “tae moctey (n Olidle
+He olp is Cheer fam some ofer alpha bet fave
+been Considered Thea We aiffereet approaches —
+
+I- Moore Macdsfne :—
+The mone Machine was Created by BF mare (178):
+The mone macliine [1 @ Collection ef-SiX tuples
+M=(9,5,2.8,d,40) Whee
+Qi- Ks Fiate set of atetes
+sie TA He Anite Sebet input Xmboy
+A:- | isthe_output a/phabet
+Sin tea ERED Pecson lich mapt QxS * B,
+di- isa Mapping. forchion (lich Mmapt fromds6 to A
+gp: is fre fritid Stet
+
+pay more Machine givu cutmat d (40) i Susporte
+p hp Ln mene machine, evury possible inp
+ating Cheaty a7 output ating gad tare is n0 auch,
+quing aga final state: The process 16 fem inated
+Oren tie Last fnper read and te Lait odie
+
+chaactnr [4 produce cerca)
+ee
+
+oe
+
+aces
+
+ample Let us Consider a moore machine
+mM=(8,2,6,4-4,40)
+
+Moxtstate
+
+jet a | ouctpech
+
+petit open
+
+7% Ys a i
+fa uv Ys o
+h Vs Ye Q
+4s ae Or b
+
+Qe
+
+Let Input Sting > 4o104
+
+cer bach ae
+cana O
+ays Beant wl due Atart state fate
+
+he we alo’
+Yo. Which audomaticadty preduce uw et put
+
+Chgacter lor
+S1-O- wmare mative Te defomine ved reridie Haod 3:
+
+p- aay: °
+a moore machine which a counts te
+
+Exompe ;- Deviqn
+pawance of aLbsting ark:
+
+Let w= abaar
+
+phen
+Oukpat:- NNNNNY
+———
+
+Example: basigne 4 moore machine to gt 4 Complemat
+
+— ge ao Few number +
+
+Example j— conckuch 4 moore macline which eee, heels,
+ing are odd oF
+
+ae ie yuna une
+Caampe
+Saal in wale mackfne clepends a
+input pre output dopenss Oe
+PH Yuwaetes qa well as OCs ORS
+focally fue meaky macuine 4a Six fePle-
+M= (9:24,b. 4,00)
+whe G,E-6,FA.40 Ve aA jn moore mackine-
+A output mapping function fr definecl 25
+folloun: -
+
+machine wliith cheap wer
+
+ecample :- bonstsuc
+si a A
+meeps Ina gi
+
+je x
+chains 8 a
+Alever
+
+jue Rin ane odd wr areu"
+
+Odd
+
+Exomple (~ Detiqu a Mealy and Moore macline wlth
+Conusrt €0CL, Octurance of debestd oy 010
+
+zt oit:
+
+ee give Mere A meaky maclina for = =Korhay Jprtie reso
+Sf inp dread ad a PMH umber
+cette
+SB conatuct @ Moore maclilne
+te determine reste Mod
+tho binasy humben
+
+Rp valece of > Moore Macltne :_
+Toe TE He (QE. bE dds) fea Mere Machnen
+ote fh ane ( Machine Me ¢quivaleut te Moe
+Consider ang sete qy im Ho. The oper Corresponding te
+
+yuh apie Sf x:
+for ated ye fut evden Hse
+
+2)— Novo tonsiden
+
+Therm :- if Mer (9, 2:4:6.d,%) is a Mealy Machine,
+= {
+
+Ria que ty Meare Mabdne Mo equivaleut tp Me:
+y in Me-
+
+ly afte Y trave Sesame |
+pt withtee atete
+
+Y= Comtlelen ny atete
+(y
+
+D- VU gh tee incoming
+mutput fuer associate frat out
+
+4
+ay ty ate, nomiege atte ea differant copes Hee
+mate copies of tet atete (4) corraprcdmt to cack
+ouput -
+thy Bk step +408 for at) stats:
+G)- Shro adh fue deancitiovarh Mealy Madtwe
+
+us 9 re
+2 4B gS
+crs 3 ag
+
+(Same outet)
+
+dig
+a
+ae, —"y
+Same”
+tla
+Example:
+
+mn fate Go
+SHR te $ya fave shoo differed ougput Lo Copy
+
+Ya fr Outre a gh
+
+$
+ASSIGNMENT ~ 4
+poli A SES
+
+Quettion:-4- Show fuat Ig te neta pationad numben
+
+gy- Shootat ery positive Integer canbe expretied as othe
+product of prfme numbers:
+
+)- pave the (em)® Be a a
+
+4)= Give a simple qhuciption of te Langue prota BC
+oe qramman uit producti — gsoanye AP bs
+T)- vet Le Lady: For eqc ofr folmoiiy Languofas
+Find a Grammar uot pueates it
+Lis {o™e™ 2 NWP ame}
+tae [ores 970}
+atts m4}
+
+ay= ts (eS ays}
+
+g- br e-fa} Find Hoe rare far tee follonotg Moge
+4) = Le (ios Wo) med = 5
+bye Le [ot \wolued 3 F \ol wrod 2}
+
+B)- Gle a vba ducitphon optus fan quose
+Prnruted by -
+gue at| bal
+
+&
+
+2. 4
+= pre fee hoo promnaks with reapectioe productions
+32 atl| able
+and
+S$ aablab
+Ao aaole
+equivalent 2
+qy= Desig on actepen for ines me
+ye he Latte example rat tfwe change Final Sete aS
+
+non-final $ nor-finad ete 09 Final abst fun Hae
+
+pesulting Afa actepts L-
+Re cid: afoss Fouche cote rangers om =~ CO
+a- Le{ nat) wed 3 yi}
+
+q- fury aa tr Felloved jmmucliataly by easle
+me b-
+
+d= Bue questing after simbelt has oF
+most WO ONS*
+
+: ye
+ey Te kept coma “wit from
+gt wot One
+
+ye Shso rat re La quate Lefame nnd Be
+
+vega ap
+B— Show that se Language” Le fa: n i* efter a
+
+rouliple ofteree on a. multiple of 84 i he
+
+shoo We LS seqilen 4 Sot LU say, for
+
+oll ace
+
+ge Ftd om NEA with four stot! gi
+ie feaaeky (etarn 4
+
+W-
+
+4 a ato
+
+Y— Conan Hee feller Gy oy eee a
+
+2 aa)
+
+© o ae ja"
+= 8 che
+
+= prove teat gi finite sonquers On eee
+
+ie eeeers oe Teel ta 6.
+piteaty need.
+fay, Haste minlmannctpas Seay lone “eeale
+ng
+
+ay_ Find the Minimal dfate fox te Plloning
+ay- Lefah: nwods =o} US ar wmod 5245
+
+ben Ufa: nyon#3d
+
+O- Lefah:ner ord nay
+
+ye Ghoo prot + ind tatinguichability fs aw 2quivaleaee
+Felation but tat tistingutaboalstity K wet
+
+e 7": Se
+%Yj- Fad & roqulon. expression foe Han 4h sao: MS
+
+mm ts even}
+go) Give) Megelon, pation fee Aes Riley Stee
+9— = fae™ 74s mes
+
+b-Lae faker, ned, moog
+Sy
+26)— ect oa) uietiph ow op tice Language
+L((aa) b (aa)* + a(aa)* ba (aa)*)
+Ba)- White Regular expression for Hon fltoahg:
+ay- a Abinge ending in O4-
+by- alt ating’ containing an neve number of O'S:
+O- abl 4hin volts atest 12 occurence of a
+Asahi” 00°
+Q— Le fw: tel meds = 0h
+
+‘2g)- prove on. ciaprove pus falling —
+
+a) (iy at
+isos)
+d)- atOner)* = a
+
+on (Gaon = (at) a
+
+a) = (nim) = nin
+
+ay Fed av ominientsed pacts tes, Pollet
+
+O- anpression—
+“= (ao* (ar))
+
+E ya.
+b) - 1 (arb)
+o)- Find a pogulen enpession fo Leta weet
+Wl=24
+Se
+
+B)- Fina das that aCteps the Pollag) a’
+y- L= Latta) v Leta ea)”
+B= L= Lat a*) N LLae)* ba)
+
+B= Aint an aquivalet qurerabized arsition qraph arth
+ae joo Atets —
+
+a
+é
+ab Ge
+ab
+a bob
+
+coteuet poBR TSS araeeal
+
+93)-
+tog Heurrannay =
+sot ab
+Aa bad
+@- aA\bo
+aj- av he re aa etn a
+LLaa* (ae+a)*) fobs
+oe ea oye
+Lee mat fyve oblast ome production of tu fost
+Aah » Wr REV od xeT*
+aye Ft a Wt Lbuan. grammar foc Fue es ak
+
+actephed by tue nfa beleo-
+G2)— Suppose We Kw ath Lie is equlan eral
+thar UL, i Pintle Can We conclude erat
+
+Huts trot Le is Hegular-
+
+4y— TF LO nagar Law guage, prove tat tes
+daquage (uv: uer, vert 7 1 abo magulans
+
+Ia G, and.G2 es te pequlon aaa
+
+Shao Her tho owe Cam deuve Su guloe
+
+spam mans Foc He Lengua yet —
+a— LLG) u LCe2)
+b- LU) -LCe)
+
+44)-
+
+&
+45)- :" a ee folinoiny banquet? are mot
+
+a)- LefotetcS: Ky eed
+
+w)- Le {wet wegasys
+
+O= Lrhu raua) hela}
+
+aye {met * ngs}
+Bye “pesenteet tue sanguage l= {a sw is « peime
+
+numbery (snot deqular -
+
+Gage La Ly La Me magulan Longua gee: Tete MMe
+Le Sur wets, whe La necsanrity paqulor?
+
+4g) ts Me Beni x dugular Language, cLoved unde
+Sg)— pre Haat b= (gs nen? forsome by03 ionot a
+
+m)- pave Wot Ls (a"; Senne Kya} is het oequla
++ yy7B— GNTEAT FREE GRAMMAR
+
+Formal =
+
+Se et We efor tre Language i a ae
+este formed EX fut fly ou cal"
+
+Formally, & qfamnar| S {4 defined ab a quackuple -
+
+GW TPS) Whee
+ye ioe Fioite
+
+“ea Fale, ote
+
+Maa pn production
+
+facpeeee ximbel «
+
+ping fe RS REE Ss
+
+3A
+ingore i ope fon [AP]
+
+_ eS as ine ey
+chine ap jousinels that canbe peaued fom
+ent rey Mt peaueho Ree eRe
+a cee is cata cote fe angen
+
+ecopepsiannd Bee qrannan for @uifhnetic. exprstion,
+[code =)
+
+fs ert
+
+fo exe
+
+es -©
+
+€7 a
+
+Pe Conteh free CEN G TA Qmbsiqous fiona
+i peur ome eating’ in LCE) “havin we. er
+‘a
+derivation trees (Both lefuost oko
+
+Samples- 5, a+ js-s| ses] %] (8) [@
+
+bet w= 2+ *a)[a —@
+
+Sp S87 Ee ea. MM
+2 s+S|S-2 9 s+$la-—O
+3 eles 1a Oh? s+ Ges lare
+> gt (Sx yaa = g+(awa)|a-&
+> ga tarajan a (Rigid west privat’)
+
+agit
+os
+a =
+‘
+Tea
+ti \ we a4 a¥al/an’
+a
+S83 S-$ 98-4 > S|$-% D gja-%
+
+3 Stsla-a 3 S¥CH]A-—a = S+ (S#S)]@
+
+Sy Se SFUARE o> St (Axa) [a-4 2 a+(aed) fra
+
+s/) 8. et
+ARS yh
+Se Tig.
+J |
+
+S$
+
+\
+. Ss | w= g+(a%as/a-o
+\
+
+*
+
+*
+
+ue grammar GK ambiguous because pure
+quo outeret hig west aulvatton peer forte
+Abi We ax (a¥a)la-a@ »
+
+doh
+
+Tihowut ab omer ay 3
+TE Lisa context fre fanguogs fos Wiiidh ~fuws ent
+a “tig oma qranman then L {6 sald pee
+
+3 Hoy yearman uot qennrdlen ae omni qu
+Thon sus Louguose fa Called “Whoadty qmbi
+
+Stample :— Te Langue gt
+Beat bectd UL Ab "C™Z woh nym
+Rownegative is am. invheadty ambi gous atte CFLS
+
+Lis fore™em imny,o} Laz fa ee” im
+
+Qa Sela QASa |B
+Ro nate | B> bale
+
+The Lia gpnuahad bY te combination of este
+qwo Yammy with te additionad production —
+(Saaisz |
+THe graminay Sambi beearue ghb™
+thor two distinct danivation cone Arpt wie
+. are bees, wit4 S38. ° § Li«
+" »rctd” 290% Hf
+ye Be Oe iB <a ami <4
+Se re Cd. \epe ada
+eae > a7 ceded yo D7 bDe | be
+Themes. Tf Ly And Le are context free banquage
+hon tas Languages LiUL2, Lita, Lit we alte
+& context fees langquaye
+
+pees Let Ga(V.E,S1- Pi) ord Ga=(v2,%,S2.Pa)
+gprs Ly and Lo- peapedivry + Then @
+arama. Gu Wo. =. Su, Pu) Frooks L,UL2°
+
+SHep- 4 Ramame Hae Shomer of Vo if necessary,
+
+Se thot VAv2 =o
+2- We MUNA {Su}
+3- Pu= Pu P2U SSu7 S11 $24
+
+quate: cre tignda tf ti4 in ef tar
+4iidn Sy pum in tue qa Gy, becuse We
+atont o datvation with eittun ay Sof
+gq @ntinue Doth fun derivation of ©
+
+Ly or Lo.
+
+can
+Sy $2, a0
+wo in Gr o* Ga: Thanefere +
+
+TER
+Lure © LUG)
+
+eS.,%) gm any by lo
+
+A gyeamman Ge= (Me
+
+=>
+dep). Rename fur Vaniablesef Va So Mat
+
+MAVL= >
+
+Vez WyUV2 U $63
+
+Fe. hURY fe s-S24
+
+TE me bila Hen x= %2 Whore
+MEL) RxreEl2.
+
+SA Grama cre vad Pe) qn Le
+ye Mute} whee w! Sey.
+
+P= PUSS SoS] ey
+
+example ¢-- let G= (841,023, 40,64, BS) whee P
+FSP AAPA , Ay -+baAiAab, Aa Ajab, ahs bee
+brabrabab. Fert whettax w= etleat baabbabaaahbata
+iota me)
+D)- Find pore Prar farts dbing abbcele , comidering Hx
+Puductiou- Sa ahcBe A +Ab, Arb, Bod :
+8) Ble fusttr CPG Gitte tu eat productions
+Ss a] ga/ggs | ssh cbs fg anambiques prom
+4). Canes Bauman fx Billecoivy La inte
+Dele Carb: myAF a
+a) Led bYa®: 13} :
+Y Lule
+4)- Laz fal ere I femen,Lmy 1}
+
+Ae
+A
+cee pale ts Pa Hegqular egpression
+
+Lat pis O Ke expression tush foe
+a. ccontert four grammar auchstiact pe
+
+“example: fu s( O4L+ 4a toa)*
+
+The
+pred foun Vp.
+
+we ot 2 una Hk Language
+
+Azet
+ee ee
+a ois|t Jip genole Feadanguoge (nd
+“The peduction
+prod yerwuating pelanguage
+Lory
+co Del 5 quakes yong”
+poo
+sa pe
+a> BAIS i aR
+ey ish goers
+
+pa a
+At ont] 4 J 1a
+
+(ous) col)
+
+con amebeclasiaict oa
+3 pebiquity is ey a property effi qrammay
+ean tt Langue Lf a CFG  ambiquEs.
+cHern possiide cand usualy disivable to find a7
+
+equivaleuct Umambigous cee.
+gO S48] ses | Cs) \@ tg. an grb (HEE
+aes
+
+Let
+qeavenan
+ty! chotd ave trighn precedence than +. and
+net a+ OA
+
+arata Bhould mea \axay +9
+
+Cap ar Wh
+\ aay THEE \
+© -faetars- Pefacor isan expression Yaad Gamnot be trooken a
+byany adjacent operatar either ax of ar: t
+oy! Tdeutitieu— 1 i We fositle To Aeyoe Hla Ido oh
+{daukfies by attacking of Operator»
+wae faved psa me matter What apes int
+San ele Totua porpore af poraduesets Preven”
+outside, Aue be sii Se obeaud atamy obese
+@). Towi- Artem (4 0n Kp Gn ne be butkan by ++
+© % i) 3- Fim ey puso pet will once Fowtls rei
+yest agparsion, rcludivg Hose Auer certs een If
+either an acti » Cog am adbacect + Tee
+Seaton fax 3 eerie isa cam qtone os move TC
+Meee T :
+ed Beer i
+F? ialce)
+SMELYPLATION © CONTERT FRESTGRNERIEEE
+sevens Sor FREE “GRANMARS
+
+yp —useress Salt”
+Remove all? productions» and Symbols that ‘Can Newer
+
+Jake bart Tog amy cleivation: auch’ Simba ane
+production ele a any
+
+Called useliss symbalt and
+Stmbob [4 called Uuelett prduch'n:
+|
+
+unlet
+Dh Arma, obtained by clothing uses Sxmlen
+and “prosluedions is Called Pacluces! qrammak:
+fs aPeast out
+
+fp sembel A te tefl if ne
+we LW) aac foat sd KAR AO
+
+aeing
+Lamratss LP = TPO 64 cre with LTE
+ialant Syren ctecv TPS!
+Gere tt nee
+gudvtaot each variable fig) aie ee
+privy ie fr 00h qevs tw
+pa which Mev: iso nee |
+
+2)
+
+jeouminal
+wet
+
+we Mao Las[ Are *
+While Vad Vnew nepeat <tef aro
+
+‘=
+
+ye Vo\d = Vnew
+
+ae PCO Gia wor dk for OME we (rod)
+
+pe vNnew a
+
+piece Guts Aeiee xe (UTE
+oe eee
+example : -
+se aA|bAleC| Pd
+he apd|oe
+B> 4B\ek
+Co? ec
+Mod
+
+T=faboe}
+Sa Vade 6 ©
+“ <8 , 1d7d (Yew
+Vnew= £eb5 since, Ce (Yness
+Mal d = Vnewd > {oD} b
+(co DHULAL DS 2 LAGDY ir 3
+(Yoo # Vad)
+
+2Veld)
+Vnew =
+hi yi saa3U $53 i fsncdy
+Voewa 0623 UES
+
+H{IAODZ 2 eon
+
+us coaABICl Dye
+
+fy) y's SS PODY ie Sati
+pi? S-rah| be leC|Dd pees
+#4 ADD BC
+¢4 ec
+
+a8 ecw
+
+C4 ebb /pp
+Zn toate va
+$7 AB yle {s.081 fo
+be Asa it sath oi ee
+anc " ab “vet sAg
+P.O) 1S) A CFG Then we
+
+Lewna-22— If “C=(W
+
+a
+
+Com Ped equtvalaust yanmar CE (VETEPLD Auch
+viuTt! appeant in 4eme
+
+uot enorg sxmbol” th
+aonteutial Foam. (14 for x he viuT! bee
+exis of, suclthat (Ss onl] x faa ‘Symbol mie
+
+Daas
+
+D> taltially, viz £8
+pt hag:
+
+2)- Repeat lle vi os
+a) - Foe each anew #
+
+peer Silva |S Ie a
+ol tote ket v!
+
+Variables of Aree
+in Pea! ,
+
+and all Heuminols of Ar, 42
+By. Constouct Pi ae eet of
+ony stmbeoe (V'UT) Clearly)
+senbals fn V" ome tT), must occur, fn-fome Ahn
+
+dertvable Fam $-
+
+gab [vA
+
+ee
+po chal bCa
+
+a Ca [Re
+
+cu Able®
+
+ser- ‘
+fo Vinge ter a
+a ye $883 {ab}
+
+2 vi =f S804 Th Lab
+
+4 VEL SAB Cd Tid Vb, CF ye
+S$ ahal bBbI CC
+A> bS|aBe|Aed
+B+ BC " :
+C4 aCetac eliminate useless Sxmbols-
+pad | b>
+
+gE abla J =
+
+Elimination of. © -preduetfon
+ec a
+Wullable Vabfable ; -
+Ay Any ~ py Vadtobe AQ: fos which une 1 a producti’
+AOE | 14 nullable.
+
+D-H ono Bibs Bn ts prediction ond
+all Bt? orn nullable fren A ts nullable:
+
+Themeni= Lf Ge (VTP) be OMY cee with =
+aramay _G! that
+
+Produutin pre He fs 0
+
+peti:  Censtouch ct
+y- Find all nullable Variables ~
+gy- fer euuy Production Roxie Xn fe Pe
+
+add a Pl eve peduat on rat can be
+Obtained +7 deleting one o¢ mere nullablene
+
+Mo oe
+
+fa ath pusite combination” Th at «js abt OH
+Tefen do uet clettt all>
+
+De wr sd eprtuerios ito P's NB
+
+Bhimtratfon, of unit preductton s—
+ae Production of tue form ADR 7 Dee ase
+Called a Unit production -
+
+Mitoony tet G be amy CRG Without © — poo
+its G! wh} No untt Productions
+
+prefs Ler @= (MeT Rak) SISO eC Tg
+
+Pay CoC T PS) eo follows:—
+
+Y= Add all non unit pimduetion of P into Pt
+
+B— fis eneny pain(a®) Whe @ 1a) A cuaivable
+
+amo eusuyy non unit pndetion * (Arey
+Bo alle Sie ae
+
+A odd fur preduativn —
+a Ada - Ane
+
+3)- Rereco Do wet add untt production ppt
+
+Ai— Sa Albe
+=
+aw Bl ca
+g7 Slab’
+plz So be p-dyrtvable= $ 6S}
+Boca aedatalles fs, 03
+
+b
+oes RY een aur ky oe
+fos Pain (4,8) 7 ‘
+
+Pate (8) * on nth peduetions of Variable @ 14
+Added te \aiable A:
+
+fe’ “Ad gar te eddie Avab
+
+foc pain (AS) Soeo aoe
+es Put yp saan eet EE
+
+Aa be
+Bube
+
+fs parc BA)
+
+font &A).
+fre palit (s-8) =
+coe yealee
+nent bel ee
+a» abjcal bC
+
+rama
+
+etanple-, S> ABCA
+-
+B7 BelAs
+
+Ye
+
+Pea
+agoeltas
+
+find 0 feadluce « yeoman
+
+saaka-
+a? Sb| bCC| DAA
+
+C7 abbl PD
+
+D> adA
+
+ye 7 ASL POND Rawr e-preductin poem he
+A+ZE is fj ogAh)-*
+fee | unt productions
+
+pob + e
+
+4)- So aAlaBB, aviaadle, 8> b&|bbC, C48
+
+oben Aen vith mndurtin tut olasd Iovecluction «
+NORMAL PORTS Sferc FE
+When Hu productions of G aaticfy Cor tainnss TH
+an fre grammar G a caide be in "Normal oom?
+Yy— CHOMSKY NeRiac. FORM s—(CNF)—
+Fr ftamman G & fm CNP if Hla production a¥
+
+5 . 0
+Whee agc or Vatiabla ond ans At
+
+fr cre ultout €- prodaction {4
+
+es
+a Dui & In cn.
+
+qonrated by a qamman
+
+\) —  ELiminafe oll e-produetions Fang ”
+Bliminate all Unit productions iG %4
+
+a)- IM
+3)— Cenvert all production ss form -
+A> BB2---Bq Whee k72 F
+By Ba. -- Be ane Variables.
+of z A
+of form ADH Where 6 ne
+pee AWK IN? -- + Xb hoe N72 Hen
+
+Mcduc neo vallabler” Ni Yo op- Ynoat
+OPA replace 49 xyx2 = = Xm) by ete
+
+* Prductions AD XIX
+Xa %3 Ye |
+
+Ya e Xnar Xn |
+
+gohan < S— AACD
+A> aAble
+c> acla
+D7 ada | bDbIE
+
+Sotudion:— 1) - eliminate €-produchion
+
+Nutlable vasua bles = $A, D2
+So pnaductions ane —
+so AAO Acd| cD AaAclac!<
+A> aAblab
+c3 acia
+po adalaa|bpb| PP
+
+eliminate unit phroduchims—
+
+a)-
+HS aitArD o anit
+
+produchee
+go add production Cratla tes:
+
+tt 5 AACDIACDI ed] AaclAac| ac ja
+
+epnac AC X26 1%
+
+$7 Apc | acd|
+Xa
+
+AD Xa PXb | XaXb
+X79 b
+
+C4 KC |e
+
+dD? Yad Xa Keka [XE DAE | XbXb
+
+uo
+
+39 AAC > so AT.
+—
+Tr3 AG
+
+Axa Y
+Ty @ AXb
+
+D2 xXadka~ Do Kats
+——
+
+Te> Dxa
+
+Da XpDXb~~ D> Kote
+
+%- BXe
+
+ES go CDI AC| Kal 1A axe incnf.
+
+Eyanple:- Comment eplealyy grammar Wie CNF
+
+$9 Aah \cA| BoB i ex Simpy te flag
+fo aaGa\cDajaalde | Sabe apt odd
+By dB | bAw\ bbl as Cone It (ute CHP
+C> Calbc\> Svalad [B]C
+
+Do bye POPE
+
+C7ecp / D7 dd
+
+ekample '= Convert :
+= Na a qromman. into enF-
+SP ARRC =
+4 bAale
+B2 28|
+(aed aCal bCbIE
+Loustion = au velirinalanes ees
+Nullable variables as. 14
+g> ank| nac(@c| Aebel® ane
+AQ pAa| ba
+
+galls
+= aca |bCb jeaa/rb
+
+D)— Remove unit production go 8 fu:
+Se aaac| asc] 8¢|4 | as] ee &\b
+a? bAa| ba
+Qo aB\b
+¢? aca {bch |ae| 2°
+Opa pnac.|asc| OC AG| ps[eS{>
+AG Kofi Ka | XeXe
+po kaBlb
+C7 XaCXb | XoCXb| Kaa [xs
+
+Xe49
+Xb3 b pe
+
+sth Peduction—
+S> AARC HK Conllerted to—
+
+SIABC fhe
+
+S97 ATs
+
+Ts? BC
+
+c- AT,
+Ths AT
+Tr Be
+
+S7 AAG
+> ATTY
+Ty As
+aS Kalxe Me
+eo xaCy
+Cia Cra
+ho &aA Xb iS seplaceal bie
+aa XaTs
+Ts7 AXb-
+Cr CRBS
+C7 Xe
+% ‘
+aye © and just of tue production
+ane fn CNFs:
+G- 5 bA\ad
+
+fk? bad laS | < Qn 2aubaleutaramnte
+G2 088 |bS |» fn. g CNP.
+
+wa
+
+GREI BACH NoRMAL FoRM =(@NF)
+
+A costerct feee grammar (is 4nd tp be tn GNF ifaw
+
+Phoductou taue tee form [A aX] pstere A 148
+Yoriale, Q % & terminate & /'4 poe aby ot
+
+Pe
+sua Variables» fe KEN
+
+but te prduchn av ba A
+a7 aka
+
+> A, BX2 and vorfable
+
+product on. ;
+eo aBlay tren Remone produchon.
+AA% Bx, and add-te Gide ry ped
+
+A> X08 x2 | yA Ad
+
+Be Lat G2({S-93 Lob} PS) be apramnan OTH
+ee prvi — og + aA |abS| abi
+A? OS}b
+
+ioe aubositdion fulefer Vatable A — :
+$2 aas jab| abS| aba SJabb iy
+
+$ &5GMID ts uselus:
+d- Left Kewitions— A Framman G 1S Gatto be
+bet peuscive tf it tas a yartable A sac
+foot tw [4 a derivation A2y Ad fee Sore
+16 +A 18 the LePrmaat symbot of tue night Band
+
+cia: Lot C2UUTPD be a CFO Wiha
+=
+
+JePt recursive pair of productions no 0 ham
+Dhue p dou hot atts > As ae
+duu faa CFG GIP (VUSEH Ty PS) hee ra
+fo obfatned by dele Lert pucerrsine prodichinn
+and cobain
+mi hor PE heft sacunsine qrranim
+B> X*Ble Creatas problem ie
+
+‘A
+
+pe
+
+om
+
+*
+ie =
+icon at
+. :
+
+ee 4
+
+x Let we PX A
+A ‘mie
+
+p-PY
+qensnal ¢f
+Awan | Ae -- © | Ackra.
+Dai oe 0
+
+Oe ane predustins
+were brs fmagins Lott a rey
+
+|
+Fe has [RS
+iy drereyert; [dm BE
+
+on
+Sa
+
+— Ghiminate /2Ft giauasaton fom
+pn acaaa|eloe
+pob
+
+qac
+
+product ms-
+
+el WAS nelale[as
+uy
+
+axba8| pel ae
+p> cB} Bel?
+
+oe | e"[ aa" |* [baa
+
+) 4
+ay calBlc! BS
+
+BS
+ae G
+ee Or ae
+ich productions Qne in GNF 1e-
+
+favox | ww XEV"
+
+step-D:- Grammar inutt be jn eNP. Sf not ten
+covert + into CNP
+
+pe WHE Gat (£Au 82: -AnL TAAL) b
+renaming jue vertables with At 0+
+
+Sxmbal- =
+Riyadh: obs Alt tage aes iis:
+aubsh'tetion puter
+
+me sey
+
+en ans 4 Subochitehi™
+metliod tp convert newest
+
+Pine ae Sy SL)
+
+7 AB DO Greet fg aetna,
+A BS|@ [rte GNe. Me
+GB sAib
+
+kept ecsiee
+
+fEnomples—
+
+ws
+Soldier; y — Grommar ts ready in ONE
+2)- Roname Pir vartables—
+A\> AZAR
+
+Ar> ABA (AW
+Pao AL ALIS
+
+fs net Th tee
+
+3)- Tht prdustion AS> A, AL
+
+fosm ni vik Dla dy. Apply
+ules tution hue foe A\-
+
+peAD An ai. 1 gin prey annstitnien Me
+
+ii ee 4 Beal
+
+Os ee
+paae Ashi Ash2. ira |b
+
+<a =
+Aiminate . SaPy Hecusrs ion
+Rao a Ashe. Bg | aAsr2 |b S31> PASGNe
+
+eazy Al ASRE ee | ONnane
+
+pur AS ind® A2-
+
+| 48341| bAL@
+
+A2 > oA sA283A) \ansha Fl
+
+Now par Az fn Ai—
+
+A> aAsar ssa AsjanseeAi As| aati as [64143
+
+ome a AshrB3hr [QAshA) | bs i[bAi| @
+Aa? aAyA2 B3]aAZA2| bR3|b
+Ba apsArOsAiA3 Asha Ba] AshoAihs
+
+oh po bats A3h2 83] 2A3R3A283
+B>7 ahsArB3AiAspsna| aAspnaias Agha) bos hi Aséaha
+
+Aa Po 6s]
+CLOSORE PROPERTIES OF ConTERT FREE LANGH
+
+Themom:- Tf Li $ Lo one coset free La)
+Lyla Lita, L? ou ae context free
+
+context frea fanguogs cow cLovd under ‘yniens
+cencctanotion, ¢ Fldone <tr:
+
+RS
+
+Pesf:-
+ee cs ((uowueait frupvgsestl
+
+fev Leta
+(es = (VivveU GT purLusse’ 8H, So)
+
+$s
+
+Gor (WmUSE, T Pye UGS? 9S. S55
+
+lahore
+Giz (We PS)
+Gre (V2, 7 Pas”
+
+a) js oF = a
+
+Shemtmi- Th Les CPL jeer “L (Compremeutt oft)
+Prenct. o CPUS © Re CPLE Sat Motted azea- uncle
+Complementation
+
+foot
+
+ra Bemnges Luo we knee
+a ut
+Littas (G ut) wy
+
+‘3 OAe
+Tf chs. 0 cheved cw sla, am ne meaetiaies deal
+(Got ) wma ees ch eat te ee
+ta nok neces santey a CRU + That fa
+
+quer Ene
+fac Cots ake rot, chased Under complemautaction:
+
+a ad pea) —
+
+Theonomi- LF Li $t2 Oe fuoe Gubeeet Free Jom quay
+ervey fag Bri MAG 8, a coitaxt fra henquage -
+poet ie Ceilidh “toe Longngis-
+
+fo whch 4 no and rao}
+
+ue
+lat fo prem, mm? and 9x04
+
+Let Gd __
+
+sa S82
+
+Sia adie \a>
+
+Sow C82\¢
+Cut 1yitas Sarwre™ + 204, bat with the
+help of pumping Lemma toe can port oot
+aCankxt Fra Lange
+
+content Pree Wangquage
+
+for rel: nyoy 14 not
+
+us LiNtr 1 rot
+
+Themami— re Ly fsa CPL and
+
+danquase teen LINLD res a cRL:
+scat Bap laccdnted’ Py he (Qu, a)
+end ta i accepted bY an FA M22 (Qo, Ee
+
+We calehuet co PDA MG Lite by Hunning Mi Hae
+in youllel *
+
+lr isa
+
+ick 2S aes apt 9 mo My, ta
+
+Mack FM SM
+Heng M=(@.2- 06.40. 20.)
+
+and Q= QixQo.
+yor (V4)
+Fe Finke
+
+for peas, yega.ar and fe mR int az
+
+a G(R aZ) = Hr ah), xh sented
+
+Beare CCP} F S2(UAa)= iA
+
+SPP
+QE S (0%), 6,2) * yee. oF gud trot
+
+SiH e.zy = SPX IZ and bu(4el= 9%
+
+aa i isa He dogg Us Care”: nyo) te ner
+
+oa) pate Le Snetaie wired oradaes sat Cottle abl Ad Luk
+pipe ha Coulant m depending ot
+if cinta L and jelymy then we mou vonite
+Ze UVLO best Hod
+ye Wwalyd
+2p- [vwxigm. ae
+ond fax all i7,0 uviox'y i irl
+APplicattor of pumping Lemma,
+The prnping Jomma canbe Wed to pve a varidly *f.
+
+Lota py hetfolke Couto fret languages :
+
+Chin Consider “fhe Language ugatde!: nity ay
+
+Us Let wa Auppare 1S coatuctfree. +
+2)- Lele om peta Cmafect given 46 pum ping lemma,
+y- oride oe amd
+
+[21> 3”
+uate 220" LMM ak eee REE
+zeuyory abcto  edisty tHe mclitind
+efiua pomping’ Aumma - Vn dost lot coutaily
+wean eo ae G* be conse pie
+ats (mn) ae aroy from toe Left wast
+
+an
+
+Cuet. if Vs x Coulltts of as chai The Uy
+Gueating uylax'x ith [20)has m b'Sand
+
+m cS wt fener thar mals, sii W154
+aa, Uy fs ret ats fxm ab kich Sopa
+
+Vixguage L= karerc™ 3 7% 4) {a ner conjent free
+
+Pref of Pumping Leta
+Lemma = Lf & be 0 Context fren grammar fn ont and T be
+Qdorivation Trex in G+ Th tHe of gut path ny iS
+feds tan 0° pale 9 es ju Yidd op Tt Of hag
+Las than o “equa Pua = Bt
+
+Bi
+aA ee
+
+= Guang ZEL HH tela Combe Uniti od ULORY and [IDA
+Pasot ef pumping Jewwig WOT Sn ond Uvbatty'e L forall 4an0-
+1- Gvdbur oo Pauw. be (TPS) in cnf Genes: L-¥
+
+& Ut Wem and ned”
+
+&
+
+and Walia oferiet faa ‘natch
+is not FL! pe bia
+
+st wt wegoly®
+
+Le {owt weso.ly i Aes na
+
+Bit 1 (ah: pi Prime ia nat CPL +
+fy- let Lis cee and nets naturah ne givenPY bi
+Lewma. Let poke no. grreattor than Teen 2° aber
+oe uw
+pumping lemma - uv wry = ue eu. Acta
+wha pe a8 Lt \vel= ¥- uv Wx il
+= tg As aan io siotics poime ol L
+
+PuSH DOWN AUTOMATA (PDA)
+
+Re ta
+Sate ppA m [4a Bewh tuple
+
+(Q7e, 6 7. V2-%0-F) Whee -
+
+Q- ina Fratte Set of stote
+
+=~ input alphabet
+
+f- Shack alphabet
+
+qe Q nite ‘initia atete’
+te He “eda, tart Sxmbat”
+tee 4et of Firat stot
+red at -fellous =
+
+*
+
+zoel
+FCcQ
+
+§ ih a mapping’ furctim ce
+\& QrEueesxP te Axe
+
+5 aye la le Tet]
+
+I =  Tnput tape
+
+Stack
+
+SB
+Instantaneous description t—
+A configuaation of PPA ot a Yer tretauct, Called!
+jagremtaneous Eanapten EP ty letined to lee
+
+member of QXE re tee
+
+Rx ZX) kar ie px)
+
+Lt Tnput ating
+fa ote
+Stack
+
+be Tepatie
+Astack ( Pop) pages
+a Pitas. Head
+
+inpst(a)
+
+Let m= (QE-6- TYyortek) pwe Sy ot sales (4
+wy Pa ccaped by Te Pied Coat by pps M ff and
+
+om if (40.00-%) beaker, e- a) for ome
+per and «er Tat Janquoge 2 copred PY POA Mis
+
+[te = fot (yo.ta.z a re 4) for dome
+pio Fg mews t ik
+
+\ ue
+
+Bageeaned: by Cenpry Shane
+We define a sting © rare by, emply Shek
+by ppm m fft  (Yo.-20) bE (PCE). te Sone
+bis Q and NUM). He Tae accapted bY
+emi atack, 14 Hee set of Ql hing accepted
+He loner te A Tt
+
+Waan)= fe (ques re CRE oRee tome
+beQy
+
+SS Niele aot bh fK care og NUM) I Fa no
+vie uot pprn moves fo amy
+ee foallante: (e
+
+Exi- destgr SPA uct — accepts te omg tye
+
+Leon e™t 07% OF:
+Beene oe
+B(Yo, ste) = Sy aze) }
+Sling: $e aa)}
+B(wbd)= fae}
+
+EC ba)=
+
+ECU €28) Vecruezy=( yey} c ez)? {2729}
+a Ps Ya ts Feat
+: Sack) Sy
+- i} — (ise "
+
+Prod soto -
+
+oa)
+
+(€,20,%e)
+
+Cet0t) CQ (e202)
+@) (6/06) @)
+
+Exencise
+
+0 L+ farce”: nyo}
+
+X= L~{ wr wesabyard
+Neefas $ES}.
+
+por te chek balances!
+
+hii Gatse te?
+&
+
+ug Coutatns <u!
+
+prventiait
+
+a)- Constout &
+je Les we DS AE fa, 8h"§-
+3
+§)- veg uot wedant}.
+oe Lefw=uk + we tent
+rt en fo” bie nnd
+
+g)- Legatechen, ro:07
+
+- Le Some™cha”: ny 4
+
+a
+
+wo THaN eee reer
+
+an
+bs
+
+Soludion:-1)- b= {ore ny, oy
+
+We will Puh 2 a'S whoewr Qh q
+encounters: %
+Ds BCYe.AZe) = Fi qesaze)}
+
+Pua as inte xtack.
+2 S(va0) . $80.08 3
+
+Bree cts) = Shh ook, Covet
+H- SC %,b.a) = Gen
+
+cp O'S From tack Sx each
+SSB) = quel} ‘ bls.
+
+jev,aato) CE, 2, €)
+ees <n |
+. Q
+(6,0)
+£5 cS
+
+Mating, L> {eo WE La.bF and Coteus equol No. oqousett
+
+v= S(qeaze) = FL Cw)
+
+H- Sie. be) = Le, bz}
+
+a 8 (¥%,0.d) = | LE dp of tea chee foment
+orb) b) = $(Uwbeh) bal ane kame fan.
+
+by. & (vob b) = 1C ies ae
+
+rte uw stack.
+
+Se BVEEA) = LPOST be on Sabot fom check
+
+ODL Mera,» = {lve} V4 Top attue Sta +
+
+aren inpud Ayrnba|
+pe MEZ) {wet dios:
+
+132.
+=
+Ssluction —
+S)- POA th check balanced paractuesse—
+
+D8. C.20) = { (vo. C#8}}
+D- SC ¥.0,() ~ {ue W} |
+YO 6Ce-).() =f} |
+
+»- 54,420) = MeO} |
+Station Constuct por fx ]
+eT tock + OG
+
+sie ate pase ANE on ce
+
+embolic) ercounten:
+
+We 5(9p,0.20 ) > {cae 020) }
+
+i Ss bee )F,
+
+By (apaa).- L223
+
+{- scae, bay > Ce bali
+
+S> 5 (as, 0,8) = S Cae, ab
+
+6 6(ae be) = AC beyy
+
+* Greate. oes cone Aus cies
+
+biensuty Be ate
+a Seba 2 Mer OS
+BD ccu.cey > Cy.
+S467) = Lv}
+
+vy 5 yaay2 {we} ee urabge ght
+
+pe BU bH> LOWE = ted
+
+we sno) LM}
+) NS lay
+
+—- =
+5- L- { ow®: we laey*s
+
+We ute jue Acme  cheateqy ag fn fod :
+
+Re hut testa) ie Revs “4
+
+Since totic provirus chample jie Sx mlool 1C) woes a
+
+eae Foe middte «To quis the mille of
+
+Bee g. Oe sic fleeing cnareroneiag
+
+Plae f°) FIg)-
+
+W- Bl y0.€,9) = {4.0}
+H- S(vwe,b)> $C}
+
+Qncl gilt fue araitiog tee premous <nample ae
+AMe
+
+6) —  Gmstouct «pore tt Mama ge
+we{oz of 2 OeLa,Hy f_
+
+Clean i fs tH ptndrone af Suen! one (eld Lanete,
+
+Pm even Aung falindsme 18 of-form_ wk. §
+
+Let Loe ae saved
+w | wh heer longi pai
+
+Ba O20) = Wonaze], (41%) 4
+
+5 (ae, bee) > SCuo-bze), Cava}
+
+8 (4 4/4) - Sawaal, (Vb)
+
+84, 9,B)= CGojab), Cv
+
+& V7 bib) = Seay (wed Bp
+
+iki 3
+
+: Shae
+Uy ey
+CV U4) its is
+
+abd? Lue
+541,620) = {O95
+
+SW, £2) =
+
+arnmat; nr td
+
+P= LoS
+Here {us aie ateods WH at wits pravetore 104
+of BS te ae vat oS inte puted
+juatiieg
+Se push ot ah jet Ses anc dow't hanes
+canpnct °F ak pr bY Beat. pop, oe
+> fonsindpo wine g's encounters?
+fee
+6 (%5 U)F ce) =
+5M QA A)E {@o. aay
+6 (gob, ~ G9) ant “
+5 (ats b= ROI ees
+5 C41, 0%) * £42, ey} ods
+5(%,4,9)> fon83 pe
+
+Ecaneze)2 {C25 Sennen
+tigsey. (|
+~ cmseus PDA "
+
+& he faree cnn, ee oF
+
+y- Pura as $b inp pctaek -
+EU Uz) ag Seen au
+can aa) = (Cvs. OW} Pale olla carlo
+
+ECV, be) = S Cup b20)5 *
+
+Cve, Ea Suk pak alt b's inte stnole
+
+ae
+Bob) = CC d~
+BUqc.b) > ECE
+5 CGn,00) = $192.8) 3 -
+6U%,c.0)  * { (4a.e)}-
+5 (42,62) = $ (Qa? J.
+
+g- Conte pon fox Aes hamgued? =
+
+Lafamecra™ : ny 4
+facto que tek,
+
+push ott O% Gh's
+3 / 5 (vob *)
+
+ae a igo ( b22)]
+
+a.a) =v aa)}
+ie eon “ans 1) 6 (vet 2) * gue
+5A bo») = be)f
+
+pop al b's —eaggceset eer Whoever a 'C encounters
+
+S(Ve b+ 2.05
+8 (4aic-b) M9} Awe
+pop al) gt Whunewr | a ‘el! -encountou
+542.4, a= (43.05 a
+5L43, 4d, = ACV. F
+
+BCG, 6) = {05
+
+(a. Sie
+Clee (bab) (c.b.€)
+
+ap wea. ty Gee ese
+y
+
+(e*,6)
+
+Gaae
+
+Wet eal = jo™enchs nm Ab
+
+pus abl us iat que srk:
+(eo. azo)
+
+S (yo. aire) =
+c4p, 29)
+
+5 (qe, 0.0) =
+
+pop a's fom stack Whenower @ lb encounter ~
+
+SUV. bad= ve)
+
+6 Gn bo) = We)
+
+Bay Cs) = az) ae C eheuneu Adwot
+rout
+
+5 (qe, C20) = (V2.7) parry ies Sembee
+
+Wye
+EQuivelene OF ACCEPTANCE BY FINAL STATES EMPTY RCE
+
+Papen?! poe tar th
+
+accepted ley
+
+Pons PY final atets ane Same ou Zot of empty Sect
+
+TWeskeme— th LU is accepted bY PDA Ms bY -emPly
+Brak Cie Lav) ) pte. jeune 2nist a PDA
+
+Hist accepts gtrrrsamt foumuntt L lie Leb)
+Oh we Lae { Wot
+
+te dee Wlan Y) maker t
+
+BA Vy make its rack empty Ma Moves, il
+
+Prod tite “wutead of wartig THe Atnels ee
+
+het Mis (Q 2/181. 4n21-4) vena
+
+maz (2% le Se V2 te Uf
+auch Het gs QU LUE
+foe 103
+aid 62. af fpllowsi—
+. Qe tDy
+a fais Oe Dkegitsand ze
+8 Wa2) = ECWee)
+ge Pat yi We
+S(vezye (HR
+Example s- Let Lefora: ny, 13
+Lat Mis (oa, LEY, {a wPO} 8, Yo, te ey
+sad Hast LaVLM) {by empty Steele},
+
+5 isdefined os fell bene tl
+2 RS Ria)
+%- § C4, a,a)> (Qo aa)y
+a § CYeba)= {ee et
+Y- & CM ba) = (CW. E)F
+9 & CV, rte) = (LW
+let Maz (£40.44 49,943, C03. Cae} 62%, 22.6083)
+and 82 Bdefined Os Pillowy:—
+B)=1- So. 0,22) = {CVO a%o)}
+= 62 (VO A)= LG. 4a}
+
+2)- 62-40, a)= {QI}
+w= GC ULAIALMOF
+sy— 62 11, €24)* (
+
+g— §4o& Z2)= (U- gf}
+an €.29)7 (ARF
+SS ay Tne ee
+
+vaatbine Mt we
+wb, 082g OMY pela
+
+(wee) oa
+cacceptest
+
+eek w= ecb: Pee a
+= (we.
+
+(ye, aabe,Z2) bi, (ae abb.a7s te,
+pn Madsine H2—
+
+(, quebzuyte (io. aabs 2229), (
+We Le (ab, a220) gy
+
+ain abe 222) pg (0, CED)
+ai _ (Ht
+
+gta) (et ES
+neath
+Theanaessass DF LA accephed by THe pp wit nad
+ler 1 4 alo accepted be fue euuply sek PDA
+Poti Let Lb: LOM) “then ftom -eoigts Man
+
+guchthat | (M2) ..
+aS
+
+bet Mi (OS, 5,6 9L2LF) and
+Moe (R25 TR S2,42,22, p) Wae-
+Ba 9,0 $42, 4Fey
+faz FF utzaj
+and Sa ty defined as falar
+oe 5a( 92, €,22) = {OU 2123) F
+Q- for HY &Q,, & E Lo (ey. mdzel”
+Ba q.at) = Bs Guat)
+fn oth YEF and ze le
+bxlq, c= We IF
+Ay faa ehh EBS, BaQue erty (HE)
+paamintstc PPA
+
+@ PdA N= (QEeL IZ F2 fa deteunivistic Ph tow
+
+Bono cotigadiol, fe Which M NA a dice
+
+wore fear. one Wed» fe eons \\ tote
+
+MPDA Mi cletexyedniette of 3 .
+
+fom ora Ved, @eZVLES and ZET
+
+9 — Sz) Contains ctraet” one 2
+
+POS WC? oak apace
+6( 4ayz) = Pfr MZEZ no
+
+a-
+
+2A Ey 2
+danpentt Lee detounintne corrteet free La
+
+CDePL) ff tue enkts a DEBA accep hug ee
+ay we may pecabt teat We ciel wat odin
+Pesbusaite egos tae Ni =
+
+Considored bat DEA and NAS ae ‘
+Teeth Yaa hem equivalent
+
+pearwer
+per precognsih foe gant Jegaetes Dt Cie
+jbl Caeuntort ae
+ase aes Yast [afore 7'3 ‘
+ Heantes ee iis
+shy. pipag Oe
+j= Conary
+
+Hance [spe DCR ae
+
+ass
+EQuivalerce of pba and CFGN '
+Themene pach Contact free Lange a accepted Bx
+pusrancr  atomatrn
+Pek To pone ject we
+comtent hres Iaiegunge | en, toeae anise &
+
+> Tue poe “has ont me xtoteyond remains peu
+fe Gonkect “Foon grammar:
+
+Y= Conver toe gern fn GNF:
+Q- Me QUT YF 9-80)
+aid 3 16 defined of pollens
+deine, (RR penta
+
+B(4,a-A) ©
+(iu TG Amt One
+& BW.6)-(W SIF
+1 & bet GetUuT RD ain ol pod a
+a yc SAv Aa A83 B44) = $0,409
+A eee
+we 5(4,2.2) =4 4,0}
+se Ay
+P= ¢ Ayer oas
+Ag 3 aArts| aAsAs
+As by
+
+we can castly uoity teat cekare'smntp
+‘wo ee eb
+[+ S-predetions one given by 6 F4e,20,4] fr euny veg
+
+2 = Gah uowe raring aAteek Aymbel gin by (41 €)€ dai
+indus HL prduction« (4, 2,477 &
+Schade eee,
+
+— bach move nat LHating a Af2ck Aymbe| given by —
+2-Zm) trues many predeci
+
+Hote meats
+pevevanlle ys]. [Yen ¢y/]
+
+[v2.4]
+when uch oftue Hdd gy! 4243---~ Va Canbe
+“y Atal in@- We a
+ee
+2H) P
+eli aetd
+- [2% 4)
+2 (49%) 9
+
+fee 9°04) 8
+alo -%
+
+muh TY 2484)
+3a( 4a A = {o-rb- (4-43)
+
+6 (4, 2, A= CZ mAs), (4,AsAs)}
+scr rs) £UOd
+
+Let w2aabb—
+
+Tanke AON AE y, bb,
+a cain As)itgt, (6-4)
+rg acceptel bX & poA.
+
+There s- TE a Lamprge
+canterct oer LOAPARE
+
+poe fe (ee
+eae ie de a ert) fee emepeR Te
+(GEE 072-9): vag GaP D) bea Fe
+j fue fer
+A ee fe plus the
+
+fer fa enh 968 foe praduction
+)= (6,4. + A fmt]
+
+fo ee 44a o> Wet E QL 26 SOLE saat
+so Lea-- Bm € T, Such thot ee
+Cy A) Crodaing U4, i 62Bs- --
+Bee eh (Ci Ge, oye S
+Whe Be given 3 saad sa!
+
+5(.40,0,22)= {(¥0-Xz0}}
+ECV a.x)= ((VORAT
+& (9, &%) = (@-0 jv
+ECU, b= {VO}
+
+ECU. EX) = FCW.EY
+BWC) =(UH.08
+
+Gruso; To consut a cPG  G=CWT PY That
+
+gears NUM), Let
+Vo (48. Cre. ¥ae) CH RA], (Ue eC Vix]
+[ie 204A Cie te We] (1.20 VE) [zee Sod RG)
+
+hor P Cotas
+
+Y= g+ (oze,4e]
+$a [doZeH]
+:
+
+ie Siyy azo) > _Ceexto}
+(veze.05) 7 ¢ Coon teglve 2 vw) |e (tox anda]
+Crore VI ac genx ave 2b a (ex) [au z0%)
+Pee then, . © Me. = £ (.x)}
+(ax.4] 7 8 Coon aa) le] |
+
+_, often) Cv.) 4 [ye?
+
+alter AiIlnr-V]
+nn) (HX V1)
+
+(v4
+ty B® (ana) > b ~
+Chou) > &
+(wrxa)7é yee
+
+CM, 2-49 €
+Wo STACK PusHDoWwN AUTOMATA
+We Sk ee
+
+Letus defines too- Stace Poa to be
+
+MalL§ FEF)
+
+Wz (Qe, 6.17. %0,%422. F)
+
+Wohi
+Zy - stack het sxumbel; for stack
+2 ky eSackS
+
+ee tae
+and QS, T02F ome clefined evo
+
+S is te Aronson belotion 4 defined on follows
+
+(Qx cee) * = ir) a(x’ r)
+i
+
+Pera tue putt ‘2
+Rtas Puslteseinboll
+
+sSAjack — Papstue oe fm
+pa ee ow 2" Shack»
+
+RAMP — coateueta  foeStek PDA Fer Het Langung?
+‘ aprtet i ny,o
+a
+
+Ces :
+negate apsiinte
+
+oe aH); rate
+aaz2)P e
+
+Be 2122) =
+5 (%0,0,2,%2) =
+6(Yo @,a,22)= 4 ( a
+5a, b,0,Z2) = § (44% bea} |, pus du BLN
+(va, bb )F abel stseh
+
+cE Gab) = {a8 F 7. ain
+
+eee ae L926 OF
+
+o(ty b a b)=
+
+Exenple-:— -
+eee Le Sota bs 970}
+
+5 (4eeszuza) > {(%E> e)}
+
+Eve, azizae (ve, 1,022) Pur a's on bill agg.
+
+6 Cp, 4.4,a)= f (¥, 94, 24)} 3
+
+(40,6, 4.4= Sv ejb} 2 On b4 pep fom 3k ck ton
+
+jens push b on dlack-2
+
+5 (4, 8 Ob)= fy eb
+
+§ * azi,€) hasan Shik) Ont
+CU ca sag Sie 44 i b> fam ancka
+
+6 (42, a, 2-6) = (092,04 5
+
+5 (42.6, @,4)= Cus, 6F
+
+BUS, BLU ® Cw.e.2F
+
+EC VRETLADE eeu toy
+
+sat =
+
+i
+
+Heh kakueucl 0 (nhp0— jack: PO fae tO Langadt
+hafarerc'd®  nyAg
+
+5 (ae a.1-23)? (0,021,022) }
+se aaa) =f (40.08, 29)}
+g(40-b0,4) = Se}
+
+Bc ob) = (Cwedey
+FHCtub) = faa cer Ot
+6 (42,008) = £42, C6H6)5
+
+§ (aad,e1a) = $43 09
+eUMaca = LBL} \s
+S(meri2y > {(V3,62)F am
+DECISION ALGORITHMS foR CFL'S
+\y- Emptiness t-
+
+teunrems- TG 9a Costert fro yonnen fan tne
+exists fome olgorithen to Gnqwen Wher LOG) = oe
+
+net-
+wre fest Whatter te Longngt qwrt &Y
+Gar ue 2Leiminate
+
+os nok
+
+grammar GB empty
+ou uselas Seinbos productions +
+pet Tees, cembot OF
+
+ean LUG) = e
+ay oteunive
+
+G4 found t¢ Uselews
+
+Uc) #°
+
+_ Finitens i
+- —
+fer 9 iver CGY 6, Pa anit ae
+cugpton 72 tenn whet LUC infinite ovnet
+0 Ramone all c-productes unit prod
+And uselaw exgen Bot *
+Dao nolwded TPM,
+Aa 4BB 12 a producto NSocnade
+fam Uutex A te B:
+
+By Lp te directed graph mee 9 eycle tee
+Low i infinite % ay 7 Saab
+thang varfable i foto, deuvetion je beany AY, AZ
+
+es ON in mapas) is a CRG, with paductoy
+
+yrars =
+igen
+uct ons
+
+co Ala
+act ac\b
+Ro Ce
+
+sh
+
+Since, fuer fro cede inthe apraph Hr LOOP is
+
+H2t- S AB\a
+ra Sl
+Bo Cle
+Co aad
+
+Sighs p.\ acer qe sean THe
+
+LUG) > tefl’
+Congiden pur grammar & Write production —
+
+Sa Aga |bad|>
+
+A Ca\bDbA
+
+B7 bAA
+
+C4 ada |br laa
+
+D> pabA
+
+fat Wet KL) mae ou finite
+
+3). Membensp
+For a gives agramman & and a4 ating ld fuse dels
+om alganitiin to detente Whetuer meee) ©
+Pk i Oke agente CCodte = crngen = Kasam)
+Y= Goma MUA pe im CONF!
+hea
+\ fox iz) endo n=l ni
+vis fas Are ta a production and i sembbot ef
+\ wk 3
+
+|
+
+Fon Jzate nde
+
+vis DAA BS Wa prod® $ Bisin
+Vig Furs te Mites
+
+tha membaof. Vy Hun wel)
+pk
+
+end
+it S$ Grae Azuroet)
+ends
+
+y= Fit coment faa ffromunad in to ONF
+Ss Asygc
+
+an Bala
+
+B7 Clb
+
+Ca Aw\a Ase
+
+Ud ws beabe
+
+Vis Combed Stat Sxmbel Yo w eLle)
+—
+
+&-S
+Aa BC a) 9 28\2
+Brad @ 7 Abb
+
+CaAB
+We qaag
+———
+
+Garey atten e UE ™
+a
+
+Pua eeiean see
+TORS MA GHINES 5
+
+1936
+
+A Various fecrmulasions,
+Twdng'4 Jocmnulation jaceccepted aa
+modal algostom or Grmipukation-
+sara date A LT
+YtAiag a Linear tape, abich basa Loft en and i>
+poterchialty inFrite fo fue sagt The pe ig divided into
+Celta and Mic COLL Can teld re symbot fem pee
+alphabet If yur Aquare (cell) ray Ko Stmbel wie say
+it Gorda fre blank Sebel
+The Mate Tos 9 trend (Read [rite] Torab ot any
+Hime head a Symbol and wae asembol-
+
+> Tue tnd con move Joft o% wile wee caren
+pesition after preadlngy our Sembel-
+The. einen co" formally olenoted 04
+
+Mz (QiZ,E 8-40.48 F)
+
+Valune Qe Fini ear of Ste
+erp” ep ape tebe.
+sper S162 blank
+Se Finite set A inp Sembsts
+Go intue jnittad atate €9,
+
+F istee achat tinct aati
+
+& is Hre transition fonction end dleftiud a felloos—
+&: AKT FQ {Lky
+we we tee symbol L and R to Acuote ;
+et tuadte tue oft ox high
+Tatarlanenst cescription— (1D)
+Ted TD eg tuning bacldine fa defined in dens of
+exten Tnpur Ate ‘qnd tue Cayrvout tate We docote
+an Ip dtu tay wade po bY XP Whe
+
+qb tHe Pusert Atrte of M
+ad, 14 tee ating toate ot
+
+e eutine inp be
+ex=
+&
+
+ag jates (an
+
+Lat tue Gnat Stedta h Finite conte! Yr teen,
+TD of tu madclare a
+
+ipa ob QU ce
+ - Se
+Y Tae
+u c
+
+pret “tee Sembol uncler,
+
+‘ss Rw tenet
+ey-
+
+Moves fo TM 3_
+
+pees Vite aes
+
+Pat ub eielaiden OQ. 0y.Q2.- 4 Dfeh VU Bates =, Ams
+
+amet state aq ondte sem bol
+under Rin tread (5 at; Seppe 5(4,07)= bbe,
+
+bea Ip Here te
+
+tun We walle
+Wize, eee, bi ais ae
+Pak Sco
+Lodael- lat cs
+
+&
+
+tet. “MF QS, Vea) faa 1: We
+Aamgunte exceapted by My denoted & Cenubistuc
+‘ashes -Hraetaneegmame ss teteeay MEE TTA enter &
+Final SH han placed, usted ot AF on testape
+et» with ™ fm atete Yoand tH fape teaclof mM
+aptur LoPtuwest Cell - fea mt
+Lu) = for Wee" and yw be Aa P fox
+Some g,€F, Re (*F
+Construct QTM tat attepts tue Laguene
+Lef{w? WELolyt and O Ceutady olojea
+Subthing? Jo
+(pe
+
+ald Jo.) pk)
+ble.R)
+(ajs.k) ~ (
+e & —“")
+
+j- TORING CoMPUTA BLE FONCTION :~
+
+‘Sul FW Tug Computable on Sinphiy com pufadele
+HM feu enists a uM a
+
+com putins ~
+
+pls t f
+
+Le He COO veae F) be a TMD Ont hea Tae
+Rinidonake Dy Let fet ony top ching [FO
+Wwe seq phat Hue function 16 compated lox TM nif =
+nt X\YX2 for atk wed and X= 2
+Thin fnaion, catte! doth, Dim Ketel SG
+Moin os Wee, Mammen k-rupley
+Wires Wi 64 Which F ig defived —
+
+* .
+qn) $e un se AWK pha
+=A eben te
+
+A Ute ween 7 WOK
+
+Dd
+Thom ane 402 AKPH, St patinchows— Y— Ever pabindatae :
+2) - Old patincrome
+
+Ta pablndrome stn? frm WP dee
+Seinbool frm nile:
+
+CGanstwuet OTM fx ‘tee enguge Le fae": nr}
+
+(ble)
+
+VARIANTS OF “TURING MACHINE
+
+Tr fe cleantor twilug Mackine Can pores fain
+icles Computation’ Ty Osclox to favsst acto tux posit
+teas st Yet Mone poasorfil anctowatn,; fH wel ty ;
+hath cee ee Tang machine
+
+A wed ficabion tate Rote notion ef tue TM Used Se
+for lato alto Tt tape be jnfinite inboth Ait
+Thetepe nootwos ho ictinguicled Daf wcest SY Aone
+amdpue inp stiug Te placed outs Jape (4 Conseuctivg
+Ces — Somendbere ancl He susteg tee Tepe ih filled
+with blanke-
+
+2 Ce ve
+
+UT RRRET Pe Tar-
+
+Tua machine with hao inffatte,
+
+aun exachy OL pouequl Ot TUAY —_—
+Lol oe iape- on,
+Pei ek My be que oe Lao erst la
+shoo use Seine Cape tray mali ne
+> Simulate My with M2.
+Dati, My tt spun, tate, Tame 18 aes left
+fom \efraat swuare ue Maclin crags Let $
+pect symbat hat in [7 fr Mag pat erat
+
+Peitin Zero ("5 MB
+
+skinbel fuse
+
+4
+TR Mactine Mz. go loftte We "S”
+machine will candy »
+
+Stmiote M2 Wity mh :- |
+
+ia ta 4 Oe
+
+Jape trrat isinfinile tome
+
+oth, have +02 Jacks, One to
+
+rape te fue paght eftue
+
+rack Sos tut symbole
+
+Ler My & have
+pagt ona ™
+Yue squares of ML"
+Symbols » gna te
+Lt Gide fH Swmge orden’
+
+2-10 ee
+ale tlel@ilsle We haa
+ayaa ail @ Ga 83 Oy
+
+2)— Mabthee ting De
+A multtepe TMov K-tepe “Tuning machine Conatt
+ot «Finite, coakeel colin 6 Froo wage Fn finite tape
+and Ktape Aneaolt, 2adrtnpe is Connected te He finite
+Conta by Mem mand “fo AIW head
+
+ve
+Tr Ome move —
+
+py. THe Fratle Contvoh Heads Symbols frome tach fape -
+
+Be Move tach Head Left on hight indpelicaee
+
+3)— Write symbol owtit oo curerct cebls-
+ex Coming mackie — (with two tepa)-
+Y= Copy eqte Sembee ote lalate
+rein treagls of looky teed jo toe nit aie
+
+phan.” tk fund »
+a Move tet freadep tee First pape tote (eFr untit
+
+Mme is fomel:
+
+2) = pin bane te fac of path tepa tote Aig
+copy ing to sxinbels from fixt the tale cea
+tape:
+
+Ca)- Initially.
+
+oer eis
+
+prea — “**
+
+t
+w- bir = step) -
+on CSE
++
+©- Pfr step @)-
+
+eee!
+: Vw Tol Te lll ore
+
+ob lel Tt le Tal]
+t
+
+The hemi
+an 2xacty ion macltne wit mubtipletepes
+Pousfal ax baile Tring mactsine »
+
+rape-t
+
+SRC)
+
+TAPE -K
+
+5)- Nov-daformintitic Turing machine 3.
+nvr ducrmtateric Tra” Mz (,/1,6, 104, E> is
+
+ded exoery jn care Weg O49 ordinany Tm, atcepim
+fun nction 6 +
+
+shat fue transition
+0 LR
+Oe Ra at F ari
+
+4 Mut Arsod Tntug Mackine ;—
+
+(79) numbers of treasls ow
+of fue TH Aapeds oxfues
+mad by €ach tad:
+
+ju samne tape anda Move
+and prabltie sxmbols <can
+
+Sarr Tela lel
+
+i He we
+
+, a
+64 Qar> Qxrx (L885
+
+maalagrenaversqnerton © ele
+option clout extend He
+
+2 We Twin
+aterdad Ty.je tee Stey
+Pose of TM
+
+es ) (2)
+
+we
+
+Ixy, L)
+% 3 3
+
+We
+O- Murti mensional Tung Mackie y=
+Te K-dimtioal aN machine has finite conteol
+tape (ead and oa tape lite Wore ean ous climausir
+se feansitien function © 16 defiradl 8 follows —
+
+EPQXF > QKT* EL RUDY
+
+macline |S a special car oof multi
+
+An off-line ta” { ;
+ol. Hue infect Zabe 18
+
+tape poring macleine in lui
+
+Pory  Commspantencd paren sc
+
+fr iclewe of Pcp consis af fue Lise, K= (Xu
+
+xn) ond
+XEWwe--- of ateings over ume atbhabed Z. Ts inslence af pep»
+
+frat a totution if tere {san a
+_ Sea fe hs Sayan Ee
+
+The 4 ot . = ns
+Tee Aeiuenetivta = <a) a Aation fo faslmer af
+
+Coa g
+i eee LX= $01, 000-1} = Dow the pep tise
+
+piooo 70 Oh
+
+5
+Gh __ 900,009 +
+
+‘hm, bs
+
+Wence (2,29) 9 @ olution
+
+e- Lr £2 fancy and P= (XX) Where
+
+is
+
+Ke {ical beay
+
+ye fee, ab, bays Doss tee pep tas a dolutin.
+
+SUHO|- Heat pppoe
+eee] a Hence [V2 34) 16 adfolution
+
+qe eit
+
+Ye ler Kefab- ba, b,abb, 23 & > (ata ahh: HOD
+Dou ter PCP haga <obetion
+
+i
+we
+UNIVERSAL TURING MAGE =
+4 Conraputr”. But once &
+
+duc waatitne fo Heated te cartyi ts clehived,
+ype st Computation Di ve Ul ck one papeti
+igitel Dm Pater on tie Cah
+
+find one piural pape waclsine tant can be
+mined ty clo differnt Joles ot diffentut asd
+
+Tus objection can loc ourtomne 1 deriqning la
+
+pophpraromable Turing machine , Colled a
+‘Untuesal Tuna, ynacluine”
+
+A. UTM Mu fe an automaton pot ee
+as fapet fa degcrlptin of amy Turi
+Morand o eting 2, Can simelate, THe Compaction of
+
+Wen we To Comtuet auch Qn My we Hirst Choote
+a Heda wary b deuribinge Tune roockined —
+initial <tete
+
+Lt Qe $tda---- 4 with W> pi
+qa Fil
+
+fe ay, ar---- “Amy,
+
+\
+Black
+ich Ve ts moprented
+
+We trom Seed” a encedlnf in
+
+by 1, yo. 14 Hepatol by Ah anal Ow Simibeaty-
+{ anas LE <tc ThethinGet
+apparater betwen 1-
+
+ee
+iy
+
+au th encoded o44
+6 voitt les used an &
+
+Ufta 4 \70
+Hitt + 0 ae
+
+Fen emmple=  SC%-02)= (42.08L) git aphm as —
+----40410 U0 nLoLo
+
+OTM futur hat an Input ajphaber tat jncusle oA}
+Contd Unit of
+Mu
+
+Dercxiptionsf M1 Le et apt of
+carey) : é ceokles)
+— Tape coneduef (rape) oi sik
+
+and we tepek wh keep am Oe
+Foc ang inet TO ait conbatre tet toh ‘cat E
+are Te cab aM: Mu Lect aay
+
+andl “pe tae intenral ;
+
+ aterurine Toe configures
+cin ot Sots ST gape age Ot NT
+an jn tus Configuaatiom® 4 boy
+poe modified t rofl
+
+CHURCH THESIS
+
+Suppose we Were Lo Wake fie Conjecture :
+dome Sense, Turing machines ane aqua) in eile
+pla digital compan Hoo Could We deferd ox refute
+arch a hy ofa 3
+To clofend it, we Coldtabs cdequarte of jrereati
+wore Aiffiowtt problems and Zod fet hoo Hey ane
+Sard by dome Turing machine -
+we might 4nd tofind Owe prcduae Fir winich we Can.
+Write a compar progr, lout foe wwleiel we Cam
+shaw feat 2 Turing Mebbine extets Df tas
+Wer postible - WE Wd have 2 oasis Fee rf
+ict no owe has Yet bean able t prduce
+arch tes hguebeen
+
+ir cannot be dove >
+s*euay Indication FS
+potnciple o£ porrtul as an Computer”:
+
+sy Te a ajetes frot on Campalee
+
+Cannied by mechatitcal means Can lane performed by
+Sows. Tung macline’? .
+
+be Compegecon to mechautaal if and ody if
+
+be performed by dome Turing wacldue «
+= Hib
+
+quod tuning machine, ane in
+
+trot canbe
+
+{ke Com
+
+RECURSWE $ RECURSWELY ENUMERABLE (ANGORE
+
+TORING HeciBAKe Lacunces :_
+SS
+
+A Tm 3 decides Lif M compile tur choractouishic
+Famctin Fw) = ifs Hf wel
+
+ei if wee
+
+ie- Mhanguage Lis turing decile if ture eniets
+
+a Toring machine M uot accep L and that halts
+
+on wir et producing output 4 if WEL and Oo
+
+| otteuaiie fe rue enists a memberslip gotten fr
+
+i)
+P hanquage te necunsive te Hee a TM The
+deftly L- it:
+
+A Reayutue anumarable languoge : —
+A hanguage Lis we It Huw enits a Tm teat
+accepts L: ie oo Lan eLis sre TH uu Ke
+
+TM quat accepts words ir Land efter prjeuts
+
+La (Ot) Cote
+00K
+
+f we Ww” accep
+00 Reset (Lnp fes-venr)
+wei0l Reieut
+
+Hence fuy Lomguage L 1A Hetusrs fue enumetable ,
+
+a = Cue St ve
+
+wok
+Accepy alt words Amat iolth Q Breet aH
+Hot dp Lot - Henroe fre Aanpuage  recurutve
+
+Properties of REG Recwmsine Langue ye e
+Themes TF tee Langusse Lis Hacunsive, Hoe C
+ei Sauusive Tee tue Sa Te M
+
+No
+
+Pare? TE UStr2 Qretwo pucwuine Aaugia ged
+Haan Livl2 4 hetoutue
+
+he
+
+4
+M ———%
+
+TE Ly $ Lo @e two Heersiic chumenable
+
+Pheonan 3)—
+Tongus qlin acdmtve Nenapietblem
+
+Jongquaps fuoh LiVL2
+Unaag
+
+el ees eee
+
+mnGin TP LG Ly, DU He Hen L,ML2 fe
+
+aldo eeursive
+
+ie
+
+Shonen © *
+enumorable +
+
+Trennem-S * i
+Teena S u ub ecutive enumareldle Language
+Whe complemmct L ole HeCUANve ehumeable tere |
+
+Lf herafve »
+fe siux
+Cilla
+
+wo and a Tag
+
+10 felts om |
+]
+
+we ae given an Inpect Airing
+pall Whettur ov rot
+
+Suppete
+mde, M-Cav we
+08
+
+Undtecideble_problent $- at
+able tue HP Ne
+
+A pablen & undectas
+
+i piain).os bpaaan, amet Peele
+Sey aaksuaToas Qlacttian, GUL OMe ee
+Phienee! (Ser eetho”. ep veene salets ONY
+Gals alge tom fun peblew 1A “qecidable”. je tn
+enbisae Tuiing mackine 4 deaa fs
+TWheoneus- The chet Rig
+
+isundecidable ps
+ae
+
+Them i PCP Tf Udedidable:
+Pah. Tet sufficiad mo choo thal MRC
+ho, Hetoauld be clectdable wWhatver a TM aetna Tees
+That th we deduce TM te MPCP/ which id keduece te POF
+Fite wiped 20 conchet; om incbence= op HPP ea
+Solution if M accepis) w+
+p- create tuo List X ond Yy fist elucaet of List X 4
+
+a AE {oUt
+i an Te (Tape Bomba 2 the neparates te
+2 fr each we XE T CO sppenilt ote
+List ® Ey
+x x
+og +e
+3)- fac 2uh 4 Q-F, peQ. xxozr eT”
+Uist & Lar ¥
+at Y YP if 8X2 (CR)
+u” pzy YE 6C-*) EPID
+i yp Hf 8 PNB)
+ifs Nab)
+eae PZ ae Nob)
+ty. fos each Ger and Xx and Ye T | usa
+USK bet |e
+xy | ae
+xy Vast Lae
+aq 7 \int
+5 fr en yer ir
+Lie @ ed os
+7 % —
+ae abe 0,0) fai.)
+® ie (G29) {42,08
+
+EXERCISE
+
+Bunt 4: Shad quar tee fellawteg qramman 16
+
+Qmuleiquous
+S> ABlaaB |
+A ala
+Bob
+ay Gime daivedon Foe (Care) #e)) Fae b usege |
+he {rama -
+eretTIT |
+qo TeF\F
+
+Fo Ce) lalble
+
+Shoo Wor We grammar Jn exencibe-2 1s
+
+3)-
+un areloi quous-
+yy — Find fue reduced yrammar -
+£3 abss|oa
+A QOH
+G2 aA bb
+
+5)-  Ediminate usebus froductions fom —
+$7 afaAlBle
+A» able
+BIA
+
+Ca ccd
+Da add
+
+G)— Conor tre grammar vita perducttons —
+$9 ABa
+A> aab b
+B+ Ac 2
+
+te ewe
+i
+= Tramifem Hoa grammar oH preduichions -
+g abAe
+Aa beable
+‘ QB Bra Ale
+Jote Chomsky normad From. «
+Convert Yue qrammah -
+$— agh|bsala|b
+nto GNF
+Convuct fre qrammar nto GNF-
+
+S32 ABbla
+AO OQA\B
+B> bab
+
+In) — Determine Whelter He Abding we qabbb 14 ine
+
+Construct NPDA fos te Apllening Sanguaga —
+ie eat ee cet nyo, 7 £3
+= Le fader nyot
+
+£5) EAN urs ngmg3ang
+
+4)- Lies pqwo) + relia) = Me) Y
+
+12)— Practae NP OR fortne Language
+Le {ab (ae)™ b(ba)™ 2 07%
+
+B= fing am WPDA Ov Fefarb.cy teat accept 8 Hoa
+Lefwrewa : were {a,b} ues ) ee
+
+y= What taugusge is accepted by tee Pda —
+Hef ates 94,95}, {8% {OLA}, 8, Ze, be,459),
+with
+BC, biZe) = £1, 12s}}
+Subd) = {easy
+BCVaa4) = {Cv er}
+6sary= {(44, 65
+Shy ate Sez), (iret 3
+1S)—  Contteuct an NPBA Covrespond ig tatu grammar —
+SAaheBlaha
+A gBR [a
+8 bBBIA
+1) - Find an NP DA With 08 ay hepa
+Le Caree™ yn7 ty
+pe Find a context-free eames fant gene ga
+re aceapted by ur PDA?
+Me pe (Coed, {0b}, 4A, f%, =u),
+wit fun feansttions
+Bet) = { Co, 42) 5
+5 (vars, A)= § Ue BAI}
+i aA) Ene)}
+
+Explaix DpDA + prove fiat te danguedt
+Le fab; 7/0} ja Letermeiiatatic
+
+18)-
+
+Cova foes Aarepuoge be y;
+
+Y= Le Satetc 070}
+BE eafannty
+
+g- Le fore rpitiat
+4y— LefoP: pis prime}
+
+Sil Hoe nora? one both prime f.
+agg gui yak fami hens frat danquicgss
+qriercedion ancl Complemesciaions
+Lanquate fo Contec frees
+
+20) —
+ane ot coed under
+e\)— Shao thet the Fellaaing
+
+Le(ree ayPinaye) = nae? 3 Y unteint
+
+2-  Shootret Sue of
+
+sre imed inde nid, co
+
+aab aa
+
+caudeet tk bogey
+
+ncatenation, and Kleene
+Chbsure *
+
+Q3)- Design a Tod machine tts nO mone tan three
+labs Yuck accepts dia Langage L (a tate),
+
+gue What Language is acuupted by tae Turing macliine |
+
+AS) Costu Turi
+1 A machined pat wr a
+Finely, donflogees regres) a
+he Le far (al js evany
+Oz le tM: Hae? mytt
+O- Lefar "en 43
+
+ws Lf! we a Bad
+
+ee Lagann BT 7G
+
+2) -  Constuct @ Turlngy se i com
+ya) WH,
+
+faachiinenaa compo fue pllowivg
+
+Q2)- Design Tan
+casita: inte go represented te
+
+Functions fon. Kare i b
+
+ee four 2%
+
+ay poms ott 3d
+y- py ex IF x is OH
+z
+
+2 owl
+=
+
+Pars yw mod §.
+
+4) -
+Feni= ee
+
+&)-
+&)- fous xl
+28)— Write shat nots Chunch eests-
+pe
+
+oe
+
+24)- Dasiqn a Non-detemdnistic Tent machine for
+baal | coe Ls fuses we avi}
+
+Sy- Explain univogad Turing mathiue-
+
+B)- Gime a Complete cesnaea | fet Has Juin gmackdva
+
+8 (M1, Op = (UW,OnR)
+5(aa)= (9380)
+5(Vaas) = (42-Aa.b)
+22) - Design Two stack PDAs fox He fplloaing Janeyusgas
+
+oe Lefat viet: ny, 13
+
+d- Lefon Brctdl™ : 07 A}
+
+By, boats Barb s 7 Ay
+
+sii Le force: ny Ad
+
+82) Expo. Chomsky ~hiomreing
+
+aja" Halting problem of Jucing matline fs undecidable”
+
+ekplai-
+Bh)- ek Ke {lh yoo-\\Ny
+Xe{ne ool HY
+
+clos tu pep tor a Apluhion 2,
+3Q- Let xe Cool, oot, Welly
+Nef ole, M010} + Dost tue pale (%X)
+have a Golution?. Dou tt have on MPCP Bolte?
+F)- "The octet Pot Correrpondence problem f
+urdicidable” explain. 183-—
+<j MODIFIED POST CORRESPONDENCE PRORLEM
+
+Giver +wo Lbs x= CXLX2-- +n) and Ye(XL Na Xn)
+clot there exists a Kequouce of integers i iy
+enc Prot
+
+aa
+
+The oliffeuee betweon fre mipep ind POP P+rat iad
+MPCPL @ Qoluti=n is Meg uticed eStart With Heo frst
+yy on each Lite
+
+Theme: EP pep We cloridable tren MPEP would be
+cloidable Thatls MPCP seduces to pcP
+
+refi Lar We Compty Xn) and Ko (y, Xa ~~ Xn)
+
+be on instonte of PPCP- We conuod fuuis
+
+inddence of
+MpcP to an instance of Pcp.
+
+create new Lit by adding Ne warols -
+
+usa ust6
+wre Ft, we=k
+
+oe aus 6$
+
+and +lot is obtained by addicg =
+i Fen 78 befece e¢
+te be ee op ataiag 2 ne
+a J . *
+q Uke af Kifer LyeL
+
+aeniban ¢ Pla
+
+ae ot R cP Hee
+SUL Ry aolutiened MOP
+
+[O iin ---- be,ket) ida aolichion of PCP
+
+Joe
+
+See ber es et bt ke {1101 1 Ty Piel
+
+° €1¢ Sette
+: 46 qiqiqs
+2 | teogiest te | ¢4¢0
+Sl age 0
+
+onO Ee +
+
+ex Findtto ingtauce of pep for The follnaiegy
+=~ ingauee eb MPcP >
+X= ( lol, ote, Col, 0)
+
+\e (io, \1ol, ool, 06)
+
+oe lt Ke BE poor thy ay Vy O0L 1] apajue
+~ wren hei aie
+
+tea -(V8a) 9s
+
+eA q xs OH
+
+qs
+aakiay
+
+= LEFT quiATINEY
+
+ex:
+3 dove se (Before)
+ae °C Atte. soft stitt)-
+
+baa
+
+ae ba be
+b babst
+baabst
+babbar:
+babi
+
+as
+en FG Oe
+
+4j- sein a Sxmbool
+ofemetimes in the aypning ofa TM we may with
+dolete a character frmt< ashing ontie tape exactly
+fron tus wrrantiy pointe te rx Aymbol
+
+ae b@bad
+
+te ee, Ct clefetion)-
+
+(ob) Gy bY)
+
+24 Ga)
+13)
+
+(ban (6.8.8) (eb,
+io Cee) ahh) 8 war
+On Ore See [Rares I
+(ares A
+
+pa boar
+# 08 baab #
++ apbabbs
+
+A
+
+4+ aR babii4e
+ge ab babi #
+
+wi
+(aio.
+
+9. ox”)
+
+Fema
+buy (uy ®) eae
+Sn A Gee ern
+
+ia iF man
+
+tf mon
+
+a at™ ene increment giver binary neby 4:
+
+Fey
+
+[a Oe |
+
+Cress Ca)
+
+cutact 1 fam binart
+
+cS
+
+ae
+
+4 ao
+oR) cub (0
+
+a yet) feat! une
+
+GAY (LL (FRARR (GFAER) ©
+
+[sims a -) Ponflewad
+jie es
+9 again 0 bina rele
+Let the binary Nos. UH sities in top] ancl separated
+
+v- Tf Left-pat
+
+2- subint 1 fom
+ay Add 4 to te Og
+
+ay- got ep 4°
+
+a Oe tofind De
+in unary,
+
+quer ne
+
+aR
+ages: thy
+
+W-  Max(mny= fm fo omy
+rf mg
+
+Lieiat SNP
+ay @) Av, L)
+(210L)
+Shu)
+
+wa we a
+1)
+Gi. Comuarsion «
+
+2) ee
+
+cu) OX?
+
+0
+WR) (x8)
+
+OC
+# i > (od) C
+GETS ,RELATIONS, AND FUNCTIONS
+GES A Act ida well-defined collection ef objed»
+Fae Ad ofall Abela ina callege- We Uke Capited
+A,8,¢ --- foe denoting 4dx,and Amal) Jeter 9,b,c -
+dangle qe -elemoty of ony Seb. whan a if an element
+ore A thon Wt wiute ea, arden a 1g not. 2
+tA We Udhite AeA
+Vaio wap of chacibing, 9 act
+Bytisting IE eleweiti— Foon te cet of Bh fest
+ntegors dividibl by 1S and Jugdhan A100 Can be umittens
+{IS GoNS.4045,905 ©
+2 By duawibing hu brnpodies eftua ebewuchsof tha
+Ay on, We Ach SEN Usa hositine integer divisible
+by iS and Austlaw too F chuciioe uc vet $16 3640 Cosi
+B- By Hecunbiou for ex, Le Act fons aoet Omi=GntSp
+deustetue all hater) number fea. 4 Memaindose 4
+When divdediy 3 -
+
+Subbels ard © ofeactions om ety
+R140 daidte be gibt of 9 (A&8) f wey
+lemact ot Ai4 ae an clamuc fg.
+Ft A=£9.83 0) B= {13.245
+Aco
+7 Tom <M ALS one Cul (A=) iftth
+A He dug ‘we (A=8) Ml
+
+Topdrethot A=—, we bume TACK and SoA
+
+DA el with’ no element 14 Called cn -embly ext, ale cal
+anu seb oc @ void 40 adit dana ge le
+—
+
+AVR = Le HEA x r4OF
+AN@= fx: EA and Xe Y
+A-@= Ln: wmerand x¢6}
+
+3 A deve v-A, Where U id 4ke Urivoad ap,
+Hee fot of aft clemeds Under contileratfen -
+Pudeuet = The <ecbet abl cubscte af a set hig
+SS ae peusw, Act ef A+
+
+Ralv23y
+3
+2s fo.9n es, 1a cuggiagyy
+
+ax= (a,b): aeA and bes}
+Cd pal, “ie (4,8) id ditlowd from (4,2)
+Fouthan;- bet { be ater. A collection -
+
+(Av Aa, - 2 An) st Aubsety od S La called a
+Pocttion 1G fy AINA = 6. (143) and,
+«
+g2U At
+
+HK S2W23 40 6HEG en Any) 7
+(@) R= Lac 2494 .
+are duc partition off Ge
+
+A Gulation R ina act & iga collection of oF
+pase of -elemotty im © (ic a Rubgep ef Oxg) -
+When (GY) Kin R, We waite Ry . when,
+(Oyyia ret in R swevrite ory >
+
+R'y -
+
+Patpocties e4 Relations =
+
+LW Aselation Ring id soflexive if Rx foc
+every xin S-
+
+WD: A Relation Q se in S is Aymmetste IF for wyin
+Wee When ever RY
+
+Ci) = Ae faletion Rie Te FA franaitive foe oy and
+Zin & xRz Dhoneuen mRy and y kz:
+
+> Pruaatio Rta set S idCalled an equivalet
+Sihation Fit TA SeoHexive, Aymmetric and teansiti
+aX ULI ane inkegowe Agy frat { 4
+Gn BS wodule w ( oriten ay je 5
+1$ (1-3) fa divaible by n> Tee 4
+module” ia elation Which iy YeFlerive and
+SynmeWie Cf i waintie bya), ical
+VU led medn and jek medn, Hen we have
+tS <an fe dome a and i-k = bn fee
+
+b do,
+dek= i-d4S-K = antoNs Catb)n
+G) : wT ane
+Which weand  j2K medn , doteerelahin 14 <qubalane
+
+pore
+
+Feychion Afuncin ox mab { fon anet x 4B a Bebvig
+a tule which astoe’ aleste every Clemach xin Xa
+unique element Way, which i¢ dausted by Fen The
+for ig caled ur image of x undor J
+Fs aa |
+eg. fi RoR 7 dle te Swe qr pant fpr
+enony ain  ( Redent te et Sf Aea) numba)
+DFP I daiel te be one-18 OSU injective)
+if clifexect clemed in X que Chitleuut
+imager He Atxyd flr) When rye Ar -
+5 ANS ia OO ie, entity
+d iny id ts mange of Come element Hin X-
+ES) £:PX id, diol te bea Owe-Te-ove covres
+wr bisection If F ik betle one-te Crcand exe:
+
+oe fi 29% Given by Fin) 2” Ik ome.
+bit not cole
+fon) = FOr) THU gm = ANG
+
+Winer one to ene
+
+> Tt ig net orte fine no odd ij =e
+ee image Ofany element jnz-
+
+STRINGS ad THEIR PROPERTIES ; -
+
+& ating ower an alblabeh ete iq finite
+
+dequante of cymbals fem =:
+=X clensta jue set of all steings (includi
+Ee etably ting) ves Hrgalpluahet set
+zee fe}
+
+DS ler XLY oe Hoe <dngs or “he Con
+H XA ig Aousted by x
+Pladug y after %-
+ey a= Of” ye]
+
+an ae?
+
+18 obtained by
+
+\=aALGol,
+ful xy & yn
+
+\Olo
+olol
+GAL GOL ALGOLAE
+\— Corcatenation eta et =* id aaaociatve since
+Fruhay,z in eX, xyz) = KYy)zZ
+= ar aa oS att
+OVA fo Binaby eration ef
+109 ay —
+Pe a= zy Re)
+
+seny HE Cds Gnaldin):
+
+Vey le ly py
+
+Trane °. ion
+ ortatiaTEI gnal_ az
+(wa)T= acl
+3 pabindvome Ta ahi whith Y dae wheter
+fe re
+laughs Con be ebpalived by Concalencch or ahdg is
+amppore Ie bet X= abl La str
+gbeeba ida pelidooa
+Auetixi- p prefix eta sing ida subshirg of
+eae gum bala epg Shaleg ‘¢
+jb ey! wid a poche cf of
+dhing 129 Ave oun faedinat—e,1 12,3
+bPxs- O Jufbix of a ding 10 aubstivg of
+aly aynbelicf trat ativg. ie:
+yy O's a sidfix of y-
+123 Aque Sar supfines-©3,9 3, 123
+
+Sting |
+
+Principle of Inetuction:- ;
+
+The pocug of Hoatouing fom geurel obseivaiau,
+te dpecific ute id Called induct:
+
+Shy- Pure pl) for P> Ot Qreop Foc tive basis
+
+B- pesume fe Lutlt fompestiod fos Pur) + Trducied.
+3 bore fin) Using jroluctin ny pnaittl age
+
+Eg porethot |tSto4-- ¥en? for all ny
+wid am odd number; » id fa hum ben ef:
+
+Yowu: ler hel
+aie se 4 [RHs= 224°. ee
+
+2D— Byindyction Hyportsis -
+[t3+SF- = + teh
+WEES ey fe FRrel) ard
+3)- Wehgue te provetiat
+HBFSt = + Bn 1) ve, ol Gag kad
+py ee
+D ndyrQ= ny an-14+.9
+
+>r+anti
+
+apd =RwS
+
+n>
+Ex Povethad € 1% nay ined
+aie je” ee Lae
+
+at a Condlubion rod We fenewd I Wncorrect we con loyy
+The Hawt ewtie Atandig aacumption amd conclude
+tat P fustbe true -
+
+2— & patiol number is ano-at Corbe a4
+he Hato ef two WMiegeru om ond n ko that 9 and m
+fave no Goumen factors Aded ne. dhatts not ational)
+YU Quid te be uratinal
+DSO Hot BR & twraonap. 199-
+
+Asin all :
+eee
+
+¢ proofs by ppeedlat eh 8s assume Hye
+
+Hoe we assume thet $2 i$ a hastional Ne kotha re
+
+is wen Butts
+n& m havens
+ot xi St aad
+
+TW implies
+Gontcocict bute axcumpim that
+Pe teen ad Se ee
+
+fo i4 vot a vationd number
+ex - theo uot Le NB .ond giz ve
+
+isoele poretional numbent-
+
+Ridin t= in auto maton ib defiad a a dyckm Ohue
+op Wrafedala qnd infomation apo qeaneformed, yan mitted and,
+o ta performing Come functions witout Aikact partied
+qd feucnig
+
+)Inpa — At Zak chigrele Initance OPH, i
+ra
+Tea cuban: «2.00 OFM ine as ce i
+
+2 with 1 Or- Oy ae the oubbite of pe made
+3 Sates — Ab any jdlng ef Hime-Hie automaton Canoe in ened
+ee VW 42> - Mn
+A~ Stee polation = Tae nent state of an quitomater a
+any ivstad bf timo (4 detemuned bp 5
+iam he naa
+S- output Helatin— ru output if febled ty esfuer
+Grote only oe He bot apie inpuck andl He Mate
+v
+
+uct ndlon WHuerct Mery Qutpmcleuorie
+v
+Mere machine
+
+Ch bp bit suf sugistes )
+MK Staty (0020, coe) --- INl))
+S= {011} input cymbo)
+O= {68} cut pur cymbal
+Output depend bot du _hupct_and Hee atate do Fe
+I$ & meaby machine. hi Bae,
+Tranrtion Suck :- [aie anata: system]
+Attansition graph o¢ a jeansition Xyakem i inthe chixected.
+Habelled grape in which each vertin supine a Ateté cmc te
+Aimectéd edgy indicate the pensitin 4 0 Atala ond fx edges eg
+ut na Put
+
