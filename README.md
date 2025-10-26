@@ -16,4 +16,5 @@ A Streamlit web application that extracts text from various file formats includi
 1. Clone this repository
 2. Install required packages:
    ```bash
+
    pip install -r requirements.txt
