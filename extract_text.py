@@ -4,10 +4,8 @@ from docx import Document
 from PIL import Image
 import pytesseract
 
-# --- Set path to tesseract executable (adjust if installed elsewhere) ---
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-# --- Functions to extract text from each type of file ---
 def extract_pdf(file_path):
     text = ""
     try:
@@ -83,3 +81,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
