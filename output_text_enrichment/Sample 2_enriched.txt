@@ -1,79 +1,55 @@
-## 1. Introduction and Objective
+Introduction and Objective.
+The Audiobook Generator is a web application designed to convert your text documents into high-quality audiobooks. Users can upload one or more files—in PDF, DOCX, or TXT formats—and the application will automatically transform them. It achieves this by leveraging Large Language Models, or LLMs, to rewrite the extracted text into an engaging, listener-friendly "audiobook style." Following this, open-source Text-to-Speech technology is used to produce downloadable audio files. This project significantly enhances accessibility, boosts productivity, and enriches the enjoyment of written content.
 
-The AudioBook Generator is an innovative web application designed to transform your textual content into engaging, high-quality audiobooks. Users can effortlessly upload various document types—including PDFs, DOCX files, and plain TXT files—and watch as the application automatically converts them into an immersive listening experience.
+Methodology and Workflow.
+The process follows a clear five-step workflow:
 
-At its core, this system leverages the power of Large Language Models, or LLMs, to meticulously rewrite and enrich the extracted text. This crucial step ensures the content is not merely read aloud, but actively adapted into a captivating "audiobook style," making it far more enjoyable for listeners. Following this intelligent enrichment, open-source Text-to-Speech technology synthesizes these polished narratives into high-fidelity, downloadable audio files. The ultimate goal of the AudioBook Generator is to significantly enhance accessibility to written content, boost productivity by enabling on-the-go consumption, and ultimately, elevate the enjoyment of every uploaded document.
+First, **User Document Upload**. Users select and upload one or more documents directly through an interactive Streamlit web interface.
 
-## 2. Methodology and Workflow
+Second, **Text Extraction**. The backend then parses these uploaded files and extracts their text content. For PDF files, it utilizes libraries like PyPDF2 or pdfplumber. For DOCX files, it uses python-docx, and for TXT files, it employs native file reading.
 
-The journey from a written document to a high-quality audiobook unfolds through a streamlined, five-step workflow:
+Third, **LLM-Based Text Enrichment**. The extracted text is then processed by a Large Language Model—such as the OpenAI API, Gemini API, or an open-source LLM. This model rewrites the text to improve narration and enhance the listener's experience. A typical prompt might be: 'Rewrite this text for an engaging audiobook narration.'
 
-### 1. User Uploads Documents
+Fourth, **Text-to-Speech Conversion**. The newly enriched text is then fed into an open-source Text-to-Speech library, like pyttsx3, Coqui TTS, or Tortoise TTS. This step produces a high-quality audio file, either in MP3 or WAV format.
 
-The process commences with the user interacting with our intuitive Streamlit web interface. Here, they can easily select and upload one or multiple text documents, initiating their content's transformation.
+Finally, **Audio Download**. The generated audio file is then presented to the user for immediate download directly within the Streamlit user interface.
 
-### 2. Text Extraction
+System Modules.
+The application is built upon five core modules:
 
-Once uploaded, the application's robust backend takes over, parsing the files and precisely extracting their text content. This is achieved through specialized libraries: PyPDF2 or pdfplumber for PDF documents, python-docx for DOCX files, and native file reading capabilities for plain TXT files.
+*   The **Document Upload Module** manages file uploads through the Streamlit interface.
+*   The **Text Extraction Module** extracts raw text from PDF, DOCX, and TXT files.
+*   The **LLM Enrichment Module** interfaces with the Large Language Model to rewrite and enhance the extracted text.
+*   The **Text-to-Speech Module** converts this enriched text into audio using a Text-to-Speech library.
+*   And finally, the **Audio Delivery Module** presents the finished audio file to the user for download.
 
-### 3. LLM-Based Text Enrichment
+Implementation Timeline and High-Level Requirements.
+The project implementation is structured across four two-week phases:
 
-The raw, extracted text then undergoes a critical transformation. It is fed into a powerful Large Language Model—which could be an OpenAI API, a Gemini API, or an accessible open-source LLM. This model's task is to intelligently rewrite the text, refining it for superior narration and an optimized listener experience. For instance, the LLM might receive a prompt such as: "Rewrite this text for an engaging audiobook narration," ensuring the output is perfectly tailored for auditory consumption.
+**Weeks 1 and 2:** Focus on environment setup and dependency installation. This phase also includes implementing file upload and multi-format text extraction capabilities.
 
-### 4. Text-to-Speech Conversion
+**Weeks 3 and 4:** Dedicated to integrating the Large Language Model for audiobook-style text rewriting. This involves building the API connection between Streamlit and the backend LLM processing.
 
-With the text now enriched and styled for narration, it moves to the next stage: conversion into audio. Here, an open-source Text-to-Speech library—options include pyttsx3, Coqui TTS, or Tortoise TTS—takes the polished text and synthesizes it into a high-quality audio file, typically in .mp3 or .wav format.
+**Weeks 5 and 6:** The goal here is to integrate and thoroughly test the open-source Text-to-Speech conversion. This also includes ensuring support for different voice options and robust error handling.
 
-### 5. Audio Download
+**Weeks 7 and 8:** The final phase involves finalizing the user interface and user experience within Streamlit, conducting thorough testing, optimizing performance, and completing all necessary documentation.
 
-Finally, the generated audio file is seamlessly presented within the Streamlit user interface, ready for immediate download. Users can then enjoy their content in its new, engaging audiobook format.
+Evaluation Criteria.
+Project success will be measured against four key milestones:
 
-## 3. Core Modules
+*   **Milestone 1, by Week 2:** File upload and accurate text extraction must be fully operational.
+*   **Milestone 2, by Week 4:** LLM-based text rewriting should be working effectively and demonstrably improving narration quality.
+*   **Milestone 3, by Week 6:** Audio file generation, from the rewritten text, needs to be stable and of high quality.
+*   **Milestone 4, by Week 8:** The full application workflow—from document upload to audio download—must be operational, user-friendly, and comprehensively documented.
 
-The AudioBook Generator is architected around several specialized modules, each dedicated to a specific phase of the conversion process:
+Architectural Design.
 
-*   **Document Upload Module:** Responsible for handling all aspects of file uploads via the Streamlit interface.
-*   **Text Extraction Module:** Tasked with extracting raw textual content from diverse file formats, including PDFs, DOCX, and TXT files.
-*   **LLM Enrichment Module:** Facilitates the integration and calling of the Large Language Model to rewrite and enhance the extracted text for audiobook style.
-*   **Text-to-Speech Module:** Converts the enriched, narrator-ready text into an audible format using selected TTS libraries.
-*   **Audio Delivery Module:** Manages the presentation and provision of the final, generated audio file to the user for download.
+Technology Stack.
+The core technologies powering this application include:
 
-## 4. Week-wise Module Implementation and High-Level Requirements
-
-Our development journey is structured into focused two-week sprints, each with clear objectives:
-
-*   **Weeks 1–2: Foundation and Extraction**
-    During the initial two weeks, the primary focus will be on setting up the core development environment and installing all necessary dependencies. Crucially, we will implement the robust file upload functionality and ensure accurate text extraction across multiple document formats.
-
-*   **Weeks 3–4: Intelligent Rewriting**
-    Moving into weeks three and four, we will integrate the Large Language Model, enabling it to intelligently rewrite text into an engaging, audiobook-ready style. A key requirement will be building a seamless API connection between the Streamlit frontend and the backend LLM processing.
-
-*   **Weeks 5–6: Audio Synthesis**
-    The focus for weeks five and six will be on integrating and rigorously testing the chosen open-source Text-to-Speech conversion library. During this phase, we will ensure robust support for various voice options and comprehensive error handling.
-
-*   **Weeks 7–8: Refinement and Deployment**
-    Finally, weeks seven and eight will bring the project to its culmination. We will finalize the User Interface and User Experience within Streamlit, conduct thorough testing across the entire application, optimize performance, and complete all essential documentation.
-
-## 5. Evaluation Criteria and Milestones
-
-Project success will be measured against specific, deliverable milestones:
-
-*   **Milestone 1 (End of Week 2):** By this point, the file upload mechanism and accurate text extraction capabilities must be fully operational.
-*   **Milestone 2 (End of Week 4):** The LLM-based text rewriting functionality should be demonstrably working, showing clear improvements in narration quality.
-*   **Milestone 3 (End of Week 6):** The audio file generation process, converting rewritten text into high-quality audio, must be stable and reliable.
-*   **Milestone 4 (End of Week 8):** The full application workflow—from initial document upload to final audio download—must be completely operational, user-friendly, and comprehensively documented.
-
-## 6. Design and Architectural Diagram
-
-[Note: The architectural diagram itself is not provided in the input, but this section serves as a placeholder to indicate its importance in the project documentation.]
-
-## 7. Technology Stack
-
-The AudioBook Generator is built upon a modern and flexible technology stack:
-
-*   **Frontend:** Streamlit, offering a rapid and interactive web application framework.
-*   **Backend:** FastAPI or Flask (optional, providing enhanced modularity and scalability if required).
-*   **Text Extraction:** PyPDF2, pdfplumber for PDF handling, and python-docx for Microsoft Word documents.
-*   **LLM Integration:** OpenAI API, Gemini API, or a locally hosted open-source LLM for intelligent text rewriting.
-*   **Text-to-Speech:** pyttsx3, Coqui TTS, Tortoise TTS, or gTTS for high-quality audio synthesis.
-*   **Programming Language:** Python 3.x, serving as the core language for all development.
+*   **Frontend:** Streamlit provides the user interface.
+*   **Backend:** Optionally, FastAPI or Flask can be used for modularity or scalability.
+*   **Text Extraction:** Libraries such as PyPDF2, pdfplumber, and python-docx handle text extraction.
+*   **LLM Integration:** This utilizes the OpenAI API, Gemini API, or a local open-source Large Language Model.
+*   **Text-to-Speech:** Open-source libraries like pyttsx3, Coqui TTS, Tortoise TTS, or gTTS are employed for audio conversion.
+*   **Programming Language:** The entire application is developed using Python 3.x.
