@@ -1,15 +1,13 @@
 import os
 import google.generativeai as genai
 
-<<<<<<< HEAD
 INPUT_DIR = "output"
 OUTPUT_DIR = "enriched_texts"
-GEMINI_API_KEY = "AIzaSyBBP4wNii-Vf9R_MRJ3O_uOhUZtM1qMUQI"
-=======
+GEMINI_API_KEY = "your api"
+
 INPUT_DIR = "output"            
 OUTPUT_DIR = "enriched_texts"   
 GEMINI_API_KEY = "your_Api"
->>>>>>> 458c6381afc722d192173b4c1108c38241a7cd83
 MODEL_NAME = "gemini-2.5-flash"
 
 SYSTEM_PROMPT = """
