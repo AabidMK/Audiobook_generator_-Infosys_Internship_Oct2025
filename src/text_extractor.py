@@ -1,8 +1,6 @@
 import os
 import fitz  # PyMuPDF
 import docx
-from PIL import Image
-import io
 
 # --- PDF Extraction ---
 def extract_pdf(file_path):
@@ -68,28 +66,36 @@ def extract_images_from_pdf(file_path, output_dir="extracted_images"):
         return []
 
 def extract_image_text(file_path):
-    """Extract text from images using OCR (basic placeholder)"""
-    # Note: For actual OCR, you would need to install and use:
-    # pip install pytesseract
-    # And have Tesseract OCR installed on your system
+    """Working image text extraction - no Tesseract needed"""
+    print(f"🖼  Processing image: {os.path.basename(file_path)}")
     
     try:
-        # This is a placeholder - implement actual OCR here
-        # Example with pytesseract:
-        """
-        import pytesseract
-        from PIL import Image
+        # Try EasyOCR first if available
+        import easyocr
+        reader = easyocr.Reader(['en'])
+        results = reader.readtext(file_path)
         
-        image = Image.open(file_path)
-        text = pytesseract.image_to_string(image)
-        return text
-        """
-        print(f"OCR extraction would be performed on: {file_path}")
-        return f"[Image content from {os.path.basename(file_path)}]"
+        extracted_text = ""
+        for (bbox, text, confidence) in results:
+            if confidence > 0.3:
+                extracted_text += text + " "
         
-    except Exception as e:
-        print(f"Error in OCR extraction: {e}")
-        return ""
+        if extracted_text.strip():
+            return extracted_text.strip()
+        else:
+            return "No text detected via EasyOCR"
+            
+    except ImportError:
+        # Manual input fallback
+        pass
+    
+    # Manual description
+    try:
+        print("   Please describe what text you see:")
+        description = input("   Text in image: ")
+        return f"Manual: {description}" if description.strip() else "No description"
+    except:
+        return f"Image: {os.path.basename(file_path)} - needs manual processing"
 
 # --- Save text ---
 def save_text(text, output_path):
@@ -126,10 +132,14 @@ def extract_file(file_path, output_dir="output_files", save_as_md=False, extract
 if __name__ == "__main__":
     file_path = input("Enter file path (PDF/DOCX/TXT/Image): ").strip()
     save_md = input("Save as markdown? (y/n): ").strip().lower()
-    extract_img = input("Extract images from PDF? (y/n): ").strip().lower()
+    
+    # Only ask for image extraction for PDF files
+    extract_img = False
+    if file_path.lower().endswith('.pdf'):
+        extract_img = input("Extract images from PDF? (y/n): ").strip().lower() == 'y'
     
     extract_file(
         file_path, 
         save_as_md=(save_md == 'y'),
-        extract_images=(extract_img == 'y')
+        extract_images=extract_img
     )
