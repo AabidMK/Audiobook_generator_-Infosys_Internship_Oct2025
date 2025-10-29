@@ -1,0 +1,12 @@
+{
+  "greeting": "Hello listeners, welcome...",
+  "auto_summary_template": "In this audio, you will learn: {first_line_summary}",
+  "max_sentence_length": 120,
+  "abbreviations": {
+    "fps": "frames per second",
+    "api": "application programming interface"
+  },
+  "list_indicators": ["-", "*", "•", "1.", "2.", "•"],
+  "list_to_spoken_prefix": "First, ",
+  "list_item_connector": ", then "
+}
