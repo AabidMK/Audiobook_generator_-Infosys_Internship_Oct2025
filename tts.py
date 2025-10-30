@@ -39,8 +39,17 @@ except ImportError:
     HAS_COQUI = False
     CoquiTTS = None
 
+try:
+    from bark import SAMPLE_RATE, generate_audio, preload_models
+    HAS_BARK = True
+except ImportError:
+    HAS_BARK = False
+    SAMPLE_RATE = None
+    generate_audio = None
+    preload_models = None
 
-EngineName = Literal["pyttsx3", "gtts", "edge-tts", "coqui"]
+
+EngineName = Literal["pyttsx3", "gtts", "edge-tts", "coqui", "bark"]
 
 
 def validate_text(text: str) -> str:
@@ -66,8 +75,9 @@ def tts_synthesize(
     - gtts: online, Google TTS, decent quality MP3
     - edge-tts: online, Microsoft Edge TTS, HIGH QUALITY MP3 ⭐
     - coqui: offline, neural TTS, high quality WAV (large models)
+    - bark: offline, ULTRA HIGH QUALITY WAV with emotions (SLOW, large models 2-10GB) 🎭
     
-    Recommended: gtts (simple, reliable) or edge-tts (best quality)
+    Recommended: gtts (simple, reliable) or edge-tts (best quality) or bark (best audio quality)
     """
     ensure_dirs()
     text = validate_text(text)
@@ -126,6 +136,30 @@ def tts_synthesize(
         logger.info(f"Synthesized with Coqui: {out_path}")
         return out_path
 
+    elif engine == "bark":
+        if not HAS_BARK:
+            raise RuntimeError(
+                "Bark TTS not installed. Install: pip install git+https://github.com/suno-ai/bark.git\n"
+                "Note: Models are VERY large (2-10GB) and download on first use. Generation is slow."
+            )
+        
+        import scipy.io.wavfile as wavfile
+        import torch
+        
+        # Set weights_only=False for Bark models
+        torch.serialization.add_safe_globals([type(lambda: None)])
+        
+        logger.info("Loading Bark models (first time will download 2-10GB)...")
+        preload_models()
+        
+        logger.info("Generating audio with Bark (this may take several seconds)...")
+        audio_array = generate_audio(text)
+        
+        out_path = OUTPUT_AUDIO_DIR / (timestamped_filename(basename, "bark") + ".wav")
+        wavfile.write(str(out_path), SAMPLE_RATE, audio_array)
+        logger.info(f"Synthesized with Bark: {out_path}")
+        return out_path
+
     else:
         raise ValueError(f"Unknown engine: {engine}")
 
@@ -160,6 +194,13 @@ def list_available_engines() -> dict[str, dict]:
             "speed": "Medium",
             "type": "Offline",
             "notes": "Neural TTS, large models required",
+        },
+        "bark": {
+            "available": HAS_BARK,
+            "quality": "ULTRA High (with emotions)",
+            "speed": "Very Slow",
+            "type": "Offline",
+            "notes": "Suno AI Bark, best quality, includes emotions & effects (2-10GB models) 🎭⭐",
         },
     }
 
