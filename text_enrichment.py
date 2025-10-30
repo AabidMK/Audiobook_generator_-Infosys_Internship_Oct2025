@@ -1,117 +1,140 @@
+# MODULE 3 - Text Enrichment (Audiobook-style Narration)
+"""
+Uses Google Gemini API to rewrite extracted text into an engaging,
+listener-friendly narration style.
+
+Input  : extracted_output.txt
+Output : enriched_output.txt
+------------------------------------------------------"""
+
+import logging
 import os
+from pathlib import Path
+import textwrap
 from google import genai
-from google.genai.errors import APIError
+from dotenv import load_dotenv
 
-MODEL_NAME = 'gemini-2.5-flash'
-
-INPUT_SUFFIX = '_extracted_text.txt' 
-OUTPUT_SUFFIX = '_enriched.txt'
+load_dotenv()
+print("Google Generative AI version:", genai.__version__)
 
 
-class TextEnricher:
-    """
-    Reads extracted text, sends it to the Gemini API for rewriting, 
-    and saves the enriched output.
-    """
-    def __init__(self, api_key=None):
-        try:
-            
-            self.client = genai.Client(api_key=api_key)
-            print(" Gemini client initialized.")
-        except Exception as e:
-            raise EnvironmentError(f"Failed to initialize Gemini client. Is GEMINI_API_KEY set? Error: {e}")
+# -------------------------
+# Logging Setup
+# -------------------------
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
-    def generate_system_prompt(self, target_style="professional, engaging, and suitable for an audiobook"):
+
+class TextEnrichment:
+    def __init__(self, model_name= "gemini-flash-latest"):
         """
-        Generates the system prompt to guide the LLM's rewriting task.
+        Initialize Gemini client with API key and model.
+        Ensure GOOGLE_API_KEY is set as an environment variable.
         """
-        prompt = (
-            f"You are a professional content editor tasked with enriching and rewriting raw, "
-            f"extracted text. Your goal is to make the text more fluent, engaging, and polished. "
-            f"Do not add any introductory or concluding remarks (e.g., 'Here is the rewritten text'). "
-            f"Focus solely on rewriting the provided content. The rewritten style should be: "
-            f"{target_style}."
+        api_key = os.getenv("GOOGLE_API_KEY")
+        if not api_key:
+            raise ValueError(
+                "❌ GOOGLE_API_KEY not found. Please set it using:\n"
+                "   setx GOOGLE_API_KEY \"your_api_key_here\" (Windows)\n"
+                "   or export GOOGLE_API_KEY=\"your_api_key_here\" (Mac/Linux)"
+            )
+
+        self.client = genai.Client(api_key=api_key)
+        self.model_name = model_name
+
+    def enrich_text(self, input_text: str) -> str:
+        """
+        Send text to Gemini and get audiobook-style rewritten version.
+        """
+        system_prompt = (
+            "You are an audiobook narration expert. "
+            "Rewrite the given text to make it engaging, listener-friendly, "
+            "and natural for audiobook narration. "
+            "Preserve factual meaning, but enhance tone, rhythm, and clarity "
+            "to sound expressive when read aloud."
         )
-        return prompt
 
-    def rewrite_text(self, raw_text, system_prompt):
-        """
-        Calls the Gemini API to rewrite the given raw text.
-        """
-        if not raw_text.strip():
-            return "Content is empty, skipping enrichment."
+        # Combine system prompt and user input into a single prompt
+        full_prompt = f"{system_prompt}\n\nText to enrich:\n{input_text}"
 
-        print(f"    -> Sending {len(raw_text)} characters to Gemini...")
-        
         try:
             response = self.client.models.generate_content(
-                model=MODEL_NAME,
-                contents=raw_text,
-                config=genai.types.GenerateContentConfig(
-                    system_instruction=system_prompt
-                )
+                model=self.model_name,
+                contents=full_prompt,  # Simple string format
+                config={
+                    "temperature": 0.7
+                }
             )
-            return response.text.strip()
-        except APIError as e:
-            return f" API Error during enrichment: {e}"
+
+            enriched_text = response.text.strip()
+            logging.info("✅ Successfully received enriched text from Gemini.")
+            return enriched_text
         except Exception as e:
-            return f" An unexpected error occurred: {e}"
-
-    def process_file(self, input_file_path):
+            logging.error(f"❌ Gemini API call failed: {e}")
+            return ""
+        
+    def chunk_text(self, text: str, max_chars: int = 2000):
         """
-        Full workflow: reads input, rewrites, and saves output.
+        Split text into smaller chunks to avoid model token limits.
         """
-       
-        base_name = os.path.splitext(input_file_path)[0].removesuffix(INPUT_SUFFIX.removesuffix('.txt'))
-        output_file_path = f"{base_name}{OUTPUT_SUFFIX}"
+        return textwrap.wrap(text, max_chars)
 
-        try:
-            with open(input_file_path, 'r', encoding='utf-8') as f:
-                raw_text = f.read()
-        except FileNotFoundError:
-            print(f"Input file not found: {input_file_path}")
+    def process_file(self, input_path: str, output_path: str = "enriched_output.txt"):
+        """
+        Reads extracted text file, enriches it using Gemini, and saves output.
+        Returns true if successful.
+        """
+        path = Path(input_path)
+        if not path.exists():
+            logging.error(f"Input file not found: {path}")
             return
 
-        system_prompt = self.generate_system_prompt()
+        try:
+            input_text = path.read_text(encoding="utf-8").strip()
+        except UnicodeDecodeError:
+            logging.warning("⚠️ Could not read with UTF-8, trying latin1...")
+            input_text = path.read_text(encoding="latin1").strip()
 
-        enriched_text = self.rewrite_text(raw_text, system_prompt)
+        if not input_text:
+            logging.warning("⚠️ Input file is empty. Nothing to enrich.")
+            return False
 
-        if not enriched_text.startswith(('Content is empty', '❌')):
-            try:
-                output_dir = os.path.dirname(output_file_path)
-                if output_dir and not os.path.exists(output_dir):
-                    os.makedirs(output_dir)
-                    
-                with open(output_file_path, 'w', encoding='utf-8') as f:
-                    f.write(enriched_text)
-                print(f"Successfully saved enriched text to: {output_file_path}")
-            except Exception as e:
-                print(f" Error saving output file {output_file_path}: {e}")
-        else:
-            print(f"Skipped processing: {enriched_text}")
-
-
-if __name__ == '__main__':
-
-    extracted_files = [
-        f"Sample 1{INPUT_SUFFIX}",
-        f"Sample 2{INPUT_SUFFIX}",
-        f"sample 3{INPUT_SUFFIX}",
-        f"sample 4{INPUT_SUFFIX}"
-       ,
-    ]
-
-    print("--- Starting Text Enrichment Module ---")
-    
-    try:
-        enricher = TextEnricher()
+        logging.info(f"Enriching text from '{path.name}' using Gemini API...")
         
-        for file_name in extracted_files:
-            print(f"\nProcessing: {file_name}")
-            enricher.process_file(file_name)
+        # Chunk text if it's very long
+        chunks = self.chunk_text(input_text)
+        enriched_chunks = []
 
-    except EnvironmentError as e:
-        print(f"\nCritical Error: {e}")
-        print("Please set the GEMINI_API_KEY environment variable and ensure network connectivity.")
+        for i, chunk in enumerate(chunks, start=1):
+            logging.info(f"Processing chunk {i}/{len(chunks)}...")
+            enriched_chunk = self.enrich_text(chunk)
+            if enriched_chunk:
+                enriched_chunks.append(enriched_chunk)
 
-    print("\n--- Enrichment Complete ---")
+        if enriched_chunks:
+            enriched_text = "\n\n".join(enriched_chunks)
+            with open(output_path, "w", encoding="utf-8") as f:
+                f.write(enriched_text)
+            logging.info(f"✅ Enriched text saved to {output_path}")
+            return True
+        else:
+            logging.warning("⚠️ No enriched text returned from Gemini.")
+            return False
+
+
+# -------------------------
+# Automatic Run
+# -------------------------
+if __name__ == "__main__":
+    # Directly specify file path (no need for input)
+    input_file = r"C:\Users\SWATI\OneDrive\Desktop\AIaudioBook\extracted_output.txt"
+    output_file = r"C:\Users\SWATI\OneDrive\Desktop\AIaudioBook\enriched_output.txt"
+
+
+    logging.info("🚀 Starting automatic Gemini text enrichment...")
+    enricher = TextEnrichment(model_name="gemini-flash-latest")
+    success = enricher.process_file(input_file, output_file)
+
+    if success:
+        logging.info("🎉 Text enrichment complete!")
+    else:
+        logging.error("❌ Text enrichment failed.")
