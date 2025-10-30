@@ -1,0 +1,16 @@
+ Hello listeners, welcome to the fascinating journey of AudioBook Generator! This web application is designed to transform your written content into high-quality audiobooks, making reading more accessible and enjoyable. By using Large Language Models (LLMs) and Open Source Text-to-Speech (TTS) technology, we aim to bring your favorite books to life in a whole new way!
+
+In this project, you'll learn how to develop an application that allows users to upload text documents of various formats. Once uploaded, the app processes the text using LLMs to rewrite it for better narration and listener experience. After that, we use open-source TTS technology to convert the enriched text into downloadable audio files.
+
+Our workflow consists of four main modules: Document Upload, Text Extraction, LLM Enrichment, and Text-to-Speech Conversion. Each module plays a crucial role in delivering the final audiobook.
+
+During the first two weeks, we'll focus on setting up our environment, installing dependencies, and implementing file uploads along with multi-format text extraction. In the following two weeks, we'll integrate LLMs for audiobook-style text rewriting and build an API connection between Streamlit and backend processing.
+
+The last four weeks will be dedicated to integrating open-source TTS conversion, ensuring voice options and error handling, finalizing UI/UX in Streamlit, conducting thorough testing, optimizing performance, and completing documentation.
+
+We'll evaluate the project based on several milestones, including file upload and accurate text extraction, LLM-based text rewriting improving narration, stable and high-quality audio file generation, and a fully operational, user-friendly application with proper documentation.
+
+Lastly, I'd like to share a diagram that provides an overview of our architecture design and technology stack, which includes Frontend (Streamlit), Backend (FastAPI or Flask), Text Extraction modules, LLM Integration, Text-to-Speech libraries, and Python 3.x as the programming language.
+
+So sit back, relax, and let's dive into the world of AudioBook Generator together! We promise it will be an exciting journey that brings your written content to life in a whole new way. Enjoy the ride!
+
