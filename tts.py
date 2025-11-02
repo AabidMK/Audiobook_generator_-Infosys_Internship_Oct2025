@@ -1,6 +1,10 @@
+
 from __future__ import annotations
 
 import asyncio
+import os
+os.environ['TORCH_FORCE_WEIGHTS_ONLY_LOAD'] = '0'
+        
 import logging
 from pathlib import Path
 from typing import Literal, Optional
@@ -47,6 +51,7 @@ except ImportError:
     SAMPLE_RATE = None
     generate_audio = None
     preload_models = None
+    
 
 
 EngineName = Literal["pyttsx3", "gtts", "edge-tts", "coqui", "bark"]
@@ -146,9 +151,13 @@ def tts_synthesize(
         import scipy.io.wavfile as wavfile
         import torch
         import numpy as np
+        import os
+        
+        # Force disable weights_only loading for Bark compatibility
+        os.environ['TORCH_FORCE_WEIGHTS_ONLY_LOAD'] = '0'
         
         # Add safe globals for Bark model loading (PyTorch 2.6+ compatibility)
-        torch.serialization.add_safe_globals([np.core.multiarray.scalar, np.dtype])
+        torch.serialization.add_safe_globals([np.core.multiarray.scalar, np.dtype, np.dtypes.Float64DType])
         
         logger.info("Loading Bark models (first time will download 2-10GB)...")
         preload_models()
