@@ -1,42 +1,32 @@
 <h1 align="center"> AI AudioBook Generator </h1>
 
-# 1. Introduction / Objective 
+## 1. Introduction / Objective 
 
 AudioBook Generator is a web application that allows users to upload one or more text documents (PDF, DOCX, TXT) and automatically converts them into high-quality audiobooks. 
 The application leverages Large Language Models (LLMs) to rewrite extracted text in an engaging, listener-friendly “audiobook style” before using open-source Text-to-Speech (TTS) technology to produce downloadable audio files. 
 This project enhances accessibility, productivity, and the enjoyment of written content.
 
-# 2. Methodology / Workflow
+## 2. Methodology / Workflow
 
-A. User Uploads Documents
+A. User Uploads Documents - Users select and upload one or more documents through an interactive `Streamlit web interface`.
 
-o Users select and upload one or more documents through an interactive Streamlit web interface.
+B. Text Extraction - The backend parses uploaded files and extracts text content:
 
-B. Text Extraction
+`▪ PDF: PyPDF2 or pdfplumber`
 
-o The backend parses uploaded files and extracts text content:
+`▪ DOCX: python-docx`
 
-▪ PDF: PyPDF2 or pdfplumber
+`▪ TXT: Native file reading`
 
-▪ DOCX: python-docx
+C. LLM-Based Text Enrichment - Extracted text is processed by a Large Language Model `(e.g., OpenAI API, Gemini API, or open-source LLM) to rewrite the text for better narration and listener experience`.
 
-▪ TXT: Native file reading
+`Example LLM prompts: “Rewrite this text for an engaging audiobook narration.”`
 
-C. LLM-Based Text Enrichment
+D. Text-to-Speech Conversion - The enriched text is fed into an open-source `TTS library (such as pyttsx3, Coqui TTS, or Tortoise TTS)`, producing a high-quality .mp3 or .wav audio file.
 
-oExtracted text is processed by a Large Language Model (e.g., OpenAI API, Gemini API, or open-source LLM) to rewrite the text for better narration and listener experience.
+E. Audio Download - The generated audio file is presented for immediate download within the `Streamlit UI`.
 
-oExample LLM prompts: “Rewrite this text for an engaging audiobook narration.”
-
-D. Text-to-Speech Conversion
-
-o The enriched text is fed into an open-source TTS library (such as pyttsx3, Coqui TTS, or Tortoise TTS), producing a high-quality .mp3 or .wav audio file.
-
-E. Audio Download
-
-o The generated audio file is presented for immediate download within the Streamlit UI.
-
-# 3. Modules
+## 3. Modules
 
 •Document Upload Module: Handles file uploads via Streamlit.
 
@@ -48,7 +38,7 @@ o The generated audio file is presented for immediate download within the Stream
 
 •Audio Delivery Module: Provides the final audio file to the user for download.
 
-# 4. Week-wise Module Implementation and High-Level Requirements
+## 4. Week-wise Module Implementation and High-Level Requirements
 
 Weeks 1–2:
 
@@ -75,7 +65,7 @@ Weeks 7–8:
 •Conduct thorough testing, optimize performance, and complete documentation.
 
 
-# 5. Evaluation Criteria
+## 5. Evaluation Criteria
 
 •Milestone 1 (Week 2): File upload and accurate text extraction operational.
 
@@ -86,10 +76,10 @@ Weeks 7–8:
 •Milestone 4 (Week 8): Full application workflow—document upload to audio download—operational, user-friendly, and documented.
 
 
-# 6. Design / Architectural Diagram - 
+## 6. Design / Architectural Diagram - 
+<img src="Flowchart.png" alt='current' width="80%">
 
-
-# 7. Technology Stack
+## 7. Technology Stack
 
 •Frontend: Streamlit
 
