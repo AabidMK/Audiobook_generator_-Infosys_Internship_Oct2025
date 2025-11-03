@@ -1,8 +1,10 @@
 <h1 align="center"> AI AudioBook Generator </h1>
 
-# 1. Introduction / Objective : 
+# 1. Introduction / Objective 
 
-AudioBook Generator is a web application that allows users to upload one or more text documents (PDF, DOCX, TXT) and automatically converts them into high-quality audiobooks. The application leverages Large Language Models (LLMs) to rewrite extracted text in an engaging, listener-friendly “audiobook style” before using open-source Text-to-Speech (TTS) technology to produce downloadable audio files. This project enhances accessibility, productivity, and the enjoyment of written content.
+AudioBook Generator is a web application that allows users to upload one or more text documents (PDF, DOCX, TXT) and automatically converts them into high-quality audiobooks. 
+The application leverages Large Language Models (LLMs) to rewrite extracted text in an engaging, listener-friendly “audiobook style” before using open-source Text-to-Speech (TTS) technology to produce downloadable audio files. 
+This project enhances accessibility, productivity, and the enjoyment of written content.
 
 # 2. Methodology / Workflow
 
@@ -49,21 +51,25 @@ o The generated audio file is presented for immediate download within the Stream
 # 4. Week-wise Module Implementation and High-Level Requirements
 
 Weeks 1–2:
+
 •Set up environment and install dependencies.
 
 •Implement file upload and multi-format text extraction.
 
 Weeks 3–4:
+
 •Integrate LLM for audiobook-style text rewriting.
 
 •Build API connection between Streamlit and backend LLM processing.
 
 Weeks 5–6:
+
 •Integrate and test open-source TTS conversion.
 
 •Ensure support for different voice options and error handling.
 
 Weeks 7–8:
+
 •Finalize UI/UX in Streamlit.
 
 •Conduct thorough testing, optimize performance, and complete documentation.
@@ -96,6 +102,8 @@ Weeks 7–8:
 •Text-to-Speech: pyttsx3, Coqui TTS, Tortoise TTS, or gTTS
 
 •Programming Language: Python 3.x
+
+
 
 <div align="center">
 
