@@ -1,10 +1,10 @@
-AudioBook Generator
+<h1 align="center"> AI AudioBook Generator </h1>
 
-1. Introduction / Objective : 
+# 1. Introduction / Objective : 
 
 AudioBook Generator is a web application that allows users to upload one or more text documents (PDF, DOCX, TXT) and automatically converts them into high-quality audiobooks. The application leverages Large Language Models (LLMs) to rewrite extracted text in an engaging, listener-friendly “audiobook style” before using open-source Text-to-Speech (TTS) technology to produce downloadable audio files. This project enhances accessibility, productivity, and the enjoyment of written content.
 
-2. Methodology / Workflow
+# 2. Methodology / Workflow
 
 A. User Uploads Documents
 
@@ -34,7 +34,7 @@ E. Audio Download
 
 o The generated audio file is presented for immediate download within the Streamlit UI.
 
-3. Modules
+# 3. Modules
 
 •Document Upload Module: Handles file uploads via Streamlit.
 
@@ -46,7 +46,7 @@ o The generated audio file is presented for immediate download within the Stream
 
 •Audio Delivery Module: Provides the final audio file to the user for download.
 
-4. Week-wise Module Implementation and High-Level Requirements
+# 4. Week-wise Module Implementation and High-Level Requirements
 
 Weeks 1–2:
 •Set up environment and install dependencies.
@@ -69,7 +69,7 @@ Weeks 7–8:
 •Conduct thorough testing, optimize performance, and complete documentation.
 
 
-5. Evaluation Criteria
+# 5. Evaluation Criteria
 
 •Milestone 1 (Week 2): File upload and accurate text extraction operational.
 
@@ -80,10 +80,10 @@ Weeks 7–8:
 •Milestone 4 (Week 8): Full application workflow—document upload to audio download—operational, user-friendly, and documented.
 
 
-6. Design / Architectural Diagram 
+# 6. Design / Architectural Diagram - 
 
 
-7. Technology Stack
+# 7. Technology Stack
 
 •Frontend: Streamlit
 
@@ -96,3 +96,13 @@ Weeks 7–8:
 •Text-to-Speech: pyttsx3, Coqui TTS, Tortoise TTS, or gTTS
 
 •Programming Language: Python 3.x
+
+<div align="center">
+
+  ### **(｡◕‿◕｡)**
+  
+  ### Created with 🤍.. yours sincerely,
+  
+  #### &copy;Swati Tiwari 2025
+
+</div>
