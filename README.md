@@ -8,6 +8,7 @@ AudioBook Generator is a web application that allows users to upload one or more
 
 A. User Uploads Documents
 o Users select and upload one or more documents through an interactive Streamlit web interface.
+
 B. Text Extraction
 o The backend parses uploaded files and extracts text content:
 ▪ PDF: PyPDF2 or pdfplumber
@@ -17,16 +18,23 @@ o The backend parses uploaded files and extracts text content:
 C. LLM-Based Text Enrichment
 oExtracted text is processed by a Large Language Model (e.g., OpenAI API, Gemini API, or open-source LLM) to rewrite the text for better narration and listener experience.
 oExample LLM prompts: “Rewrite this text for an engaging audiobook narration.”
+
 D. Text-to-Speech Conversion
 o The enriched text is fed into an open-source TTS library (such as pyttsx3, Coqui TTS, or Tortoise TTS), producing a high-quality .mp3 or .wav audio file.
+
 E. Audio Download
 o The generated audio file is presented for immediate download within the Streamlit UI.
 
 3. Modules
+
 •Document Upload Module: Handles file uploads via Streamlit.
+
 •Text Extraction Module: Extracts raw text from PDFs, DOCX, and TXT files.
+
 •LLM Enrichment Module: Calls the LLM to rewrite and enhance extracted text.
+
 •Text-to-Speech Module: Converts enriched text into audio using a TTS library.
+
 •Audio Delivery Module: Provides the final audio file to the user for download.
 
 4. Week-wise Module Implementation and High-Level Requirements
@@ -48,9 +56,13 @@ Weeks 7–8:
 •Conduct thorough testing, optimize performance, and complete documentation.
 
 5. Evaluation Criteria
+
 •Milestone 1 (Week 2): File upload and accurate text extraction operational.
+
 •Milestone 2 (Week 4): LLM-based text rewriting working and demonstrably improving narration.
+
 •Milestone 3 (Week 6): Audio file generation (from rewritten text) stable and high-quality.
+
 •Milestone 4 (Week 8): Full application workflow—document upload to audio download—operational, user-friendly, and documented.
 
 6. Design / Architectural Diagram 
