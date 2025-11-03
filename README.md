@@ -76,8 +76,8 @@ Weeks 7–8:
 •Milestone 4 (Week 8): Full application workflow—document upload to audio download—operational, user-friendly, and documented.
 
 
-## 6. Design / Architectural Diagram - 
-<img src="Flowchart.png" alt='current' width="10%">
+## 6. Design / Architectural Diagram  
+<img src="Flowchart.png" alt='current' width="20%">
 
 ## 7. Technology Stack
 
