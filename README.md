@@ -77,7 +77,7 @@ Weeks 7–8:
 
 
 ## 6. Design / Architectural Diagram - 
-<img src="Flowchart.png" alt='current' width="80%">
+<img src="Flowchart.png" alt='current' width="10%">
 
 ## 7. Technology Stack
 
