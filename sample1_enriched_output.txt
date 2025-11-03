@@ -1,0 +1,37 @@
+### AudioBook Generator: Project Overview
+
+The AudioBook Generator is a web application designed to automatically convert text documents (PDF, DOCX, TXT) into high-quality audiobooks. The platform enhances the accessibility and enjoyment of written content by first using a Large Language Model (LLM) to rewrite the source text into an engaging, narrative style. It then employs open-source Text-to-Speech (TTS) technology to produce a downloadable audio file.
+
+#### Core Workflow
+
+1.  **Document Upload:** Users upload one or more documents through an interactive web interface.
+2.  **Text Extraction:** The system automatically parses the files and extracts the raw text content.
+3.  **LLM Enhancement:** The extracted text is processed by an integrated LLM, which refines it for a more conversational and compelling narration.
+4.  **Speech Synthesis:** The enhanced text is converted into a high-quality audio file (.mp3 or .wav) using a TTS engine.
+5.  **Audio Delivery:** The final audiobook is presented to the user for immediate download.
+
+#### Technology Stack
+
+*   **Frontend:** Streamlit
+*   **Backend:** Python 3.x, with FastAPI or Flask for scalability
+*   **Text Extraction:** PyPDF2, python-docx
+*   **Natural Language Processing:** Large Language Model integration (OpenAI API, Gemini API, or open-source models)
+*   **Text-to-Speech:** Open-source libraries such as Coqui TTS or Tortoise TTS
+
+#### Development Roadmap & Milestones
+
+**Weeks 1–2: Foundation and Data Ingestion**
+*   **Tasks:** Set up the development environment, install dependencies, and implement the file upload interface and text extraction logic.
+*   **Milestone:** A functional system for uploading documents and accurately extracting their text content.
+
+**Weeks 3–4: AI-Powered Content Refinement**
+*   **Tasks:** Integrate an LLM to rewrite extracted text into an audiobook-style narrative and establish the API connection between the frontend and the LLM.
+*   **Milestone:** The text rewriting feature is operational and demonstrably improves the quality of the source text for narration.
+
+**Weeks 5–6: Audio Generation and Synthesis**
+*   **Tasks:** Integrate an open-source TTS library to convert the refined text into audio, including support for different voice options and error handling.
+*   **Milestone:** The system can reliably generate high-quality audio files from the LLM-enhanced text.
+
+**Weeks 7–8: Finalization and Deployment**
+*   **Tasks:** Refine the user interface, conduct end-to-end testing, optimize performance, and prepare documentation.
+*   **Milestone:** The complete application workflow is fully operational, user-friendly, and ready for deployment.
