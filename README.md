@@ -7,22 +7,31 @@ AudioBook Generator is a web application that allows users to upload one or more
 2. Methodology / Workflow
 
 A. User Uploads Documents
+
 o Users select and upload one or more documents through an interactive Streamlit web interface.
 
 B. Text Extraction
+
 o The backend parses uploaded files and extracts text content:
+
 ▪ PDF: PyPDF2 or pdfplumber
+
 ▪ DOCX: python-docx
+
 ▪ TXT: Native file reading
 
 C. LLM-Based Text Enrichment
+
 oExtracted text is processed by a Large Language Model (e.g., OpenAI API, Gemini API, or open-source LLM) to rewrite the text for better narration and listener experience.
+
 oExample LLM prompts: “Rewrite this text for an engaging audiobook narration.”
 
 D. Text-to-Speech Conversion
+
 o The enriched text is fed into an open-source TTS library (such as pyttsx3, Coqui TTS, or Tortoise TTS), producing a high-quality .mp3 or .wav audio file.
 
 E. Audio Download
+
 o The generated audio file is presented for immediate download within the Streamlit UI.
 
 3. Modules
@@ -41,19 +50,24 @@ o The generated audio file is presented for immediate download within the Stream
 
 Weeks 1–2:
 •Set up environment and install dependencies.
+
 •Implement file upload and multi-format text extraction.
 
 Weeks 3–4:
 •Integrate LLM for audiobook-style text rewriting.
+
 •Build API connection between Streamlit and backend LLM processing.
 
 Weeks 5–6:
 •Integrate and test open-source TTS conversion.
+
 •Ensure support for different voice options and error handling.
 
 Weeks 7–8:
 •Finalize UI/UX in Streamlit.
+
 •Conduct thorough testing, optimize performance, and complete documentation.
+
 
 5. Evaluation Criteria
 
@@ -65,14 +79,20 @@ Weeks 7–8:
 
 •Milestone 4 (Week 8): Full application workflow—document upload to audio download—operational, user-friendly, and documented.
 
+
 6. Design / Architectural Diagram 
 
 
 7. Technology Stack
 
 •Frontend: Streamlit
+
 •Backend: FastAPI or Flask (optional, for modularity or scale)
+
 •Text Extraction: PyPDF2, pdfplumber, python-docx
+
 •LLM Integration: OpenAI API, Gemini API, or local open-source LLM
+
 •Text-to-Speech: pyttsx3, Coqui TTS, Tortoise TTS, or gTTS
+
 •Programming Language: Python 3.x
