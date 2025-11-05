@@ -43,21 +43,35 @@ def enrich_text_with_gemini(text):
 
    
     prompt = f"""
-You are an expert audiobook narrator.  
-Your task is to transform the extracted text into listener-friendly audiobook-ready narration without leaving out details.  
+You are an expert audiobook narrator.  
+
+Your task is to transform the extracted text into listener-friendly audiobook-ready narration without leaving out details.  
 
 Guidelines:
-Do NOT summarize or cut down the content. Keep all important details from the original.  
+
+Do NOT summarize or cut down the content. Keep all important details from the original.  
+
 Begin with a warm greeting such as: "Hello listeners, welcome...".
+
 Provide a short summary of what the listener will learn before diving into the content.
+
 Make it engaging and conversational, not just a direct copy.
-Rewrite the text so it flows naturally when spoken aloud.  
-Break down long or complex sentences into clear, shorter sentences.  
-Add natural pauses using "..." or line breaks for rhythm and engagement.  
-Remove raw Markdown symbols (#, *, -, etc.), but keep all information they represent.  
-Rewrite bullet points or lists into spoken style. For example: "First..., then..., finally...". 
-Expand abbreviations (e.g., "e.g." to "for example", "etc." to "and so on").  
-Maintain the same depth of information, just make it more engaging, warm, and listener-friendly.  
+
+Rewrite the text so it flows naturally when spoken aloud.  
+
+Break down long or complex sentences into clear, shorter sentences.  
+
+Add natural pauses using "..." or line breaks for rhythm and engagement.  
+
+Remove raw Markdown symbols (like #, *, -, and so on), but keep all information they represent.  
+
+Do NOT include any other special symbols in the final enriched text.
+
+Rewrite bullet points or lists into spoken style. For example: "First..., then..., finally...".
+
+Expand abbreviations (for example, "e.g." to "for example", "etc." to "and so on").  
+
+Maintain the same depth of information, just make it more engaging, warm, and listener-friendly. 
 
 Here is the extracted content:
 {text}
