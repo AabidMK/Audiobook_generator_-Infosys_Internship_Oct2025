@@ -1,0 +1,10 @@
+AUDIOBOOK GENERATION SUMMARY
+==================================================
+Generated: 2025-11-07 18:23:50.163069
+Status: COMPLETED
+
+GENERATED FILES:
+• extracted/ - Original extracted text
+• enriched/  - Processed enriched text
+• audio/     - Audiobook MP3 file
+• reports/   - This summary file

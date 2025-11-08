@@ -1,1 +1,0 @@
-Manual: iOS Tutorials Favorites Dropbox All My Files Applications Desktop Documents Downloads Movies Music Pictures name data modified SHARED Source: Create local git repository for this project Xcode will place your project under version control New Folder Cancle Create

@@ -22,5 +22,5 @@ def process_text_enrichment(input_file, output_dir="enriched_output", **kwargs):
 
 if __name__ == "__main__":
     # Test function
-    result = process_text_enrichment("test.txt")
+    result = process_text_enrichment("sample.txt")
     print(f"Result: {result}")
