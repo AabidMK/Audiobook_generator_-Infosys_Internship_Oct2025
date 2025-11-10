@@ -1,0 +1,610 @@
+DATA STRUCTURE AND ALGORITHM
+
+DSA in Python refers to Data Structures and Algorithms implemented and utilized within the Python programming language. It is a fundamental area of computer science crucial for developing efficient and optimized software solutions.
+DSA History
+
+The word 'algorithm' comes from 'al-Khwarizmi', named after a Persian scholar who lived around year 800.
+
+The concept of algorithmic problem-solving can be traced back to ancient times, long before the invention of computers.
+
+The study of Data Structures and Algorithms really took off with the invention of computers in the 1940s, to efficiently manage and process data.
+
+Today, DSA is a key part of Computer Science education and professional programming, helping us to create faster and more powerful software.
+
+What are Data Structures?
+
+A data structure is a way to store data.
+
+We structure data in different ways depending on what data we have, and what we want to do with it.
+
+Family tree
+
+First, let's consider an example without computers in mind, just to get the idea.
+
+If we want to store data about people we are related to, we use a family tree as the data structure. We choose a family tree as the data structure because we have information about people we are related to and how they are related, and we want an overview so that we can easily find a specific family member, several generations back.
+
+With such a family tree data structure visually in front of you, it is easy to see, for example, who my mother's mother is—it is 'Emma,' right? But without the links from child to parents that this data structure provides, it would be difficult to determine how the individuals are related.
+
+Data structures give us the possibility to manage large amounts of data efficiently for uses such as large databases and internet indexing services.
+
+Data structures are essential ingredients in creating fast and powerful algorithms. They help in managing and organizing data, reduce complexity, and increase efficiency.
+
+In Computer Science there are two different kinds of data structures.
+
+Primitive Data Structures are basic data structures provided by programming languages to represent single values, such as integers, floating-point numbers, characters, and booleans.
+
+Abstract Data Structures are higher-level data structures that are built using primitive data types and provide more complex and specialized operations. Some common examples of abstract data structures include arrays, linked lists, stacks, queues, trees, and graphs.
+
+
+
+What are Algorithms?
+
+An algorithm is a set of step-by-step instructions to solve a given problem or achieve a specific goal.
+
+Pommes Frites Recipe
+
+A cooking recipe written on a piece of paper is an example of an algorithm, where the goal is to make a certain dinner. The steps needed to make a specific dinner are described exactly.
+
+When we talk about algorithms in Computer Science, the step-by-step instructions are written in a programming language, and instead of food ingredients, an algorithm uses data structures.
+
+Algorithms are fundamental to computer programming as they provide step-by-step instructions for executing tasks. An efficient algorithm can help us to find the solution we are looking for, and to transform a slow program into a faster one.
+
+By studying algorithms, developers can write better programs.
+
+Algorithm examples:
+
+--	Finding the fastest route in a GPS navigation system
+
+--	Navigating an airplane or a car (cruise control)
+
+--	Finding what users search for (search engine)
+
+--	Sorting, for example sorting movies by rating
+
+The algorithms we will look at in this tutorial are designed to solve specific problems, and are often made to work on specific data structures. For example, the 'Bubble Sort' algorithm is designed to sort values, and is made to work on arrays.
+
+
+
+Data Structures together with Algorithms
+
+Data structures and algorithms (DSA) go hand in hand. A data structure is not worth much if you cannot search through it or manipulate it efficiently using algorithms, and the algorithms in this tutorial are not worth much without a data structure to work on.
+
+DSA is about finding efficient ways to store and retrieve data, to perform operations on data, and to solve specific problems.
+
+By understanding DSA, you can:
+
+--	Decide which data structure or algorithm is best for a given situation.
+
+--	Make programs that run faster or use less memory.
+
+--	Understand how to approach complex problems and solve them in a systematic way.
+
+
+
+Where is Data Structures and Algorithms Needed?
+
+Data Structures and Algorithms (DSA) are used in virtually every software system, from operating systems to web applications:
+
+--	For managing large amounts of data, such as in a social network or a search engine.
+
+--	For scheduling tasks, to decide which task a computer should do first.
+
+--	For planning routes, like in a GPS system to find the shortest path from A to B.
+
+--	For optimizing processes, such as arranging tasks so they can be completed as quickly as possible.
+
+--	For solving complex problems: From finding the best way to pack a truck to making a computer 'learn' from data.
+
+DSA is fundamental in nearly every part of the software world:
+
+--	Operating Systems
+
+--	Database Systems
+
+--	Web Applications
+
+--	Machine Learning
+
+--	Video Games
+
+--	Cryptographic Systems
+
+--	Data Analysis
+
+--	Search Engines
+
+
+
+Key Components of DSA in Python:
+
+--	Data Structures:
+
+These are ways of organizing and storing data in a computer to facilitate efficient access and modification. Common data structures include:
+
+	--	Built-in Python structures: Lists, tuples, sets, dictionaries.
+
+	--	Implemented structures: Linked lists (singly, doubly, circular), stacks, queues, trees (binary trees, binary search trees, AVL trees), heaps, hash tables, graphs.
+
+--	Algorithms:
+
+These are step-by-step procedures or sets of rules used to solve specific problems or perform computations on data. Key algorithms include:
+
+	--	Searching algorithms: Linear search, binary search.
+
+	--	Sorting algorithms: Bubble sort, insertion sort, merge sort, quicksort.
+
+	--	Graph algorithms: Breadth-First Search (BFS), Depth-First Search (DFS), Dijkstra's algorithm, Prim's algorithm, Kruskal's algorithm.
+
+	--	Other algorithms: Recursion, dynamic programming, greedy algorithms, backtracking.
+
+Importance of DSA in Python:
+
+--	Efficient Problem Solving:
+
+Understanding DSA allows you to choose the most appropriate data structure and algorithm for a given problem, leading to more efficient and optimized solutions.
+
+--	Code Optimization:
+
+Proper use of DSA can significantly reduce the time and space complexity of your code, improving performance.
+
+--	Interview Preparation:
+
+DSA is a core component of technical interviews for software development roles.
+
+--	Building Scalable Applications:
+
+Well-designed data structures and algorithms are essential for creating scalable and maintainable software systems.
+
+Learning DSA in Python:
+
+Learning DSA in Python often involves:
+
+--	Understanding Theoretical Concepts: Grasping the principles behind various data structures and algorithms.
+
+--	Implementing in Python: Writing code to implement these concepts from scratch or using built-in Python features and libraries.
+
+--	Analyzing Time and Space Complexity: Evaluating the efficiency of algorithms using Big O notation.
+
+--	Solving Practice Problems: Applying DSA knowledge to solve real-world coding challenges.
+
+
+
+
+
+Lists
+
+--	A list is a built-in data structure in Python, used to store multiple elements.
+
+--	Lists are used by many algorithms.
+
+
+
+
+
+Time Complexity
+
+
+
+When exploring algorithms, we often look at how much time an algorithm takes to run relative to the size of the data set.
+
+In the example above, the time the algorithm needs to run is proportional, or linear, to the size of the data set. This is because the algorithm must visit every array element one time to find the lowest value. The loop must run 5 times since there are 5 values in the array. And if the array had 1000 values, the loop would have to run 1000 times.
+
+Try the simulation below to see this relationship between the number of compare operations needed to find the lowest value, and the size of the array.
+
+See <a href="https://www.w3schools.com/dsa/dsa_timecomplexity_theory.php">this page</a> for a more thorough explanation of what time complexity is.
+
+Each algorithm in this tutorial will be presented together with its time complexity.
+
+
+
+Stacks
+
+A stack is a data structure that can hold many elements, and the last element added is the first one to be removed.
+
+Like a pile of pancakes, the pancakes are both added and removed from the top. So when removing a pancake, it will always be the last pancake you added. This way of organizing elements is called LIFO: Last In First Out.
+
+Basic operations we can do on a stack are:
+
+--	Push: Adds a new element on the stack.
+
+--	Pop: Removes and returns the top element from the stack.
+
+--	Peek: Returns the top (last) element on the stack.
+
+--	isEmpty: Checks if the stack is empty.
+
+--	Size: Finds the number of elements in the stack.
+
+Stacks can be implemented by using arrays or linked lists.
+
+Stacks can be used to implement undo mechanisms, to revert to previous states, to create algorithms for depth-first search in graphs, or for backtracking.
+
+A reason for using linked lists to implement stacks:
+
+--	Dynamic size: The stack can grow and shrink dynamically, unlike with arrays.
+
+Reasons for not using linked lists to implement stacks:
+
+--	Extra memory: Each stack element must contain the address to the next element (the next linked list node).
+
+--	Readability: The code might be harder to read and write for some because it is longer and more complex.
+
+
+
+Common Stack Applications
+
+Stacks are used in many real-world scenarios:
+
+--	Undo/Redo operations in text editors
+
+--	Browser history (back/forward)
+
+--	Function call stack in programming
+
+--	Expression evaluation
+
+Queues
+
+Think of a queue as people standing in line in a supermarket.
+
+The first person to stand in line is also the first who can pay and leave the supermarket.
+
+Basic operations we can do on a queue are:
+
+--	Enqueue: Adds a new element to the queue.
+
+--	Dequeue: Removes and returns the first (front) element from the queue.
+
+--	Peek: Returns the first element in the queue.
+
+--	isEmpty: Checks if the queue is empty.
+
+--	Size: Finds the number of elements in the queue.
+
+Queues can be implemented by using arrays or linked lists.
+
+Queues can be used to implement job scheduling for an office printer, order processing for e-tickets, or to create algorithms for breadth-first search in graphs.
+
+
+
+Reasons for using linked lists to implement queues:
+
+--	Dynamic size: The queue can grow and shrink dynamically, unlike with arrays.
+
+--	No shifting: The front element of the queue can be removed (enqueue) without having to shift other elements in the memory.
+
+Reasons for not using linked lists to implement queues:
+
+--	Extra memory: Each queue element must contain the address to the next element (the next linked list node).
+
+--	Readability: The code might be harder to read and write for some because it is longer and more complex.
+
+
+
+Common Queue Applications
+
+Queues are used in many real-world scenarios:
+
+--	Task scheduling in operating systems
+
+--	Breadth-first search in graphs
+
+--	Message queues in distributed systems
+
+
+
+Linked Lists vs Arrays
+
+The easiest way to understand linked lists is perhaps by comparing linked lists with arrays.
+
+Linked lists consist of nodes, and is a linear data structure we make ourselves, unlike arrays which is an existing data structure in the programming language that we can use.
+
+Nodes in a linked list store links to other nodes, but array elements do not need to store links to other elements.
+
+These are some key linked list properties, compared to arrays:
+
+--	Linked lists are not allocated to a fixed size in memory like arrays are, so linked lists do not require to move the whole list into a larger memory space when the fixed memory space fills up, like arrays must.
+
+--	Linked list nodes are not laid out one right after the other in memory (contiguously), so linked list nodes do not have to be shifted up or down in memory when nodes are inserted or deleted.
+
+--	Linked list nodes require more memory to store one or more links to other nodes. Array elements do not require that much memory, because array elements do not contain links to other elements.
+
+--	Linked list operations are usually harder to program and require more lines than similar array operations, because programming languages have better built in support for arrays.
+
+--	We must traverse a linked list to find a node at a specific position, but with arrays we can access an element directly by writing myArray[5].
+
+Types of Linked Lists
+
+There are three basic forms of linked lists:
+
+1)	Singly linked lists
+
+2)	Doubly linked lists
+
+3)	Circular linked lists
+
+
+
+A singly linked list is the simplest kind of linked lists. It takes up less space in memory because each node has only one address to the next node
+
+A doubly linked list has nodes with addresses to both the previous and the next node, like in the image below, and therefore takes up more memory. But doubly linked lists are good if you want to be able to move both up and down in the list.
+
+A circular linked list is like a singly or doubly linked list with the first node, the "head", and the last node, the "tail", connected.
+
+In singly or doubly linked lists, we can find the start and end of a list by just checking if the links are null. But for circular linked lists, more complex code is needed to explicitly check for start and end nodes in certain applications.
+
+Circular linked lists are good for lists you need to cycle through continuously.
+
+
+
+Linked List Operations
+
+Basic things we can do with linked lists are:
+
+1)	Traversal
+
+2)	Remove a node
+
+3)	Insert a node
+
+4)	Sort
+
+Traversal of a Linked List
+
+Traversing a linked list means to go through the linked list by following the links from one node to the next.
+
+Traversal of linked lists is typically done to search for a specific node, and read or modify the node's content, remove the node, or insert a node right before or after that node.
+
+To traverse a singly linked list, we start with the first node in the list, the head node, and follow that node's next link, and the next node's next link and so on, until the next address is null.
+
+Time Complexity of Linked Lists Operations
+
+Here we discuss time complexity of linked list operations, and compare these with the time complexity of the array algorithms that we have discussed previously in this tutorial.
+
+Remember that time complexity just says something about the approximate number of operations needed by the algorithm based on a large set of data (n), and does not tell us the exact time a specific implementation of an algorithm takes.
+
+This means that even though linear search is said to have the same time complexity for arrays as for linked list: O(n), it does not mean they take the same amount of time. The exact time it takes for an algorithm to run depends on programming language, computer hardware, differences in time needed for operations on arrays vs linked lists, and many other things as well.
+
+<a href="https://www.w3schools.com/python/python_dsa_linearsearch.asp">Linear search</a> for linked lists works the same as for arrays. A list of unsorted values are traversed from the head node until the node with the specific value is found. Time complexity is O(n).
+
+<a href="https://www.w3schools.com/python/python_dsa_binarysearch.asp">Binary search</a> is not possible for linked lists because the algorithm is based on jumping directly to different array elements, and that is not possible with linked lists.
+
+Sorting algorithms have the same time complexities as for arrays, and these are explained earlier in this tutorial. But remember, sorting algorithms that are based on directly accessing an array element based on an index, do not work on linked lists.
+
+Trees
+
+The Tree data structure is similar to <a href="https://www.w3schools.com/python/python_dsa_linkedlists.asp">Linked Lists</a> in that each node contains data and can be linked to other nodes.
+
+We have previously covered data structures like Arrays, Linked Lists, Stacks, and Queues. These are all linear structures, which means that each element follows directly after another in a sequence. Trees however, are different. In a Tree, a single element can have multiple 'next' elements, allowing the data structure to branch out in various directions.
+
+The Tree data structure can be useful in many cases:
+
+--	Hierarchical Data: File systems, organizational models, etc.
+
+--	Databases: Used for quick data retrieval.
+
+--	Routing Tables: Used for routing data in network algorithms.
+
+--	Sorting/Searching: Used for sorting data and searching for data.
+
+--	Priority Queues: Priority queue data structures are commonly implemented using trees, such as binary heaps.
+
+
+
+Types of Trees
+
+Trees are a fundamental data structure in computer science, used to represent hierarchical relationships. This tutorial covers several key types of trees.
+
+Binary Trees: Each node has up to two children, the left child node and the right child node. This structure is the foundation for more complex tree types like Binay Search Trees and AVL Trees.
+
+Binary Search Trees (BSTs): A type of Binary Tree where for each node, the left child node has a lower value, and the right child node has a higher value.
+
+AVL Trees: A type of Binary Search Tree that self-balances so that for every node, the difference in height between the left and right subtrees is at most one. This balance is maintained through rotations when nodes are inserted or deleted.
+
+Each of these data structures are described in detail on the next pages, including animations and how to implement them.
+
+
+
+
+
+Trees vs Arrays and Linked Lists
+
+Benefits of Trees over Arrays and Linked Lists:
+
+--	Arrays are fast when you want to access an element directly, like element number 700 in an array of 1000 elements for example. But inserting and deleting elements require other elements to shift in memory to make place for the new element, or to take the deleted elements place, and that is time consuming.
+
+--	Linked Lists are fast when inserting or deleting nodes, no memory shifting needed, but to access an element inside the list, the list must be traversed, and that takes time.
+
+--	Trees, such as Binary Trees, Binary Search Trees and AVL Trees, are great compared to Arrays and Linked Lists because they are BOTH fast at accessing a node, AND fast when it comes to deleting or inserting a node, with no shifts in memory needed.
+
+
+
+Binary Trees
+
+A Binary Tree is a type of tree data structure where each node can have a maximum of two child nodes, a left child node and a right child node.
+
+This restriction, that a node can have a maximum of two child nodes, gives us many benefits:
+
+--	Algorithms like traversing, searching, insertion and deletion become easier to understand, to implement, and run faster.
+
+--	Keeping data sorted in a Binary Search Tree (BST) makes searching very efficient.
+
+--	Balancing trees is easier to do with a limited number of child nodes, using an AVL Binary Tree for example.
+
+--	Binary Trees can be represented as arrays, making the tree more memory efficient.
+
+--	Types of Binary Trees
+
+--	There are different variants, or types, of Binary Trees worth discussing to get a better understanding of how Binary Trees can be structured.
+
+--	The different kinds of Binary Trees are also worth mentioning now as these words and concepts will be used later in the tutorial.
+
+--	Below are short explanations of different types of Binary Tree structures, and below the explanations are drawings of these kinds of structures to make it as easy to understand as possible.
+
+--	A balanced Binary Tree has at most 1 in difference between its left and right subtree heights, for each node in the tree.
+
+--	A complete Binary Tree has all levels full of nodes, except the last level, which is can also be full, or filled from left to right. The properties of a complete Binary Tree means it is also balanced.
+
+--	A full Binary Tree is a kind of tree where each node has either 0 or 2 child nodes.
+
+--	A perfect Binary Tree has all leaf nodes on the same level, which means that all levels are full of nodes, and all internal nodes have two child nodes.The properties of a perfect Binary Tree means it is also full, balanced, and complete.
+
+Binary Tree Traversal
+
+Going through a Tree by visiting every node, one node at a time, is called traversal.
+
+Since Arrays and Linked Lists are linear data structures, there is only one obvious way to traverse these: start at the first element, or node, and continue to visit the next until you have visited them all.
+
+But since a Tree can branch out in different directions (non-linear), there are different ways of traversing Trees.
+
+There are two main categories of Tree traversal methods:
+
+Breadth First Search (BFS) is when the nodes on the same level are visited before going to the next level in the tree. This means that the tree is explored in a more sideways direction.
+
+Depth First Search (DFS) is when the traversal moves down the tree all the way to the leaf nodes, exploring the tree branch by branch in a downwards direction.
+
+There are three different types of DFS traversals:
+
+--	pre-order
+
+--	in-order
+
+--	post-order
+
+
+
+Pre-order Traversal of Binary Trees
+
+Pre-order Traversal is a type of Depth First Search, where each node is visited in a certain order..
+
+Pre-order Traversal is done by visiting the root node first, then recursively do a pre-order traversal of the left subtree, followed by a recursive pre-order traversal of the right subtree. It's used for creating a copy of the tree, prefix notation of an expression tree, etc.
+
+This traversal is "pre" order because the node is visited "before" the recursive pre-order traversal of the left and right subtrees.
+
+The first node to be printed is node R, as the Pre-order Traversal works by first visiting, or printing, the current node (line 4), before calling the left and right child nodes recursively (line 5 and 6).
+
+The preOrderTraversal() function keeps traversing the left subtree recursively (line 5), before going on to traversing the right subtree (line 6). So the next nodes that are printed are 'A' and then 'C'.
+
+The first time the argument node is None is when the left child of node C is given as an argument (C has no left child).
+
+After None is returned the first time when calling C's left child, C's right child also returns None, and then the recursive calls continue to propagate back so that A's right child D is the next to be printed.
+
+The code continues to propagate back so that the rest of the nodes in R's right subtree gets printed.
+
+
+
+In-order Traversal of Binary Trees
+
+In-order Traversal is a type of Depth First Search, where each node is visited in a certain order.
+
+In-order Traversal does a recursive In-order Traversal of the left subtree, visits the root node, and finally, does a recursive In-order Traversal of the right subtree. This traversal is mainly used for Binary Search Trees where it returns values in ascending order.
+
+What makes this traversal "in" order, is that the node is visited in between the recursive function calls. The node is visited after the In-order Traversal of the left subtree, and before the In-order Traversal of the right subtree.
+
+The inOrderTraversal() function keeps calling itself with the current left child node as an argument (line 4) until that argument is None and the function returns (line 2-3).
+
+The first time the argument node is None is when the left child of node C is given as an argument (C has no left child).
+
+After that, the data part of node C is printed (line 5), which means that 'C' is the first thing that gets printed.
+
+Then, node C's right child is given as an argument (line 6), which is None, so the function call returns without doing anything else.
+
+After 'C' is printed, the previous inOrderTraversal() function calls continue to run, so that 'A' gets printed, then 'D', then 'R', and so on.
+
+
+
+Post-order Traversal of Binary Trees
+
+Post-order Traversal is a type of Depth First Search, where each node is visited in a certain order..
+
+Post-order Traversal works by recursively doing a Post-order Traversal of the left subtree and the right subtree, followed by a visit to the root node. It is used for deleting a tree, post-fix notation of an expression tree, etc.
+
+What makes this traversal "post" is that visiting a node is done "after" the left and right child nodes are called recursively.
+
+The postOrderTraversal() function keeps traversing the left subtree recursively (line 4), until None is returned when C's left child node is called as the node argument.
+
+After C's left child node returns None, line 5 runs and C's right child node returns None, and then the letter 'C' is printed (line 6).
+
+This means that C is visited, or printed, "after" its left and right child nodes are traversed, that is why it is called "post" order traversal.
+
+The postOrderTraversal() function continues to propagate back to previous recursive function calls, so the next node to be printed is 'D', then 'A'.
+
+Binary Search Trees
+
+A Binary Search Tree (BST) is a type of <a href="https://www.w3schools.com/python/python_dsa_binarytrees.asp">Binary Tree data structure</a>, where the following properties must be true for any node "X" in the tree:
+
+--	The X node's left child and all of its descendants (children, children's children, and so on) have lower values than X's value.
+
+--	The right child, and all its descendants have higher values than X's value.
+
+--	Left and right subtrees must also be Binary Search Trees.
+
+These properties makes it faster to search, add and delete values than a regular binary tree.
+
+To make this as easy to understand and implement as possible, let's also assume that all values in a Binary Search Tree are unique.
+
+The size of a tree is the number of nodes in it (n).
+
+A subtree starts with one of the nodes in the tree as a local root, and consists of that node and all its descendants.
+
+The descendants of a node are all the child nodes of that node, and all their child nodes, and so on. Just start with a node, and the descendants will be all nodes that are connected below that node.
+
+The node's height is the maximum number of edges between that node and a leaf node.
+
+A node's in-order successor is the node that comes after it if we were to do in-order traversal. In-order traversal of the BST above would result in node 13 coming before node 14, and so the successor of node 13 is node 14.
+
+
+
+Traversal of a Binary Search Tree
+
+Just to confirm that we actually have a Binary Search Tree data structure in front of us, we can check if the properties at the top of this page are true. So for every node in the figure above, check if all the values to the left of the node are lower, and that all values to the right are higher.
+
+Another way to check if a Binary Tree is BST, is to do an in-order traversal (like we did on the previous page) and check if the resulting list of values are in an increasing order.
+
+AVL Trees
+
+The only difference between a regular <a href="https://www.w3schools.com/python/python_dsa_binarysearchtrees.asp">Binary Search Tree</a> and an AVL Tree is that AVL Trees do rotation operations in addition, to keep the tree balance.
+
+A Binary Search Tree is in balance when the difference in height between left and right subtrees is less than 2.
+
+Graphs
+
+A Graph is a non-linear data structure that consists of vertices (nodes) and edges.
+
+F24BCAEDG
+
+A vertex, also called a node, is a point or an object in the Graph, and an edge is used to connect two vertices with each other.
+
+Graphs are non-linear because the data structure allows us to have different paths to get from one vertex to another, unlike with linear data structures like Arrays or Linked Lists.
+
+Graphs are used to represent and solve problems where the data consists of objects and relationships between them, such as:
+
+--	Social Networks: Each person is a vertex, and relationships (like friendships) are the edges. Algorithms can suggest potential friends.
+
+--	Maps and Navigation: Locations, like a town or bus stops, are stored as vertices, and roads are stored as edges. Algorithms can find the shortest route between two locations when stored as a Graph.
+
+--	Internet: Can be represented as a Graph, with web pages as vertices and hyperlinks as edges.
+
+--	Biology: Graphs can model systems like neural networks or the spread of diseases.
+
+
+
+Graph Representations
+
+A Graph representation tells us how a Graph is stored in memory.
+
+Different Graph representations can:
+
+--	take up more or less space.
+
+--	be faster or slower to search or manipulate.
+
+--	be better suited depending on what type of Graph we have (weighted, directed, etc.), and what we want to do with the Graph.
+
+--	be easier to understand and implement than others.
+
+Below are short introductions of the different Graph representations, but Adjacency Matrix is the representation we will use for Graphs moving forward in this tutorial, as it is easy to understand and implement, and works in all cases relevant for this tutorial.
+
+Graph representations store information about which vertices are adjacent, and how the edges between the vertices are. Graph representations are slightly different if the edges are directed or weighted.
+
+Two vertices are adjacent, or neighbors, if there is an edge between them.

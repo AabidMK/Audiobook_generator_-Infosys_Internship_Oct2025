@@ -1,0 +1,56 @@
+# text_embedding_generator_local.py
+import os
+import pandas as pd
+from sentence_transformers import SentenceTransformer
+
+class LocalTextEmbedder:
+    """
+    Generates embeddings for extracted text using a local SentenceTransformer model.
+    No API key required.
+    """
+    def __init__(self, model_name='all-MiniLM-L6-v2'):
+        print(f"✅ Loading local embedding model: {model_name}")
+        self.model = SentenceTransformer(model_name)
+
+    def process_file(self, extracted_text_file):
+        """
+        Reads text from a file, generates embeddings, and saves to CSV.
+        """
+        if not os.path.exists(extracted_text_file):
+            print(f"❌ File not found: {extracted_text_file}")
+            return
+
+        with open(extracted_text_file, 'r', encoding='utf-8') as f:
+            text_data = f.read().strip()
+
+        if not text_data:
+            print("⚠️ No text found in the file.")
+            return
+
+        # Split by paragraph or line
+        text_chunks = [line.strip() for line in text_data.split("\n") if line.strip()]
+        print(f"🧠 Generating embeddings for {len(text_chunks)} chunks...")
+
+        # Generate embeddings locally
+        embeddings = self.model.encode(text_chunks)
+
+        # Prepare DataFrame
+        df = pd.DataFrame({
+            "text": text_chunks,
+            "embedding": [emb.tolist() for emb in embeddings]
+        })
+
+        output_file = os.path.splitext(extracted_text_file)[0] + "_embeddings.csv"
+        df.to_csv(output_file, index=False)
+        print(f"✅ Embeddings saved to: {output_file}")
+
+
+if __name__ == "__main__":
+    print("\n==============================")
+    print("🧠 LOCAL TEXT EMBEDDING GENERATOR")
+    print("==============================\n")
+
+    file_path = input("📂 Enter path to extracted text file (e.g. Sample 2_extracted_text.txt): ").strip()
+    embedder = LocalTextEmbedder()
+    embedder.process_file(file_path)
+
