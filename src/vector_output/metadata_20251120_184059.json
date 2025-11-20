@@ -1,0 +1,15 @@
+{
+  "total_vectors": 102,
+  "vector_shape": [
+    102,
+    384
+  ],
+  "dimension": 384,
+  "conversion_timestamp": "2025-11-20T18:40:59.918172",
+  "files_created": [
+    "vector_output\\vectors_20251120_184059.pkl",
+    "vector_output\\vectors_20251120_184059.npy",
+    "vector_output\\vectors_20251120_184059.csv",
+    "vector_output\\metadata_20251120_184059.json"
+  ]
+}
