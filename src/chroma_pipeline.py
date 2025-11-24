@@ -5,17 +5,11 @@ import os
 
 class ChromaPipeline:
     def __init__(self):
-        """
-        Step 3.1: Initialize the complete pipeline
-        """
         self.vector_db = ChromaVectorDB()
         self.embedder = SentenceTransformer('all-MiniLM-L6-v2')
         print("🚀 ChromaDB Pipeline Initialized")
     
     def process_embedding_file(self, csv_file_path):
-        """
-        Step 3.2: Process embedding CSV and store in ChromaDB
-        """
         print(f"\n📁 PROCESSING: {csv_file_path}")
         print("=" * 50)
         
@@ -30,9 +24,6 @@ class ChromaPipeline:
         return success
     
     def demo_search(self, test_queries=None):
-        """
-        Step 3.3: Demonstrate search functionality
-        """
         if test_queries is None:
             test_queries = [
                 "machine learning",
@@ -59,9 +50,6 @@ class ChromaPipeline:
                 print("   No results found")
     
     def interactive_search(self):
-        """
-        Step 3.4: Interactive search interface
-        """
         count = self.vector_db.get_collection_info()
         if count == 0:
             print("❌ No vectors in database. Please process embedding files first.")
@@ -103,9 +91,6 @@ class ChromaPipeline:
                     print("❌ No results found. Try different keywords.")
     
     def batch_process_files(self, directory_path="."):
-        """
-        Step 3.5: Process all CSV files in a directory
-        """
         csv_files = [f for f in os.listdir(directory_path) 
                     if f.endswith('.csv') and 'embedding' in f.lower()]
         
@@ -122,24 +107,13 @@ class ChromaPipeline:
             self.process_embedding_file(file_path)
 
 def main():
-    """
-    Step 3.6: Main execution function
-    """
     pipeline = ChromaPipeline()
     
     print("🚀 CHROMADB AUDIOBOOK VECTOR DATABASE")
     print("=" * 60)
     
-    # Option 1: Process specific file
-    # pipeline.process_embedding_file("your_embedding_file.csv")
-    
-    # Option 2: Process all embedding files in current directory
     pipeline.batch_process_files()
-    
-    # Demo searches
     pipeline.demo_search()
-    
-    # Interactive search
     pipeline.interactive_search()
 
 if __name__ == "__main__":
