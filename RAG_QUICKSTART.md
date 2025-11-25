@@ -1,7 +1,17 @@
 # RAG Query Quick Start Guide
 
-## Setup (Run once per PowerShell session)
+## Setup
 
+The API key is automatically loaded from the `.env` file. No manual setup needed!
+
+If you need to update the API key, edit `.env`:
+```
+GOOGLE_API_KEY = "your-api-key-here"
+```
+
+### Alternative: Manual Setup (Optional)
+
+If you prefer to set it per PowerShell session:
 ```powershell
 .\setup_env.ps1
 ```

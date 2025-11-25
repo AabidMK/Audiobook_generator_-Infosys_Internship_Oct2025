@@ -2,9 +2,12 @@
 RAG with LangChain + ChromaDB + Gemini
 Following LangChain best practices for retrieval-augmented generation
 
+API Key: Automatically loaded from .env file (GOOGLE_API_KEY)
+
 Usage:
-    python rag_langchain.py --query "What is the objective?" --top-k 5
-    python rag_langchain.py --query "Explain the workflow" --top-k 3 --verbose
+    python rag_langchain.py --query "What is the objective?" --top-k 5 --use-native
+    python rag_langchain.py --query "Explain the workflow" --top-k 3 --use-native --verbose
+    python rag_langchain.py --query "What are the milestones?" --show-sources --use-native
 """
 
 import os
@@ -194,9 +197,14 @@ def main():
     
     args = parser.parse_args()
     
-    # Check API key
-    if not os.getenv("GOOGLE_API_KEY"):
-        logger.error("GOOGLE_API_KEY not set! Run: $env:GOOGLE_API_KEY = 'your-key'")
+    # Check API key (loaded from .env file)
+    api_key = os.getenv("GOOGLE_API_KEY")
+    if not api_key:
+        logger.error(
+            "GOOGLE_API_KEY not found in .env file!\n"
+            "Please add the following line to your .env file:\n"
+            "GOOGLE_API_KEY = \"your-api-key-here\""
+        )
         return
     
     try:

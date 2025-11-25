@@ -27,13 +27,19 @@ pip install -r requirements.txt
 
 ## Usage
 
+### Setup API Key
+
+The API key is stored in the `.env` file (already configured). No need to set it in terminal!
+
+If you need to update it, edit the `.env` file:
+```
+GOOGLE_API_KEY = "your-api-key-here"
+```
+
 ### Basic Query
 
 ```powershell
-# Set API key (required for every new session)
-$env:GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
-
-# Run query with native embeddings (recommended)
+# Simply run the query - API key loads automatically from .env
 python rag_langchain.py --query "What is the objective?" --top-k 3 --use-native
 ```
 
