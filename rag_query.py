@@ -23,6 +23,8 @@ import sys
 import textwrap
 from dataclasses import dataclass
 from typing import List, Tuple, Optional, Literal, Dict, Any
+from dotenv import load_dotenv
+load_dotenv()
 
 # Logging
 import logging
