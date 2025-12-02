@@ -1,68 +1,105 @@
 import os
 import csv
+import nltk
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 
-class LocalTextEmbedder:
+# Download tokenizer
+nltk.download('punkt', quiet=True)
+
+
+def chunk_text_with_sentence_overlap(text, max_chunk_chars=700, overlap_sentences=2):
     """
-    Generates embeddings for extracted text using a local SentenceTransformer model.
-    Splits text into limited-size chunks (default: 500 chars) and saves output as
-    a clean 2-column table: Text | Embedding
+    Creates chunks using full sentences with overlap.
+    No words cut. No sentence cutoff.
+    Overlap ensures smooth audiobook context.
     """
-    def __init__(self, model_name='all-MiniLM-L6-v2', chunk_size=500):
-        print(f" Loading local embedding model: {model_name}")
-        self.model = SentenceTransformer(model_name)
-        self.chunk_size = chunk_size
+    sentences = nltk.sent_tokenize(text)
 
-    def _split_into_chunks(self, text, chunk_size):
-        """Split large text into smaller chunks (<= chunk_size characters)."""
-        return [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
+    chunks = []
+    current_chunk = []
+    current_length = 0
 
-    def process_file(self, extracted_text_file):
-        if not os.path.exists(extracted_text_file):
-            print(f" File not found: {extracted_text_file}")
-            return
+    for sentence in sentences:
+        sent_len = len(sentence)
 
-        with open(extracted_text_file, 'r', encoding='utf-8') as f:
-            text_data = f.read().strip()
+        # If adding this sentence exceeds chunk limit → finalize current chunk
+        if current_length + sent_len > max_chunk_chars:
+            chunks.append(" ".join(current_chunk))
 
-        if not text_data:
-            print(" No text found in the file.")
-            return
+            # Apply overlap: keep last few sentences
+            current_chunk = current_chunk[-overlap_sentences:] if overlap_sentences > 0 else []
 
-        
-        text_lines = [line.strip() for line in text_data.split("\n") if line.strip()]
-        text_chunks = []
-        for line in text_lines:
-            if len(line) > self.chunk_size:
-                text_chunks.extend(self._split_into_chunks(line, self.chunk_size))
-            else:
-                text_chunks.append(line)
+            current_length = sum(len(s) for s in current_chunk)
 
-        print(f" Generating embeddings for {len(text_chunks)} text chunks...")
+        # Add next sentence
+        current_chunk.append(sentence)
+        current_length += sent_len
 
-        embeddings = self.model.encode(text_chunks)
+    # Add final chunk
+    if current_chunk:
+        chunks.append(" ".join(current_chunk))
 
-        df = pd.DataFrame({
-            "Text": text_chunks,
-            "Embedding": [", ".join([f"{x:.6f}" for x in emb]) for emb in embeddings]
-        })
-
-        output_file = os.path.splitext(extracted_text_file)[0] + "_embeddings_table.csv"
-        df.to_csv(output_file, index=False, quoting=csv.QUOTE_ALL, encoding='utf-8')
-
-        print("\n Embedding Table Preview:")
-        print(df.head().to_string(index=False))
-        print(f"\n Embeddings table saved successfully to: {output_file}")
+    return chunks
 
 
+def generate_embeddings(input_file, max_chunk_chars=700, overlap_sentences=2, model_name="all-MiniLM-L6-v2"):
+    """
+    Generates embeddings for clean audiobook-safe text chunks.
+    """
+    if not os.path.exists(input_file):
+        print("❌ File not found")
+        return
+
+    with open(input_file, "r", encoding="utf-8") as f:
+        text = f.read().strip()
+
+    if not text:
+        print("❌ Empty file")
+        return
+
+    print("\n📌 Splitting text (sentences + overlap)...")
+    chunks = chunk_text_with_sentence_overlap(
+        text,
+        max_chunk_chars=max_chunk_chars,
+        overlap_sentences=overlap_sentences
+    )
+
+    print(f"✅ Total chunks created: {len(chunks)}")
+
+    print("\n📌 Loading embedding model...")
+    model = SentenceTransformer(model_name)
+
+    print("\n📌 Generating embeddings...")
+    embeddings = model.encode(chunks, show_progress_bar=True)
+
+    df = pd.DataFrame({
+        "Text": chunks,
+        "Embedding": [", ".join([f"{v:.6f}" for v in e]) for e in embeddings]
+    })
+
+    output_file = os.path.splitext(input_file)[0] + "_embeddings.csv"
+    df.to_csv(output_file, index=False, quoting=csv.QUOTE_MINIMAL)
+
+    print(f"\n✅ CSV saved to: {output_file}")
+    print("\nSample Output:")
+    print(df.head())
+
+    return output_file
+
+
+# ---------------- MAIN RUNNER ----------------
 if __name__ == "__main__":
     print("\n==============================")
-    print("LOCAL TEXT EMBEDDING GENERATOR")
+    print(" AI AUDIOBOOK — EMBEDDING GENERATOR")
     print("==============================\n")
 
-    file_path = input(" Enter path to extracted text file (e.g. Sample_2_extracted_text.txt): ").strip()
-    embedder = LocalTextEmbedder(chunk_size=500)  # limit to 500 characters per chunk
-    embedder.process_file(file_path)
+    input_file = input("Enter extracted text file path: ").strip()
+    max_chunk_chars = int(input("Max chunk size (recommended 700): ").strip() or 700)
+    overlap_sentences = int(input("Overlap sentences (recommended 1–3): ").strip() or 2)
 
-
+    generate_embeddings(
+        input_file,
+        max_chunk_chars=max_chunk_chars,
+        overlap_sentences=overlap_sentences
+    )
