@@ -1,0 +1,44 @@
+Hello listeners, welcome! Today, we're diving into a fascinating area: a secure federated learning approach for stock and investment recommendations. We'll explore the problem of privacy in traditional investment platforms, understand the proposed methodology, identify the key tools and technologies involved, and outline the specific objectives and steps of this innovative project.
+
+Let's begin by looking at the structure of this project, which covers an introduction, a literature review, the proposed methodology, and a detailed identification of the tools, technologies, and algorithms used. Of course, we'll also go over the references that informed this work and the core project objectives.
+
+Regarding the specific tools and technologies, the project leverages several key frameworks and libraries. These include: TensorFlow Federated, PySyft, Scikit-learn, Pandas, and NumPy. The primary programming language for both modeling and implementation is Python.
+
+For ensuring robust privacy, the project incorporates various mechanisms. These include Secure Aggregation, Secure Multi-Party Computation, also known as SMPC, Homomorphic Encryption, and Federated Differential Privacy.
+
+The models used are a hybrid MLP–LSTM, which stands for Multi-Layer Perceptron – Long Short-Term Memory network, specifically for time-series prediction, and Collaborative Filtering for generating recommendations. The optimization algorithm employed for global model updates is Federated Averaging.
+
+The architecture is designed as a cloud client system, utilizing services like AWS or Oracle Cloud for distributed training.
+
+The foundational research for this project draws upon several important papers. Let's mention a few:
+Kumarappan, J. and colleagues, in their 2024 paper, "Federated Learning Enhanced MLP–LSTM Modeling for Stock Market Prediction," published in the International Journal of Computer and Information Systems.
+Zhang, Y. and colleagues, in their 2024 work, "Federated Meta Embedding Concept Stock Recommendation," featured in IEEE Transactions on Big Data.
+Kairouz, P. and colleagues, in their 2021 publication, "Advances and Open Problems in Federated Learning," found in Foundations and Trends in Machine Learning.
+And Li, T. and colleagues, in their 2023 paper, "Federated Learning for Privacy-Preserving Recommender Systems," from ACM Computing Surveys.
+
+This project was developed by Thota Sanjana, G.S.N. Murthy, N.G.M.S. Parikshit, and V. Bala Vardhan, from the GITAM School of Computer Science and Engineering, under the guidance of Andavarapu Sravani.
+
+Now, let's talk about the core problem this project addresses. Traditional investment platforms inherently risk privacy because they store user data centrally. Our framework, however, proposes a solution using secure federated learning. This approach keeps data on local devices, sharing only encrypted updates. It integrates Secure Multi-Party Computation and differential privacy to enable confidential, yet intelligent, investment recommendations, thereby significantly enhancing both trust and security.
+
+Recent studies have certainly explored various privacy-preserving techniques in financial forecasting. However, some key challenges still remain unaddressed. Let's look at some examples from the literature:
+Zhao and colleagues, in their 2023 study, demonstrated that deep learning improved accuracy, but it still risked privacy in centralized setups.
+Liu and colleagues, in their 2024 work, utilized federated learning for confidentiality, but their approach lacked strong encryption.
+Patel and colleagues, in 2024, added differential privacy, but this unfortunately resulted in reduced accuracy.
+Wang and colleagues, in their 2025 paper, developed a hybrid CNN–LSTM model that worked well, but it continued to use centralized data.
+And finally, Chen and colleagues, in their 2025 study, used secure aggregation, but they missed implementing multi-layer privacy.
+
+These findings highlight several important research gaps. First, current stock recommendation systems largely rely on centralized models, which inherently risk user data privacy. Second, very few systems combine federated learning with truly advanced techniques such as Secure Multi-Party Computation, differential privacy, and homomorphic encryption. Third, most existing approaches tend to ignore crucial factors like user sentiment and risk profiles when operating under privacy constraints. And finally, real-world testing on the scalability and trust aspects of these systems remains quite limited.
+
+With these challenges in mind, the project sets out to achieve four main objectives:
+The first objective is to develop a secure federated learning framework specifically for stock and investment recommendations.
+The second is to ensure data privacy through decentralized training and advanced encryption techniques.
+Third, the aim is to enhance model accuracy and personalization by using hybrid deep learning approaches.
+And the fourth objective is to implement a scalable cloud–client system capable of providing real-time financial insights.
+
+To achieve these objectives, the proposed methodology involves a series of steps:
+First, user financial and market data will be collected locally on individual devices.
+Next, MLP–LSTM and Collaborative Filtering models will be trained on each client device to generate personalized insights.
+Then, privacy-preserving techniques will be implemented. These include Secure Multi-Party Computation, Federated Differential Privacy, and Secure Aggregation.
+Following this, encrypted model updates from each client will be aggregated on a central cloud server to build a robust global model.
+After aggregation, the updated global model will then be distributed back to the client devices for improved predictions.
+Finally, the entire system's performance will be thoroughly evaluated based on accuracy, privacy, and scalability metrics.

@@ -1,0 +1,67 @@
+Hello listeners, welcome to this session, where we'll explore a comprehensive set of practice questions designed to sharpen your skills in C programming. Today, we'll dive deep into key concepts such as Arrays, Strings, Pointers, and Dynamic Memory Allocation. We'll cover everything from basic introductions to more advanced challenges, providing you with practical exercises to solidify your understanding.
+
+Let's begin with Arrays.
+
+First, under the **Introduction to Arrays**, we have a couple of questions.
+Question one: Write a C program to store and print the first ten natural numbers using an array.
+Question two: Explain the difference between declaring `int arr[10];` and `int *arr;` in terms of memory allocation.
+
+Next, we move to **Single-Dimensional Arrays**.
+Question one: Write a program to find the maximum and minimum elements in an array of 'n' integers.
+Question two: Write a program to reverse the elements of a one-dimensional array in place.
+Then, we have an Advanced challenge: Write a program to rotate an array by 'k' positions without using an extra array.
+Another Advanced challenge: Implement a binary search in a sorted array using recursion.
+
+Moving on to **Multidimensional Arrays**.
+Question one: Write a program to add two three-by-three matrices.
+Question two: Write a program to search for a specific element in a two-dimensional array.
+Here's an Advanced task: Implement matrix multiplication for two matrices of compatible dimensions.
+And another Advanced task: Write a program to find the transpose of a matrix in place.
+
+Now, let's shift our focus to **Strings in C**.
+
+Under the general topic of **Strings in C**.
+Question one: Write a program to count the number of vowels in a given string without using library functions.
+Question two: Explain the difference between a character array, written as `char str[]`, and a pointer to a character, written as `char *str`.
+
+Next, we look at **String Handling Functions**.
+Question one: Write a program to check whether a given string is a palindrome using the `strlen()` and `strcmp()` functions.
+Question two: Write a program to concatenate two strings using the `strcat()` function.
+For an Advanced challenge: Implement your own `strlen()`, `strcpy()`, and `strcmp()` functions without using the `string.h` library.
+
+Then, we have **Array of Strings**.
+Question one: Write a program to sort an array of five strings in alphabetical order.
+Question two: Write a program to search for a name in an array of names using the `strcmp()` function.
+And an Advanced challenge here: Write a program to find the longest string in an array of strings.
+
+Our next major topic is **Pointers**.
+
+Beginning with **Introduction to Pointers**.
+Question one: Write a program to demonstrate how a pointer can be used to access and modify the value of a variable.
+Question two: Explain what happens when you assign one pointer to another in C.
+
+Moving to **Pointer Arithmetic**.
+Question one: Write a program that uses pointer arithmetic to traverse and print an integer array.
+Question two: Write a program to copy elements from one array to another using only pointers.
+
+Next, we explore **Pointers and Arrays**.
+Question one: Write a program to find the sum of elements of an array using pointers.
+Question two: Write a program to reverse a string using pointers.
+
+Then, **Pointers and Strings**.
+Question one: Write a program to count the number of words in a string using pointers.
+Question two: Write a program to replace all spaces in a string with a hyphen, using pointers.
+
+And finally, for Pointers, we have **Pointers to Pointers**.
+Question one: Write a program to demonstrate accessing a two-dimensional array using a pointer to a pointer.
+Question two: Explain, with code examples, how `char **argv` works in the `main()` function for command-line arguments.
+Here's an Advanced challenge: Write a program to dynamically create a two-dimensional array using pointers to pointers and then free its memory.
+Another Advanced challenge: Implement a function that swaps two strings using pointers.
+
+Our last major section is **Dynamic Memory Allocation**.
+
+Focusing on `malloc`, `calloc`, `realloc`, and `free`.
+Question one: Write a program to dynamically allocate memory for 'n' integers using `malloc`, then take input for these integers, and print them.
+Question two: Write a program to read 'n' integers using `calloc`, then use `realloc` to increase the array's size by five, and finally, print the updated array.
+An Advanced challenge: Write a program to dynamically allocate memory for a matrix and perform matrix addition.
+And one more Advanced challenge: Implement a program to dynamically store multiple strings using `malloc` and ensure all allocated memory is freed at the end.

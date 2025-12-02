@@ -1,0 +1,15 @@
+transformers>=4.30.0
+torch>=2.0.0
+chromadb>=0.4.0
+TTS>=0.14.0
+sentencepiece
+fastapi
+uvicorn[standard]
+python-multipart
+sentence-transformers
+pillow
+pytesseract
+python-docx
+python-dotenv
+PyMuPDF
+tqdm
