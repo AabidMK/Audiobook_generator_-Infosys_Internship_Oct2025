@@ -21,7 +21,7 @@ try:
     import pytesseract
     # Try to set tesseract path for Windows
     try:
-        pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
+        pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
     except:
         pass
     tesseract_available = True
@@ -335,4 +335,8 @@ def get_file_info(uploaded_file) -> Dict[str, Any]:
         'size_kb': uploaded_file.size / 1024,
         'size_mb': uploaded_file.size / (1024 * 1024),
         'ocr_available': tesseract_available if file_ext in ['jpg', 'jpeg', 'png', 'bmp'] else None
+<<<<<<< HEAD
     }
+=======
+    }
+>>>>>>> 55a75703b89df40d381165c09e1ece7108077d96
