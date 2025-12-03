@@ -1,0 +1,287 @@
+Hello listeners, and welcome to this guide on Amazon Web Services storage.
+
+In this session, we’re going to take a deep dive into the world of AWS storage solutions. We'll start with the cornerstone service, the Simple Storage Service, also known as S3. We'll explore what it is, how it works, its key features, and the different storage classes it offers. We'll also touch on data protection, security, and see how S3 stacks up against its competitors.
+
+Then, we’ll move on to Amazon Glacier, a service designed for long-term archiving. We'll compare it directly with S3 to help you understand when to use each one. Finally, we’ll look at how S3 fits into the broader ecosystem with a quick comparison to EFS and EBS, and wrap up with a few questions to test your knowledge.
+
+Let's get started.
+
+...
+
+First up is the Simple Storage Service, or S3.
+
+Amazon S3 has a straightforward web services interface that you can use to store and retrieve any amount of data, at any time, from absolutely anywhere on the web.
+
+Think of Amazon S3 as storage for the Internet. It was specifically designed to make web-scale computing easier for developers. It gives any developer access to the exact same highly scalable, reliable, fast, and inexpensive data storage infrastructure that Amazon itself uses to run its own global network of websites.
+
+The whole point of the service is to maximize the benefits of scale... and then pass those benefits directly on to developers.
+
+...
+
+So, what are some of the core concepts of S3?
+
+Well, for starters, the data you store is spread across multiple devices and facilities, which is key to its durability. A simple way to think about S3 is as a place to store your photos or personal files.
+
+Technically, it's known as Object-Based Storage, and it offers what is essentially unlimited storage capacity.
+
+Your files are stored in containers called "Buckets," which are similar to folders. When you create a bucket, you have to give it a name, and that name must be unique globally. No one else in the world, across all AWS accounts, can have a bucket with the same name.
+
+A useful technical detail is that every time you successfully upload a file, you get an HTTP 200 code back, confirming the upload was successful.
+
+S3 is primarily used for a few key purposes.
+First, for storing and backing up data.
+Second, for application file hosting.
+Third, for media hosting, like videos and images.
+Next, for software delivery.
+And finally, for storing things like Amazon Machine Images, or AMIs, and snapshots.
+
+...
+
+When we talk about storing things in S3, we call them "Objects." These objects consist of a few key components.
+
+First, there's the **Key**. This is simply the file name of the object.
+
+Then, there's the **Value**. This is the actual data itself, which is made up of a sequence of bytes.
+
+Next is **Versioning**. This keeps track of which version of the object you're looking at, allowing you to keep multiple variants of the same file.
+
+And finally, we have **Meta Data**. This is data about the data you are storing. For example, if you're storing a music track, the metadata might include information about the singer, the year the song was released, the name of the album, and so on.
+
+...
+
+Now let's explore the rich feature set of S3.
+
+First, there are different **Storage classes**, which let you choose the right balance of cost and performance for your data.
+
+Next is **Storage management**. This includes several powerful features.
+There’s **Lifecycle** management, which lets you automatically move data between storage classes over time.
+There's **Object lock** to prevent objects from being deleted or overwritten.
+There’s **Replication**, which automatically copies your data to other regions.
+And there are **Batch operations**, allowing you to perform actions on billions of objects at once.
+
+Of course, a huge part of S3 is **Access management and security**.
+This includes features like...
+**Block public access**, a setting to prevent accidental public exposure of your data.
+**IAM**, which stands for Identity and Access Management, to control user access.
+**Bucket policies**, which are rules that apply to an entire bucket.
+**Access points**, which simplify managing data access at scale.
+**Access control lists**, for fine-grained control over individual objects.
+**Object ownership** settings.
+And the **Access analyser**, which helps you review and refine your access policies.
+
+S3 also has features for **Data processing**.
+This includes **Object Lambda**, which allows you to add your own code to S3 GET requests to modify and process data as it is retrieved.
+There are also **Event notifications**, which can trigger other AWS services when something happens in your S3 bucket, like a new file being uploaded.
+
+For **Storage logging and monitoring**, there are both automated and manual tools.
+The automated tools include CloudWatch and CloudTrail.
+The manual tools include server access logging and Trusted Advisor.
+
+And finally, S3 provides **Analytics and insights**.
+This includes **Storage Lens**, which gives you organization-wide visibility into your object storage usage.
+There’s also **Class analysis** to help you choose the right storage class.
+And **Inventory**, which provides a flat file list of your objects and their metadata.
+
+A key technical feature to be aware of is **Strong consistency**. This means that after you successfully write a new object or overwrite an existing one, any subsequent read request will immediately receive the latest version of that object.
+
+...
+
+Let's talk a bit more about those S3 Storage Classes.
+
+First, there's the standard **S3** class. This is for durable, immediately available, and frequently accessed data. It's your general-purpose, go-to storage class.
+
+Next, there's **S3 – IA**, which stands for Infrequently Accessed. This is also durable and immediately available, but it’s designed for data that you don't access very often.
+
+Then we have **S3 Reduced Redundancy Storage**, or RRS. This is used for data that is easily reproducible, like thumbnails for images.
+
+And the latest addition is **S3 Express One Zone**. This class offers up to 10 times faster access with reduced cost, making it ideal for performance-critical applications.
+
+...
+
+Diving a little deeper into those classes...
+
+**S3 – IA**, or Infrequently Accessed, is perfect for data you access less frequently but need rapid access to when you do. The storage cost here is lower than standard S3, but you are charged a fee for the retrieval of the data.
+
+**S3 – RRS**, or Reduced Redundancy Storage, offers a lower level of durability but with the same high level of availability. This is a good choice for data you could potentially regenerate. For example, think about a tax calculation or a payslip. Or, a classic use case is creating thumbnails for all your pictures. If you lose a thumbnail, you can always regenerate it from the original image. RRS is cheaper than the standard S3 class because of this trade-off.
+
+So, when you're deciding which storage to use, it's important to think about these different options. Consider their advantages and disadvantages. Are you trying to optimize for durability, for the frequency of retrieval, or for availability? Your answer will guide you to the right storage class.
+
+...
+
+So, how does Amazon S3 actually work under the hood?
+
+Amazon S3 is an object storage service. This is different from other types of cloud storage, such as block and file storage.
+
+With object storage, each object is stored as a file, and its metadata is included right there with it. The object is also given a unique ID number. Applications then use this ID number to access the object. This is unlike file and block storage, where a developer would typically access an object through a representational state transfer, or REST, API.
+
+The S3 service gives subscribers access to the very same systems that Amazon uses to run its own websites. S3 allows customers to upload, store, and download practically any file or object that is up to 5 terabytes in size. However, the largest single upload is capped at 5 gigabytes.
+
+And for security, every object stored in S3 is encrypted with a unique key.
+
+...
+
+To put it all together, Amazon S3 is object storage built to store and retrieve any amount of data from anywhere on the Internet.
+
+It’s a simple storage service that offers an extremely durable, highly available, and infinitely scalable data storage infrastructure at very low costs.
+
+Because S3 provides a simple web service interface, you can easily build applications that make use of this powerful Internet storage. And since S3 is highly scalable and you only pay for what you use, you can start small and grow your application as you wish, with no compromise on performance or reliability.
+
+...
+
+Now let's focus on protecting your data.
+
+It's important to know that data stored in Amazon S3 is secure by default. Amazon S3 also supports multiple access control mechanisms to give you precise control over your data.
+
+With S3’s data protection features, you can protect your data from both logical and physical failures. This guards against data loss from unintended user actions, application errors, and even infrastructure failures.
+
+For customers who must comply with regulatory standards, these data protection features can be used as part of an overall strategy to achieve that compliance.
+
+...
+
+Let’s look at some specific data security and reliability features offered by Amazon S3.
+
+First, there are **Audit Logs**.
+Amazon S3 supports logging of all requests made against your S3 resources. You can configure your bucket to create access log records for every request made against it. These server access logs capture all requests made to a bucket or the objects within it and can be used for auditing purposes. For more advanced monitoring, you can use **CloudWatch**, which collects metrics, logs, dashboards, and alarms. And there’s also **CloudTrail**, which records all API activity for governance, compliance, and auditing.
+
+Second, there is **Versioning**.
+Amazon S3 provides another layer of protection with its versioning capability. You can use versioning to preserve, retrieve, and restore every version of every object stored in your S3 bucket. This allows you to easily recover from both unintended user actions and application failures. By default, when you request an object, you’ll get the most recently written version. However, older versions of an object can be retrieved simply by specifying a version in your request.
+
+...
+
+Let's get into the details of data security.
+
+Amazon S3 provides four different access control mechanisms.
+They are: Identity and Access Management, or IAM, policies; Access Control Lists, or ACLs; bucket policies; and query string authentication.
+
+Let's break those down.
+
+**IAM**, or Identity and Access Management, enables organizations with multiple employees to create and manage multiple users under a single AWS account. With IAM policies, you can grant these users very fine-grained control to your Amazon S3 bucket or objects.
+
+Next, you can use **ACLs**, or Access Control Lists, to selectively grant certain permissions on individual objects.
+
+**Amazon S3 Bucket Policies** can be used to add or deny permissions across some or even all of the objects within a single bucket.
+
+And finally, with **Query string authentication**, you have the ability to share Amazon S3 objects through URLs that are only valid for a predefined expiration time. This is great for providing temporary access to files.
+
+...
+
+Of course, Amazon S3 isn't the only player in the game. Let's look at some competitor services.
+
+Comparable object storage services are offered by other major cloud service providers, like Google, Microsoft, IBM, and Alibaba. The main competitor services to Amazon S3 include:
+
+Google Cloud Storage...
+Azure Blob storage...
+IBM Cloud Object Storage...
+DigitalOcean Spaces...
+Alibaba Cloud Object Storage Service, also known as OSS...
+Cloudian...
+Zadara Storage...
+And Oracle Cloud Infrastructure Object Storage.
+
+...
+
+So, with all those options, what are the advantages of using Amazon S3?
+
+Amazon S3 is intentionally built with a minimal feature set that focuses on simplicity and robustness. Here are some of the key advantages:
+
+First, **Creating buckets**. You can easily create and name a bucket to store your data. Buckets are the fundamental containers in Amazon S3 for data storage.
+
+Second, **Storing data**. You can store a virtually infinite amount of data in a bucket. You can upload as many objects as you like into an S3 bucket, and each object can contain up to 5 terabytes of data. Each object is stored and retrieved using a unique, developer-assigned key.
+
+Third, **Downloading data**. You can download your data anytime you like, or you can enable others to do so as well.
+
+Fourth, **Permissions**. You can grant or deny access to others who want to upload or download data into your S3 bucket. You can grant these permissions to three types of users, and the authentication mechanisms help keep your data secure from unauthorized access.
+
+And finally, **Standard interfaces**. S3 uses standards-based REST and SOAP interfaces, which are designed to work with any internet-development toolkit.
+
+...
+
+Now let's shift gears and talk about another important storage service: Amazon Glacier.
+
+S3 Glacier is an extremely low-cost storage service that provides durable storage with strong security features, specifically for data archiving and backup.
+
+With S3 Glacier, customers can store their data very cost-effectively for months, years, or even decades.
+
+S3 Glacier enables customers to offload the administrative burdens of operating and scaling storage to AWS. This means they don't have to worry about capacity planning, hardware provisioning, data replication, hardware failure detection and recovery, or time-consuming hardware migrations.
+
+For more details on this topic, a good resource is the article "Getting started using the Amazon S3 Glacier storage classes" on the Amazon Web Services website.
+
+...
+
+So, when would a developer use a service like Amazon Glacier?
+
+A developer uses what's known as a "cold data" cloud service like Glacier to move infrequently accessed data to archival storage. The primary reason is to save money on storage costs. For example, a developer might move old database backups from tape storage media into the cloud for long-term storage in Glacier.
+
+The key concepts in Glacier are **Archives** and **Vaults**.
+
+Amazon Glacier stores data in these archives and vaults. A **vault** is simply a container for storing archives. An **archive** is a block of data that might consist of a single file, or it could be aggregated data, like in a TAR or a zip file.
+
+Glacier archives can range in size from just 1 byte all the way up to 40 terabytes. There are no limits to how much data or how many archives an AWS user can store in Glacier. For archives that are over 100 megabytes, Amazon offers a multipart upload feature for higher throughput and reliability.
+
+...
+
+Now, let's compare S3 and Glacier side-by-side to make the differences clear.
+
+On one hand, Amazon S3 is a durable, secure, simple, and fast storage service. On the other, Amazon Glacier is used for archiving solutions.
+
+S3 offers excellent support for Identity and Access Management, which ensures that your objects are only used by the intended audience. Glacier, in contrast, is all about the cheap storage of backup data. In Glacier, users create archives and vaults, not buckets.
+
+With S3, the entire service is accessible through commands and an API. This makes integration and orchestration of S3 services really easy and automated. Glacier, meanwhile, can be used as part of the entire suite of tools from Amazon, without requiring you to leave the familiar technology stack.
+
+Finally, S3 has incredibly good reliability and durability to make sure all your requests are successfully fulfilled and your objects are always safe. Accessing data stored in Glacier, however, is slow. That shouldn't be a surprise given its purpose as an archive, but it is an important distinction.
+
+...
+
+Continuing our comparison of S3 and Glacier...
+
+S3's service and user interface are easy to understand. It takes almost no learning curve to start using the service. For Glacier, retrieving a large amount of data can be expensive. Its intended use is as an archive for rarely-accessed data.
+
+Some users even regard Glacier with a bit of fear and uncertainty. This is because the slow retrieval time and potentially high retrieval cost are the greatest risks of using Glacier, and they are also the aspects of Glacier that most users have the least experience with.
+
+S3, on the other hand, is very cost-effective for the amount of flexibility it provides.
+
+For more on this comparison, you can also check out the article on the Tutorials Dojo website titled "Amazon S3 vs Glacier".
+
+...
+
+Let's talk about a powerful feature that brings S3 and Glacier together: S3 Lifecycle Management.
+
+Using Amazon S3 lifecycle configuration rules, you can significantly reduce your storage costs. You do this by automatically transitioning data from one storage class to another, or even automatically deleting data after a certain period of time.
+
+For example, a common lifecycle rule for backup data might look like this:
+First, you store the backup data initially in Amazon S3 Standard.
+Then, after 30 days, the data automatically transitions to Amazon Standard-IA, the infrequently accessed class.
+After 90 days, it transitions again, this time to Amazon Glacier for long-term archiving.
+And finally, after 3 years, the data is automatically deleted.
+
+These lifecycle configurations are attached directly to the bucket, and they can apply to all objects in the bucket or only to objects that match a specific prefix.
+
+...
+
+To round out our understanding of storage, let's do a quick comparison of three key AWS services: EFS, EBS, and S3.
+
+Let’s look at them by feature.
+
+For **Type**: EFS is file storage. EBS is block storage. And S3 is object storage.
+
+For **Access**: EFS can be accessed by multiple EC2 instances at the same time. EBS can only be attached to a single EC2 instance in the same availability zone. And S3 is accessed over the web.
+
+For **Use Case**: EFS is ideal for shared file systems. EBS is typically used for databases or as the root operating system volume for an EC2 instance. And S3 is perfect for backups, media files, and big data.
+
+And finally, for **Protocol**: EFS uses the NFS protocol. EBS is attached as a volume to an instance. And S3 uses a REST API.
+
+...
+
+Now, to wrap things up and help solidify your understanding, here are a few questions to consider.
+
+First... why is EBS preferred over instance store volumes for running a database on an EC2 instance when you need persistent storage?
+
+Second... a university needs to archive student records for 10 years. How does Amazon Glacier help in achieving cost-effective long-term storage?
+
+And third... why would you choose Amazon EFS over either EBS or S3 when multiple EC2 instances need to access the same set of files simultaneously?
+
+...
+
+For more in-depth information on these topics, you can check out the official AWS documentation, as well as resources from sites like Educative.io and TechTarget.
+
+Thank you for listening.
