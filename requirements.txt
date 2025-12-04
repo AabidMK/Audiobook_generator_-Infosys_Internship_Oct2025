@@ -1,0 +1,6 @@
+flask
+python-docx
+PyPDF2
+werkzeug
+requests
+gunicorn
