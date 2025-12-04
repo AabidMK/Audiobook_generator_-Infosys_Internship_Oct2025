@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Extracted and Enriched Texts
+extracted_texts/
+enriched_texts/
+
+# Temporary uploads
+temp_uploads/
+audio_output/
+embeddings/
+vector_store/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
