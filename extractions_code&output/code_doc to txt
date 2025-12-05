@@ -1,0 +1,26 @@
+import docx
+import tkinter as tk
+from tkinter import filedialog
+import os
+
+os.makedirs("extracted_texts", exist_ok=True)
+
+root = tk.Tk()
+root.withdraw()
+file_path = filedialog.askopenfilename(title="Select a DOCX file")
+
+ext = os.path.splitext(file_path)[1].lower()
+if ext != ".docx":
+    print("Unsupported file type.")
+    exit()
+
+output_name = os.path.basename(file_path).replace(ext, ".txt")
+output_path = os.path.join("extracted_texts", output_name)
+
+doc = docx.Document(file_path)
+text = "\n".join(p.text for p in doc.paragraphs)
+
+with open(output_path, "w", encoding="utf-8") as f:
+    f.write(text)
+
+print(f"Text saved to {output_path}")
