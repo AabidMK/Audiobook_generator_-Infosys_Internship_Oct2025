@@ -1,0 +1,10 @@
+# [file name]: requirements.txt
+# [file content begin]
+streamlit>=1.18.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pyttsx3>=2.90
+openai>=0.27.0
+numpy>=1.21.0
+pydub>=0.25.1
+# [file content end]
