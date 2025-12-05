@@ -1,0 +1,24 @@
+# Core dependencies
+streamlit>=1.28.0
+Pillow>=10.0.0
+
+# PDF extraction
+pdfplumber>=0.10.0
+
+# Word document extraction
+python-docx>=1.1.0
+
+# Image OCR
+pytesseract>=0.3.10
+
+# Optional fallback dependencies
+PyPDF2>=3.0.0
+docx2txt>=0.8
+
+# Text enrichment (Gemini API)
+google-generativeai>=0.8.0
+
+# Note: For Tesseract OCR, also install:
+# Windows: https://github.com/UB-Mannheim/tesseract/wiki
+# Ubuntu: sudo apt-get install tesseract-ocr
+# Mac: brew install tesseract
