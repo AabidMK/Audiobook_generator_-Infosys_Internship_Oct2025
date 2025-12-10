@@ -9,9 +9,10 @@ Output : enriched_output.txt
 
 import logging
 import os
+import re
 from pathlib import Path
 import textwrap
-from google import genai
+import google.generativeai as genai
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -38,8 +39,19 @@ class TextEnrichment:
                 "   or export GOOGLE_API_KEY=\"your_api_key_here\" (Mac/Linux)"
             )
 
-        self.client = genai.Client(api_key=api_key)
+        genai.configure(api_key=api_key)
         self.model_name = model_name
+
+    def clean_enriched_text(self, text: str) -> str:
+        """
+        Cleans Gemini output for TTS.
+        Removes markdown, symbols, and short heading lines.
+        """
+        text = text.replace("’", "'").replace("“", '"').replace("”", '"').replace("—", "-")
+        text = re.sub(r"[*_/\\#^~`<>|]", " ", text)
+        text = re.sub(r"\s+", " ", text).strip()
+        lines = [line.strip() for line in text.splitlines() if len(line.strip().split()) > 3]
+        return " ".join(lines)
 
     def enrich_text(self, input_text: str) -> str:
         """
@@ -57,17 +69,16 @@ class TextEnrichment:
         full_prompt = f"{system_prompt}\n\nText to enrich:\n{input_text}"
 
         try:
-            response = self.client.models.generate_content(
-                model=self.model_name,
-                contents=full_prompt,  # Simple string format
-                config={
-                    "temperature": 0.7
-                }
+            model = genai.GenerativeModel(self.model_name)
+            response = model.generate_content(
+                full_prompt,
+                generation_config={"temperature": 0.7},
             )
 
             enriched_text = response.text.strip()
             logging.info("✅ Successfully received enriched text from Gemini.")
-            return enriched_text
+            return self.clean_enriched_text(enriched_text)
+
         except Exception as e:
             logging.error(f"❌ Gemini API call failed: {e}")
             return ""
@@ -112,6 +123,7 @@ class TextEnrichment:
 
         if enriched_chunks:
             enriched_text = "\n\n".join(enriched_chunks)
+            enriched_text = self.clean_enriched_text(enriched_text)
             with open(output_path, "w", encoding="utf-8") as f:
                 f.write(enriched_text)
             logging.info(f"✅ Enriched text saved to {output_path}")

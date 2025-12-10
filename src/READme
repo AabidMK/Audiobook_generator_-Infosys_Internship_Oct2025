@@ -1,0 +1,58 @@
+# For text_enrichment terminal:
+(.venv) PS C:\Users\SWATI\OneDrive\Desktop\AIaudioBook> pip install -U google-generativeai
+Collecting google-generativeai
+  Downloading google_generativeai-0.8.5-py3-none-any.whl (155 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 155.4/155.4 kB 4.7 MB/s eta 0:00:00
+Requirement already satisfied: ..........
+(.venv) PS C:\Users\SWATI\OneDrive\Desktop\AIaudioBook> pip install python-dotenv                                                           
+Collecting python-dotenv                                                                                                                    
+  Downloading python_dotenv-1.2.1-py3-none-any.whl (21 kB)
+Installing collected packages: python-dotenv
+Successfully installed python-dotenv-1.2.1
+
+[notice] A new release of pip available: 22.3.1 -> 25.3
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+#Successfull : 
+Google Generative AI version: 0.8.5
+INFO: 🚀 Starting automatic Gemini text enrichment...
+INFO: Enriching text from 'extracted_output.txt' using Gemini API...
+INFO: Processing chunk 1/1...
+INFO: ✅ Successfully received enriched text from Gemini.
+INFO: ✅ Enriched text saved to C:\Users\SWATI\OneDrive\Desktop\AIaudioBook\enriched_output.txt
+INFO: 🎉 Text enrichment complete!
+
+
+# For text_to_speech terminal: 
+PS C:\Users\SWATI\OneDrive\Desktop\AIaudioBook> py --list             
+ -V:3.13 *        Python 3.13 (64-bit)
+ -V:3.10          Python 3.10 (64-bit)
+PS C:\Users\SWATI\OneDrive\Desktop\AIaudioBook> py -3.10 -m venv .venv
+PS C:\Users\SWATI\OneDrive\Desktop\AIaudioBook> python --version
+Python 3.13.1
+PS C:\Users\SWATI\OneDrive\Desktop\AIaudioBook> py -3.10 -m venv .venv
+>> .\.venv\Scripts\activate
+(.venv) PS C:\Users\SWATI\OneDrive\Desktop\AIaudioBook> python --version                                                   
+Python 3.10.9
+(.venv) PS C:\Users\SWATI\OneDrive\Desktop\AIaudioBook> where python
+
+#Install Coqui TTS :
+(.venv) PS C:\Users\SWATI\OneDrive\Desktop\AIaudioBook> pip install torch torchaudio soundfile                             
+>> pip install TTS
+Collecting torch
+  Downloading torch-2.9.0-cp310-cp310-win_amd64.whl (109.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 109.3/109.3 MB 3.8 MB/s eta 0:00:00
+Collecting torchaudio
+  Downloading torchaudio-2.9.0-cp310-cp310-win_amd64.whl (663 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 663.9/663.9 kB 21.1 MB/s eta 0:00:00
+Collecting soundfile
+  Downloading soundfile-0.13.1-py2.py3-none-win_amd64.whl (1.0 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.0/1.0 MB 5.9 MB/s eta 0:00:00
+Collecting jinja2
+  Downloading jinja2-3.1.6-py3-none-any.whl (134 kB) , ........ 
+
+  #Successfull :
+  > Processing time: 49.07772994041443
+ > Real-time factor: 0.6054050481487807
+INFO: ✅ Audio saved successfully at: C:\Users\SWATI\OneDrive\Desktop\AIaudioBook\audiobook_output.wav
+INFO: 🎉 TTS conversion complete!

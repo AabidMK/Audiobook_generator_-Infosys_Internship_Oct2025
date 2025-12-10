@@ -1,0 +1,37 @@
+A Brief Introduction to Artificial Intelligence
+What is AI and how is it going to shape the future
+By Dibbyo Saha, Undergraduate Student, Computer Science, Ryerson University
+
+What is Artificial Intelligence?
+
+Generally speaking, Artificial Intelligence is a computing concept that helps a
+machine think and solve complex problems as we humans do with our intelligence.
+For example, we perform a task, make mistakes and learn from our mistakes (At
+least the wise ones of us do!). Likewise, an AI or Artificial Intelligence is supposed
+to work on a problem, make some mistakes in solving the problem and learn from
+the problems in a self-correcting manner as a part of its self-improvement. Or in
+other words, think of this like playing a game of chess. Every bad move you make
+reduces your chances of winning the game. So, every time you lose against your
+friend, you try remembering the moves you made which you shouldn’t have and
+apply that knowledge in your next game and so on. Eventually, you get better and
+your precision, or in this case probability of winning or solving a problem improves by a noteworthy extent. AI is programmed to do something similar to
+that!
+
+A Brief History of AI
+The concept of Artificial Intelligence is not as modern as we think it is. This traces
+back to as early as 1950 when Alan Turing invented the Turing test. Then the first
+chatbot computer program, ELIZA, was created in the 1960s.
+IBM deep blue was
+a chess computer made in 1977 beat a world chess champion in two out of six
+games, one won by the champion and the other three games were draw.
+In 2011, Siri was announced as a digital assistant by Apple.
+Elon Musk and some others founded OpenAI in 2015.
+
+AI at Work Today! 
+ The most common examples of uses of Artificial Intelligence can be found today
+in smart personal assistants like Apple’s Siri and Amazon’s Alexa. People interact
+with these devices to command them on a daily basis and these devices use the
+commands as a part of their dataset to learn from. Another known example of
+Artificial Intelligence is the use of algorithms in Netflix. Netflix provides very
+much accurate and relevant suggestions of movies, tv series from our data which is
+created every time we stream or click on something in Netflix.
