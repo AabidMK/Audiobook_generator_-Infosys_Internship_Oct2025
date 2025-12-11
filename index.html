@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NarrateAI & Chat</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        gray: { 900: '#121212', 800: '#1e1e1e', 700: '#2d2d2d' },
+                        indigo: { 500: '#6366f1', 600: '#4f46e5' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .scrollbar-custom::-webkit-scrollbar { width: 8px; }
+        .scrollbar-custom::-webkit-scrollbar-track { background: #2d2d2d; }
+        .scrollbar-custom::-webkit-scrollbar-thumb { background: #4f46e5; border-radius: 4px; }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-200 font-sans h-screen flex flex-col overflow-hidden">
+
+    <header class="bg-gray-800 border-b border-gray-700 p-4 flex justify-between items-center shrink-0">
+        <h1 class="text-xl font-bold tracking-tight">Narrate<span class="text-indigo-500">AI</span></h1>
+    </header>
+
+    <main class="flex-1 flex flex-col md:flex-row overflow-hidden relative">
+
+        <section class="w-full md:w-5/12 bg-gray-800 p-6 flex flex-col border-r border-gray-700 relative">
+
+            <div id="upload-state" class="flex-1 flex flex-col justify-center items-center border-2 border-dashed border-gray-600 rounded-lg bg-gray-800/50 hover:bg-gray-700/50 transition-colors cursor-pointer p-8 text-center">
+                <h3 class="text-xl font-medium mb-2">Drop your book here</h3>
+                <p class="text-gray-400 text-sm mb-6">Support for PDF, DOCX, TXT.</p>
+                <input type="file" id="file-input" class="mb-4 text-sm text-gray-400 file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-sm file:font-semibold file:bg-indigo-600 file:text-white hover:file:bg-indigo-700">
+                <button onclick="startUpload()" class="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-2 px-6 rounded-full transition">
+                    Generate Audiobook
+                </button>
+            </div>
+
+            <div id="loading-state" class="hidden absolute inset-0 bg-gray-800/95 z-20 flex flex-col justify-center items-center p-8 backdrop-blur-sm">
+                <div class="w-16 h-16 border-4 border-indigo-500/30 border-t-indigo-500 rounded-full animate-spin mb-6"></div>
+                <h3 class="text-2xl font-bold mb-2">Processing...</h3>
+                <p id="loading-text" class="text-indigo-400 animate-pulse">Initializing...</p>
+                <div class="w-full max-w-sm bg-gray-700 rounded-full h-2.5 mt-6">
+                  <div id="progress-bar" class="bg-indigo-600 h-2.5 rounded-full" style="width: 0%"></div>
+                </div>
+            </div>
+
+            <div id="player-state" class="hidden flex-1 flex flex-col justify-center items-center">
+                <div class="w-48 h-64 bg-gradient-to-tr from-indigo-800 to-gray-700 rounded-lg shadow-2xl mb-6 flex items-center justify-center">
+                    <span class="text-4xl">🎧</span>
+                </div>
+                <h2 id="book-title" class="text-2xl font-bold truncate max-w-md text-center mb-2">Title</h2>
+                <audio id="audio-element" controls class="w-full max-w-md mb-4"></audio>
+                <a id="download-link" href="#" download class="text-indigo-400 text-sm hover:underline">Download MP3</a>
+            </div>
+        </section>
+
+        <section class="w-full md:w-7/12 bg-gray-900 flex flex-col">
+            <div class="bg-gray-800/50 p-4 border-b border-gray-800 flex justify-between items-center">
+                <h2 class="font-semibold">Book Assistant</h2>
+                <span id="rag-status" class="text-xs text-gray-500">Waiting for book...</span>
+            </div>
+
+            <div id="chat-history" class="flex-1 overflow-y-auto p-4 space-y-4 scrollbar-custom">
+                <div id="chat-placeholder" class="h-full flex flex-col items-center justify-center text-gray-500 opacity-50">
+                    <p>Upload a book to start chatting.</p>
+                </div>
+            </div>
+
+            <div class="bg-gray-800 p-4 border-t border-gray-700">
+                <div class="flex gap-2">
+                    <input type="text" id="chat-input" disabled placeholder="Ask something..." class="flex-1 bg-gray-900 border border-gray-700 text-gray-200 rounded-full py-3 px-6 focus:outline-none focus:border-indigo-500 disabled:opacity-50">
+                    <button onclick="sendChat()" id="send-btn" disabled class="bg-indigo-600 text-white p-3 rounded-full hover:bg-indigo-700 disabled:opacity-50">
+                        ➤
+                    </button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        async function startUpload() {
+            const fileInput = document.getElementById('file-input');
+            const file = fileInput.files[0];
+
+            if (!file) {
+                alert("Please select a file first.");
+                return;
+            }
+
+            // Switch to loading UI
+            document.getElementById('upload-state').classList.add('hidden');
+            document.getElementById('loading-state').classList.remove('hidden');
+
+            const formData = new FormData();
+            formData.append('file', file);
+
+            try {
+                // 1. Send file to backend
+                const response = await fetch('/upload', { method: 'POST', body: formData });
+                const data = await response.json();
+
+                if (data.error) throw new Error(data.error);
+                
+                // 2. Start polling for progress
+                console.log("Task ID received:", data.task_id);
+                pollStatus(data.task_id);
+
+            } catch (error) {
+                alert("Upload Error: " + error.message);
+                location.reload(); // Reset on error
+            }
+        }
+
+        function pollStatus(taskId) {
+            const interval = setInterval(async () => {
+                try {
+                    const response = await fetch(`/status/${taskId}`);
+                    
+                    if (response.status === 404) return; // Wait if task not ready yet
+                    
+                    const data = await response.json();
+
+                    // Update Progress Bar
+                    document.getElementById('progress-bar').style.width = data.progress + "%";
+                    document.getElementById('loading-text').innerText = data.message;
+
+                    if (data.status === 'completed') {
+                        clearInterval(interval);
+                        activatePlayer(data);
+                    } else if (data.status === 'error') {
+                        clearInterval(interval);
+                        alert("Processing Failed: " + data.message);
+                        location.reload();
+                    }
+                } catch (e) {
+                    console.error("Polling error:", e);
+                }
+            }, 2000); // Check every 2 seconds
+        }
+
+        function activatePlayer(data) {
+            // Hide loading, show player
+            document.getElementById('loading-state').classList.add('hidden');
+            document.getElementById('player-state').classList.remove('hidden');
+
+            // Setup Audio
+            document.getElementById('book-title').innerText = data.book_title;
+            const audio = document.getElementById('audio-element');
+            audio.src = data.audio_url;
+            document.getElementById('download-link').href = data.audio_url;
+
+            // Enable Chat
+            document.getElementById('chat-placeholder').classList.add('hidden');
+            document.getElementById('chat-input').disabled = false;
+            document.getElementById('send-btn').disabled = false;
+            
+            const ragStatus = document.getElementById('rag-status');
+            ragStatus.innerText = "RAG Active";
+            ragStatus.classList.remove('text-gray-500');
+            ragStatus.classList.add('text-green-500');
+        }
+
+        async function sendChat() {
+            const input = document.getElementById('chat-input');
+            const text = input.value.trim();
+            if (!text) return;
+
+            // Add User Message
+            const history = document.getElementById('chat-history');
+            history.innerHTML += `<div class="flex justify-end"><div class="bg-indigo-600 text-white rounded-lg p-3 max-w-md">${text}</div></div>`;
+            input.value = '';
+            history.scrollTop = history.scrollHeight;
+
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query: text })
+                });
+                const data = await response.json();
+
+                // Add AI Message
+                history.innerHTML += `<div class="flex justify-start"><div class="bg-gray-800 text-gray-200 rounded-lg p-3 max-w-md shadow-sm">${data.answer}</div></div>`;
+                history.scrollTop = history.scrollHeight;
+
+            } catch (error) {
+                history.innerHTML += `<div class="text-red-500 text-sm text-center">Error connecting to server.</div>`;
+            }
+        }
+        
+        // Allow Enter key to send
+        document.getElementById('chat-input').addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') sendChat();
+        });
+    </script>
+</body>
+</html>
