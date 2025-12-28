@@ -1,0 +1,29 @@
+Hello listeners, welcome to this reading of a professional profile... Today, we will be exploring the background, projects, achievements, and skills of an up-and-coming IT student... Get ready to hear about some really impressive work in artificial intelligence, machine learning, and blockchain technology!
+
+First, we have the contact information for Rushikesh Gore... You can reach him at the phone number plus nine one eight zero seven six six seven one one six... His email is rushikeshgoreudict at gmail dot com... You can also find him on LinkedIn at rushikeshgore98, or on GitHub at github dot com slash Rushi one three zero five.
+
+Now, let’s dive into his Professional Summary. Rushikesh is a final-year Information Technology student... He is highly skilled in Artificial Intelligence and Machine Learning, Java, Python, and blockchain technology. He has already developed a Real Estate Smart Contract using Solidity and the Remix Integrated Development Environment. Furthermore, he built a Smart Urban Waste Management platform that integrates frontend development with real-time geo-tagging capabilities. He possesses strong problem-solving skills and a real talent for teamwork... This is clearly demonstrated by his two state-level hackathon wins, along with several academic projects.
+
+Moving on to his Projects...
+
+First up is the Real Estate Management Smart Contract... This utilized Solidity, Ethereum, the Remix Integrated Development Environment, MetaMask, and Ganache. Through this project, he developed a decentralized platform for listing properties, handling rentals, and resolving disputes... It enabled transparent and tamper-proof rental transactions between landlords and tenants. He also implemented automated rent tracking, which included penalties, significantly reducing potential disputes. To simulate real-world workflows, he designed data structures analogous to standard SQL tables for managing properties, leases, and disputes.
+
+Next, we have the Green Hash – Smart Urban Waste Management Platform, which is currently in progress... This project uses React, vite, Tailwind CSS, Supabase, Google Authentication, and leaflet dot js. He developed a citizen-driven reporting system... In this system, waste reports are uploaded with photos, automatically geo-tagged, and displayed on a live interactive map... The goal here is to achieve over ninety percent accuracy in location tracking. This system enables real-time tracking of waste reports, promoting transparency and accountability. He also built an administrative dashboard so that municipal authorities can monitor and update reports efficiently. Ultimately, this platform provides data-driven insights to help identify waste-dense zones and optimize urban waste management strategies.
+
+Then there is the CREDX – Resume Analyzer Suite... This one uses Flask, Pandas, pdfplumber, and Chart dot js. He built an Artificial Intelligence-powered resume analyzer designed to evaluate Applicant Tracking System compatibility and offer personalized, role-based suggestions for skill improvement. The implementation included a text extraction and analysis pipeline using pdfplumber and Pandas, coupled with role-based skill matching. He developed a weighted scoring system that considers the summary, education, skills, experience, and Applicant Tracking System compliance, all visualized through interactive dashboards. This tool allows recruiters to perform bulk resume scanning, which has reduced manual screening time by seventy percent and improved candidate Applicant Tracking System pass rates.
+
+Let’s look at his Achievements...
+
+He was the winner of the First Prize at the PROTONOVA Hackathon in Chhatrapati Sambhajinagar in the year 2025. He also secured the First Prize at the SGGS Hackathon in Nanded. He won the Artificial Intelligence Hiring Challenge conducted by CredX Hackathon in 2025. His project was selected for the Regional Bootcamp in Mumbai for the Google Solution Challenge in 2024. Furthermore, he had idea selections for Smart India Hackathon in 2024 and 2025, and he has progressed in multiple national-level hackathons. On the learning side, he has earned over one hundred Microsoft Learn badges and completed more than twenty-five Infosys Springboard courses.
+
+Now for his Education...
+
+Rushikesh is attending Mahatma Gandhi Mission University in Chhatrapati Sambhajinagar, Maharashtra... He is pursuing his Bachelor of Technology in Information Technology, with an expected graduation date of June 2026... His current Grade Point Average is 8.10. Before university, he attended K.V. Aurangabad, shift one, in Maharashtra... He completed his Senior Secondary education there from May 2021 to May 2022, studying Physics, Chemistry, Mathematics, and Biology, and achieved a Grade A-plus on his twelfth-grade exams.
+
+Regarding Volunteering and Extracurricular Activities...
+
+He is a Team Member of the GDSC, the Google Developer Student Club... Through this role, he organized tech events and workshops, which enhanced his teamwork and event management experience. He was an Open Source Contributor for GSSOC, the GirlScript Summer of Code... This involved contributing to open-source projects, which greatly improved his coding and collaboration skills. Finally, as an NCC Cadet in the National Cadet Corps, he achieved the rank of Sergeant... He commanded troop parades and served as a company senior in camps, which developed his leadership and discipline.
+
+Finally, let’s review his Technical Skills...
+
+In terms of Languages and Databases, he is proficient in SQL, Java, Python, HTML five, CSS three, MySQL, and Supabase. For Libraries and Frameworks, he utilizes Pandas, NumPy, Matplotlib, pdfplumber, Seaborn, PyTorch, TensorFlow, Keras, Scikit-learn, and OpenCV. For Blockchain Development specifically, he is skilled in Solidity, Ethereum, the Remix Integrated Development Environment, MetaMask, and Ganache.

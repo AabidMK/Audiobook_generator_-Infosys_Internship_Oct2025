@@ -1,0 +1,54 @@
+--- Page 1 ---
+Rushikesh Gore
++919807667116| rushikeshgoreudict@gmail.com| Linkedin-rushikeshgore98 | github.com/Rushi1305
+ProfessionalSummary
+Final-year IT student skilled in AI/ML, Java, Python, and blockchain. Developed a Real Estate Smart
+Contract using Solidity and Remix IDE, and a Smart Urban Waste Management platform integrating
+frontend development and real-time geo-tagging. Strong problem-solving and teamwork abilities,
+demonstrated through 2× state-level hackathonwins andmultiple academicprojects.
+Projects
+RealEstateManagementSmartContract|Solidity,Ethereum,RemixIDE,MetaMask,Ganache|
+ Developed adecentralized platform for property listing, renting, and disputeresolution.
+ Enabled transparent, tamper-proof rental transactions between landlords and tenants.
+ Implemented automated rent tracking withpenalties, reducing disputes significantly.
+ Designed data structures analogous toSQLtables forproperties, leases, and disputes,simulating real-
+world property database workflows.
+Green Hash – Smart Urban Waste Management Platform (In Progress)| React, vite, tailwind css, Supabase,
+GoogleAuth,leaflet.js|
+ Developed acitizen-driven reporting system where waste is uploaded with photos, auto geo-tagging, and
+liveinteractivemapping, targeting 90%+ accuracy in location tracking.
+ Enabled real-timetracking of wastereports for transparency and accountability.
+ Built an admin dashboard for municipal authorities to monitorandupdate reports efficiently.
+ Providing data-driven insights to identify waste-dense zonesand optimizeurbanwaste management.
+CREDX-Resume-Analyzer-Suite|Flask,Pandas,pdfplumber,Chart.js|
+ Built an AI-powered resume analyzer toevaluate ATS compatibility and providepersonalized, role-
+based skill improvement suggestions.
+ Implemented textextraction & analysis pipeline(pdfplumber +pandas) with role-based skillmatching.
+ Developed aweighted scoring system (summary, education, skills,experience, ATScompliance) with
+interactivevisual dashboards.
+ Enabled bulk resume scanning forrecruiters, reducing manual screening timeby70%and improving
+candidate ATS pass rates.
+Achievements
+ Winner–First Prizeat PROTONOVA Hackathon, Ch. Sambhajinagar, 2025.
+ Winner–First Prizeat SGGS Hackathon, Nanded.
+ WontheAIHiring Challenge conducted by–CredXHackathon 2025.
+ Project selected for Regional Bootcamp, Mumbai –Google Solution Challenge2024.
+ SIH2024& 2025 ideaselection &progressed in multiplenational-level hackathons
+ 100+ Microsoft Learn badges, 25+Infosys Springboard courses.
+Education
+MahatmaGandhiMissionUniversity,Chh.Sambhajinagar(MH) June2022–June2026
+BachelorofTechnologyinInformationTechnology GPA:8.10
+K.V.Aurangabadshift1(MH)431002 May2021-May2022
+PCMB–SeniorSecondaryXII Grade:A+
+Volunteering& ExtracurricularActivities
+ GDSC(Google Developer StudentClub)–Team Member
+Organized tech events and workshops, enhancing teamwork and event management experience.
+ GSSOC(GirlScriptSummerof Code)–Open Source Contributor
+Contributedto open-source projects, improving coding and collaboration skills.
+ NCC(National Cadet Corp)Cadet –Sergeant, commanded troopparades and served as company
+seniorin camps —developed leadership and discipline.
+TechnicalSkill
+ LanguagesandDatabases: SQL, Java, Python, HTML5, CSS3,MySQL, Supabase.
+ Libraries and frameworks: Pandas, NumPy, Matplotlib, pdfplumber, Seaborn, PyTorch, TensorFlow,
+Keras, Scikit-learn, OpenCV.
+ BlockchainDevelopment:Solidity, Ethereum, Remix IDE, MetaMask, Ganache
