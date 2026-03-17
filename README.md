@@ -2,11 +2,7 @@
 
 Transform any document into professional-quality audiobooks using AI-powered text enhancement and intelligent document-based Q&A.
 
-## 🚀 Quick Start
-git clone https://github.com/yourusername/ai-audiobook-generator.git
-cd ai-audiobook-generator
-pip install -r requirements.txt
-streamlit run app.py
+
 
 ## ✨ Features
 
@@ -42,19 +38,7 @@ Click “Start Processing” to create the audiobook
 4.Ask Questions
 Use the Q&A tab to query your document intelligently
 
-## 📁 Project Structure
- ```bash
 
-ai-audiobook-generator/
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Project dependencies
-├── README.md               # Project documentation
-├── .streamlit/
-│   └── secrets.toml        # API keys and configuration
-
- ```
-
-## 🤝 Contributing
 
 1.Contributions are welcome! 🚀
 
